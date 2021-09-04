@@ -1,0 +1,349 @@
+
+---Downloaded files---
+The import files for: London Demo were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://demo-install.wpestate.org
+Data file = /home/wpestate/demo-install.wpestate.org/wp-content/themes/wpresidence/wpestate_templates/london-demo/theme_content.xml
+Widget file = /home/wpestate/demo-install.wpestate.org/wp-content/themes/wpresidence/wpestate_templates/london-demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+wpresidence_admin -> /home/wpestate/demo-install.wpestate.org/wp-content/themes/wpresidence/wpestate_templates/london-demo/redux_options.json 
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "appraisal-1.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "appraisal-1.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "appraisal-1.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "appraisal-1.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "appraisal-1.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "appraisal-1.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "house.svg" (Media)
+[ERROR] Failed to import "icon_bar.svg" (Media)
+[ERROR] Failed to import "evaluate.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+[ERROR] Failed to import "board.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "appraisal-1.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+Primary Widget Area : 
+
+Wp Estate: Featured Agent - No Title - Imported
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Mortgage - No Title - Imported
+Wp Estate: Featured Listing - No Title - Imported
+Wp Estate: Latest Listing  - Latest Listings - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Latest Listing  - Latest Listings - Imported
+Recent Posts - Recent Articles - Imported
+Search - Search - Imported
+
+First Footer Widget Area : 
+
+Text - About - Imported
+
+Second Footer Widget Area : 
+
+Wp Estate: Contact - Contact - Imported
+
+Third Footer Widget Area : 
+
+Wp Estate: Latest Listing  - Featured Properties - Imported
+
+Fourth Footer Widget Area : 
+
+Wp Estate: List Properties by Categories - Listings - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Top Bar Right Widget Area : 
+
+Custom HTML - No Title - Imported
+
+Sidebar Menu Widget Area - Before Menu : 
+
+Wp Estate: Featured Agent - No Title - Imported
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Mortgage - No Title - Imported
+Wp Estate: Featured Listing - No Title - Imported
+Wp Estate: Latest Listing  - Latest Listings - Imported
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Dashboard Top Bar Right Widget Area : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: wpresidence_admin finished successfully!
+
+---ocdi/after_import---
+

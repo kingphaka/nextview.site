@@ -1,0 +1,10 @@
+2021-08-23T03:25:22+00:00 CRITICAL Uncaught Error: Call to a member function show_cart() on null in /home/u643464181/domains/nextview.site/public_html/wp-content/themes/wpresidence/templates/top_user_menu.php:78
+Stack trace:
+#0 /home/u643464181/domains/nextview.site/public_html/wp-includes/template.php(772): require()
+#1 /home/u643464181/domains/nextview.site/public_html/wp-includes/template.php(716): load_template('/home/u64346418...', false, Array)
+#2 /home/u643464181/domains/nextview.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/u643464181/domains/nextview.site/public_html/wp-content/themes/wpresidence/libs/header_filter_functions.php(43): get_template_part('templates/top_u...')
+#4 /home/u643464181/domains/nextview.site/public_html/wp-content/themes/wpresidence/header.php(39): wpresidence_show_header_wrapper(Array, false)
+#5 /home/u643464181/domains/nextview.site/public_html/wp-includes/template.php(770): require_once('/home/u64346418...')
+#6 /home/u643464181/domains/nextview.sit in /home/u643464181/domains/nextview.site/public_html/wp-content/themes/wpresidence/templates/top_user_menu.php on line 78
+

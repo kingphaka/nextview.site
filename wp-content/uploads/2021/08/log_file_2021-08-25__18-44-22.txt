@@ -1,0 +1,109 @@
+
+---Downloaded files---
+The import files for: London Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://nextview.site
+Data file = /home/u643464181/domains/nextview.site/public_html/wp-content/themes/wpresidence/wpestate_templates/london-demo/theme_content.xml
+Widget file = /home/u643464181/domains/nextview.site/public_html/wp-content/themes/wpresidence/wpestate_templates/london-demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+wpresidence_admin -> /home/u643464181/domains/nextview.site/public_html/wp-content/themes/wpresidence/wpestate_templates/london-demo/redux_options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "icon1" (Media)
+[ERROR] Failed to import "icon2" (Media)
+[ERROR] Failed to import "icon3" (Media)
+
+
+---Importing widgets---
+Primary Widget Area : 
+
+Wp Estate: Featured Agent - No Title - Imported
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Mortgage - No Title - Imported
+Wp Estate: Featured Listing - No Title - Imported
+Wp Estate: Latest Listing  - Latest Listings - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Latest Listing  - Latest Listings - Imported
+Recent Posts - Recent Articles - Imported
+Search - Search - Imported
+
+First Footer Widget Area : 
+
+Text - About - Imported
+
+Second Footer Widget Area : 
+
+Wp Estate: Contact - Contact - Imported
+
+Third Footer Widget Area : 
+
+Wp Estate: Latest Listing  - Featured Properties - Imported
+
+Fourth Footer Widget Area : 
+
+Wp Estate: List Properties by Categories - Listings - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Top Bar Right Widget Area : 
+
+Custom HTML - No Title - Imported
+
+Sidebar Menu Widget Area - Before Menu : 
+
+Wp Estate: Featured Agent - No Title - Imported
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Mortgage - No Title - Imported
+Wp Estate: Featured Listing - No Title - Imported
+Wp Estate: Latest Listing  - Latest Listings - Imported
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Dashboard Top Bar Right Widget Area : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: wpresidence_admin finished successfully!
+
+---ocdi/after_import---
+

@@ -1,0 +1,64 @@
+
+---Downloaded files---
+The import files for: New York Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://nextview.site
+Data file = /home/u643464181/domains/nextview.site/public_html/wp-content/themes/wpresidence/wpestate_templates/ny-demo/theme_content.xml
+Widget file = /home/u643464181/domains/nextview.site/public_html/wp-content/themes/wpresidence/wpestate_templates/ny-demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+wpresidence_admin -> /home/u643464181/domains/nextview.site/public_html/wp-content/themes/wpresidence/wpestate_templates/ny-demo/redux_options.json 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Widget already exists
+Wp Estate: Latest Listing  - Latest Listings - Widget already exists
+Wp Estate: Mortgage - No Title - Widget already exists
+Wp Estate: Social Links - Social Links: - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Featured Agent - No Title - Imported
+Wp Estate: Contact - Contact - Imported
+Wp Estate: Advanced Search - Advanced Search - Widget already exists
+Wp Estate: Login &amp; Register - No Title - Imported
+
+First Footer Widget Area : 
+
+Text - About - Imported
+
+Second Footer Widget Area : 
+
+Wp Estate: Contact - Contact - Imported
+
+Third Footer Widget Area : 
+
+Wp Estate: Latest Listing  - Featured Listings - Imported
+
+Fourth Footer Widget Area : 
+
+Wp Estate: List Properties by Categories - Listings - Widget already exists
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Top Bar Right Widget Area : 
+
+Text - No Title - Imported
+Custom HTML - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: wpresidence_admin finished successfully!
+
+---ocdi/after_import---
+

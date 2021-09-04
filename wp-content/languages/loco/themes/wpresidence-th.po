@@ -1,0 +1,5218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpresidence\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wpresidence\n"
+"POT-Creation-Date: 2021-04-05T09:06:45+00:00\n"
+"PO-Revision-Date: 2021-07-15 07:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: ไทย\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.5.3; wp-5.7.2"
+
+#: templates/submit_templates/property_details.php:83
+#: templates/submit_templates/property_details.php:91
+msgid " (*only numbers)"
+msgstr "(* เฉพาะตัวเลข)"
+
+#: libs/3rdparty.php:132
+msgid " days ago"
+msgstr "วันที่ผ่านมา"
+
+#: libs/searchfunctions.php:2219 libs/searchfunctions.php:2376
+msgid " equal with "
+msgstr "เท่ากับ"
+
+#: libs/searchfunctions.php:2217 libs/searchfunctions.php:2372
+#: libs/searchfunctions.php:2406
+msgid " has"
+msgstr "มี"
+
+#: libs/3rdparty.php:128
+msgid " hours ago"
+msgstr "ชั่วโมงที่ผ่านมา"
+
+#: libs/css_js_include.php:555
+msgid " in "
+msgstr "ใน"
+
+#: libs/3rdparty.php:124
+msgid " minutes ago"
+msgstr "นาทีที่ผ่านมา"
+
+#: functions.php:384
+msgid " on "
+msgstr "บน"
+
+#: libs/3rdparty.php:257 libs/3rdparty.php:262
+msgid " package on "
+msgstr "แพคเกจ"
+
+#: libs/3rdparty.php:120
+msgid " seconds ago"
+msgstr "วินาทีที่ผ่านมา"
+
+#: libs/searchfunctions.php:2215 libs/searchfunctions.php:2368
+msgid " similar with "
+msgstr "คล้ายกับ"
+
+#: templates/submit_templates/property_images.php:144
+#: templates/submit_templates/property_images_new.php:159
+msgid " You can upload maximum %s images"
+msgstr "คุณสามารถอัปโหลดภาพ %s ได้สูงสุด"
+
+#: templates/places_unit_type2.php:103
+#: templates/places_unit_type2_elementor.php:62
+msgid "%d Listing"
+msgid_plural "%d Listings"
+msgstr[0] "%d รายการ"
+msgstr[1] ""
+
+#: templates/places_unit.php:89 templates/places_unit_elementor.php:60
+msgid "%d listing"
+msgid_plural "%d listings"
+msgstr[0] "%d รายการ"
+msgstr[1] ""
+
+#: libs/megamenu.php:165
+msgid "%s (Invalid)"
+msgstr " %s (ไม่ถูกต้อง)"
+
+#: libs/megamenu.php:168
+msgid "%s (Pending)"
+msgstr " %s (รอดำเนินการ)"
+
+#: libs/dashboard_functions.php:203
+msgid "%s agency %s"
+msgstr "%sตัวแทน%s"
+
+#: libs/dashboard_functions.php:200
+msgid "%s agent %s"
+msgstr "%sตัวแทน%s"
+
+#: libs/dashboard_functions.php:206
+msgid "%s developer %s"
+msgstr "%sนักพัฒนา%s"
+
+#: libs/dashboard_functions.php:197
+msgid "%s property %s"
+msgstr "%sคุณสมบัติ%s"
+
+#: comments.php:30
+msgid "&laquo; Older Comments"
+msgstr "«ความคิดเห็นเก่ากว่านี้"
+
+#: libs/dashboard_actions_functions.php:25
+#: templates/submit_templates/property_description.php:69
+msgid "(only numbers)"
+msgstr "(เฉพาะตัวเลข)"
+
+#: templates/submit_templates/property_images.php:127
+#: templates/submit_templates/property_images_new.php:142
+msgid ""
+"* At least 1 image is required for a valid submission.Minimum size is "
+"500/500px."
+msgstr ""
+"* ต้องมีรูปภาพอย่างน้อย 1 ภาพสำหรับการส่งที่ถูกต้องขนาดที่เหมาะสมคือ 500 / "
+"500px"
+
+#: templates/submit_templates/property_images.php:147
+#: templates/submit_templates/property_images_new.php:162
+msgid "** Double click on the image to select featured."
+msgstr "** ดับเบิ้ลคลิ๊กที่ภาพเพื่อเลือกแบบพิเศษ"
+
+#: templates/submit_templates/property_images.php:148
+#: templates/submit_templates/property_images_new.php:163
+msgid "*** Change images order with Drag & Drop."
+msgstr "*** เปลี่ยนลำดับภาพด้วยการลากและวาง"
+
+#: templates/submit_templates/property_images.php:149
+#: templates/submit_templates/property_images_new.php:164
+msgid "**** PDF files upload supported as well."
+msgstr "**** ไฟล์ PDF อัพโหลดสนับสนุนเช่นกัน"
+
+#: templates/submit_templates/property_images.php:150
+#: templates/submit_templates/property_images_new.php:165
+msgid "***** Images might take longer to be processed."
+msgstr "***** รูปภาพอาจใช้เวลานานกว่านี้"
+
+#: templates/submit_templates/property_location.php:82
+msgid "*Address"
+msgstr "* ที่อยู่"
+
+#: templates/dashboard-templates/add_new_agent.php:50
+#: templates/dashboard-templates/add_new_agent_template.php:391
+#: templates/dashboard-templates/user_profile.php:157
+#: templates/dashboard-templates/user_profile_agency.php:268
+#: templates/dashboard-templates/user_profile_agent.php:373
+#: templates/dashboard-templates/user_profile_developer.php:244
+msgid "*minimum 500px x 500px"
+msgstr "* ต่ำสุด 500px x 500px"
+
+#: libs/dashboard_actions_functions.php:7
+#: templates/submit_templates/property_description.php:11
+msgid "*Title (mandatory)"
+msgstr "* ชื่อ (บังคับ)"
+
+#: front_property_submit.php:758
+msgid "1. Description"
+msgstr "1. คำอธิบาย"
+
+#: front_property_submit.php:759
+msgid "2. Media"
+msgstr "2. สื่อ"
+
+#: front_property_submit.php:760
+msgid "3. Location"
+msgstr "3. สถานที่"
+
+#: front_property_submit.php:761
+msgid "4. Details"
+msgstr "4. รายละเอียด"
+
+#: front_property_submit.php:762
+msgid "5. Amenities"
+msgstr "5. สิ่งอำนวยความสะดวก"
+
+#: functions.php:338
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">←</span> โพสต์ที่เก่ากว่า"
+
+#: templates/property_cards_templates/property_card_details_type1.php:14
+msgid "<span class=\"property_details_type1_value\">%d</span> Bath"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Baths"
+msgstr[0] "%d ห้องน้ำ"
+msgstr[1] ""
+
+#: templates/property_cards_templates/property_card_details_type1.php:9
+msgid "<span class=\"property_details_type1_value\">%d</span> Room"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Rooms"
+msgstr[0] "%d ห้อง"
+msgstr[1] ""
+
+#: libs/general-settings.php:156 libs/general-settings.php:172
+msgid "[more]"
+msgstr "[มากกว่า]"
+
+#: functions.php:559
+msgid "A new password was sent via email!"
+msgstr "รหัสผ่านใหม่ถูกส่งผ่านทางอีเมล!"
+
+#: templates/login_register_modal.php:132 templates/mobile_menu.php:157
+msgid "A password will be e-mailed to you"
+msgstr "รหัสผ่านจะถูกส่งทางอีเมลถึงคุณ"
+
+#: libs/3rdparty.php:126
+msgid "about 1 hour ago"
+msgstr "เมื่อ 1 ชั่วโมงที่แล้ว"
+
+#: libs/3rdparty.php:122
+msgid "about 1 minute ago"
+msgstr "ประมาณ 1 นาทีที่ผ่านมา"
+
+#: templates/dashboard-templates/user_profile_agency.php:166
+#: templates/dashboard-templates/user_profile_agency.php:229
+#: templates/dashboard-templates/user_profile_developer.php:146
+#: templates/dashboard-templates/user_profile_developer.php:203
+msgid "About Agency"
+msgstr "เกี่ยวกับเอเจนซี่"
+
+#: templates/dashboard-templates/add_new_agent.php:261
+#: templates/dashboard-templates/add_new_agent_template.php:137
+#: templates/dashboard-templates/user_profile_agent.php:128
+msgid "About Me"
+msgstr "เกี่ยวกับฉัน"
+
+#: templates/realtor_templates/agent_about_me.php:5
+msgid "About Me "
+msgstr "เกี่ยวกับฉัน"
+
+#: single-estate_agency.php:43
+msgid "About Us"
+msgstr "เกี่ยวกับเรา"
+
+#: libs/help_functions.php:4771 libs/help_functions.php:4853
+#: libs/help_functions.php:4859 libs/help_functions.php:4863
+#: libs/help_functions.php:4864 libs/help_functions.php:4865
+#: libs/help_functions.php:4866 libs/help_functions.php:4867
+#: libs/help_functions.php:4872 libs/help_functions.php:4879
+#: libs/help_functions.php:4920 libs/help_functions.php:4929
+#: libs/help_functions.php:4935 libs/help_functions.php:4939
+#: libs/help_functions.php:4940 libs/help_functions.php:4941
+#: libs/help_functions.php:4942 libs/help_functions.php:4943
+#: libs/help_functions.php:4948 libs/help_functions.php:4955 word_remove.php:93
+msgid "ac"
+msgstr "ไฟฟ้ากระแสสลับ"
+
+#: libs/dashboard_functions.php:166
+msgid "Account History (last 7 days)"
+msgstr "ประวัติบัญชี (7 วันที่ผ่านมา)"
+
+#: libs/dashboard_functions.php:326
+msgid "Account Summary"
+msgstr "สรุปบัญชี"
+
+#: libs/help_functions.php:4771 libs/help_functions.php:4920 word_remove.php:93
+msgid "acres"
+msgstr "เอเคอร์"
+
+#: libs/dashboard_actions_functions.php:1219
+msgid "Action"
+msgstr "การกระทำ"
+
+#: templates/dashboard-templates/add_new_agent.php:174
+#: templates/dashboard-templates/add_new_agent_template.php:272
+#: templates/dashboard-templates/user_profile_agency.php:153
+#: templates/dashboard-templates/user_profile_agent.php:250
+#: templates/dashboard-templates/user_profile_developer.php:134
+msgid "Action Category"
+msgstr "หมวดการกระทำ"
+
+#: crm_functions/crm_functions.php:320 crm_functions/crm_functions.php:370
+#: crm_functions/templates/crm_contact_unit_actions.php:12
+#: crm_functions/templates/crm_lead_unit_actions.php:14
+#: libs/dashboard_actions_functions.php:555
+#: libs/dashboard_actions_functions.php:684
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:11
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:26
+#: user_dashboard_favorite.php:43
+msgid "Actions"
+msgstr "การกระทำ"
+
+#: libs/plugins.php:141
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "เปิดใช้งานปลั๊กอินที่ติดตั้ง"
+msgstr[1] ""
+
+#: libs/help_functions.php:1687
+msgid "Active Life"
+msgstr "ชีวิตที่ใช้งาน"
+
+#: templates/submit_templates/property_floor_plans.php:197
+msgid "Add another plan"
+msgstr "เพิ่มแผนอื่น"
+
+#: crm_functions/templates/crm_add_contact.php:33
+msgid "Add Contact"
+msgstr "เพิ่มที่ติดต่อ"
+
+#: templates/dashboard-templates/add_new_agent.php:210
+#: templates/dashboard-templates/add_new_agent_template.php:335
+#: templates/dashboard-templates/user_profile_agent.php:313
+msgid "Add Custom Field"
+msgstr "เพิ่มฟิลด์ที่กำหนดเอง"
+
+#: crm_functions/templates/crm_add_lead.php:34
+msgid "Add Lead"
+msgstr "เพิ่มลูกค้าเป้าหมาย"
+
+#: templates/top_user_menu.php:49
+msgid "Add Listing"
+msgstr "เพิ่มรายชื่อ"
+
+#: libs/dashboard_functions.php:1465
+#: templates/dashboard-templates/add_new_agent_template.php:357
+msgid "Add New Agent"
+msgstr "เพิ่มตัวแทนใหม่"
+
+#: crm_functions/crm_functions.php:360
+msgid "Add New Lead/Deal"
+msgstr "เพิ่มลูกค้าเป้าหมาย/ดีลใหม่"
+
+#: libs/dashboard_widgets.php:88 word_remove.php:278
+msgid "Add New Page"
+msgstr "เพิ่มหน้าใหม่"
+
+#: libs/dashboard_functions.php:1448 libs/dashboard_widgets.php:332
+#: word_remove.php:280
+msgid "Add New Property"
+msgstr "เพิ่มอสังหาริมทรัพย์ใหม่"
+
+#: templates/front_end_submission.php:154
+#: templates/front_end_submission.php:196
+msgid "Add Property"
+msgstr "เพิ่มทรัพย์สิน"
+
+#: templates/dashboard-templates/add_new_agent.php:252
+msgid "Add some information about yourself."
+msgstr "เพิ่มข้อมูลเกี่ยวกับตัวคุณเอง"
+
+#: libs/ajax_functions.php:97 libs/ajax_functions.php:209
+#: libs/css_js_include.php:861 libs/design_functions.php:1777
+#: templates/featured_property_3.php:34 templates/featured_property_4.php:48
+#: templates/listing_templates/overview_template.php:10
+#: templates/property_cards_templates/property_card_actions_type_default.php:11
+#: templates/property_cards_templates/property_card_favorite.php:8
+msgid "add to favorites"
+msgstr "เพิ่มในรายการโปรด"
+
+#: templates/dashboard-templates/add_new_agent.php:57
+msgid "Add your contact information."
+msgstr "เพิ่มข้อมูลติดต่อของคุณ"
+
+#: templates/dashboard-templates/add_new_agent.php:99
+msgid "Add your social media information."
+msgstr "เพิ่มข้อมูลสื่อสังคมออนไลน์ของคุณ"
+
+#: libs/ajax_functions.php:3872 libs/ajax_functions.php:3878
+msgid "addded"
+msgstr "เพิ่มแล้ว"
+
+#: libs/dashboard_functions.php:190
+msgid "Added"
+msgstr "เพิ่มแล้ว"
+
+#: crm_functions/templates/dashboard_lead_unit.php:23
+msgid "added manually"
+msgstr "เพิ่มด้วยตนเอง"
+
+#: crm_functions/crm_functions.php:318
+msgid "Added on"
+msgstr "เพิ่มเมื่อ"
+
+#: libs/listing_functions.php:654 libs/listing_functions.php:700
+#: templates/dashboard-templates/user_profile_agency.php:136
+#: templates/dashboard-templates/user_profile_developer.php:117
+msgid "Address"
+msgstr "ที่อยู่"
+
+#: libs/searchfunctions.php:2191
+msgid "address"
+msgstr "ที่อยู่"
+
+#: zillow_estimate_page.php:83
+msgid "Address:"
+msgstr "ที่อยู่:"
+
+#: single-estate_agency.php:112 templates/header_agency.php:50
+#: templates/header_developer.php:68
+msgid "Adress:"
+msgstr "ที่อยู่:"
+
+#: templates/advanced_search_type1.php:29
+#: templates/advanced_search_type3.php:22
+#: templates/advanced_search_type5.php:31 templates/adv_search_mobile.php:33
+msgid "Advanced Search"
+msgstr "การค้นหาขั้นสูง"
+
+#: templates/advanced_search_type4.php:29
+msgid "Advanced Search "
+msgstr "การค้นหาขั้นสูง"
+
+#. Template Name of the theme
+msgid "Advanced Search Results"
+msgstr "ผลการค้นหาขั้นสูง"
+
+#: libs/dashboard_actions_functions.php:50
+#: templates/submit_templates/property_description.php:77
+msgid "After Price Label (ex: \"/month\")"
+msgstr "หลังจากป้ายราคา (เช่น: &quot;/ month&quot;)"
+
+#: templates/normal_map_core.php:160
+msgid "Agencies in "
+msgstr "หน่วยงานใน"
+
+#: libs/ajax_functions.php:2907
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "Agency"
+msgstr "เอเจนซี่"
+
+#. Template Name of the theme
+msgid "Agency list"
+msgstr "รายชื่อเอเจนซี่"
+
+#: templates/dashboard-templates/user_profile_agency.php:14
+msgid "Agency Name"
+msgstr "ชื่อเอเจนซี่"
+
+#: templates/agency_reviews.php:3
+msgid "Agency Reviews "
+msgstr "รีวิวเอเจนซี่"
+
+#: libs/ajax_functions.php:2903 libs/dashboard_actions_functions.php:551
+#: single-estate_property.php:219 single-estate_property.php:224
+#: templates/dashboard-templates/user_memebership_profile.php:73
+#: templates/property_cards_templates/property_card_agent_details.php:15
+msgid "Agent"
+msgstr "ตัวแทน"
+
+#: templates/dashboard-templates/add_new_agent.php:140
+#: templates/dashboard-templates/add_new_agent_template.php:247
+#: templates/dashboard-templates/user_profile_agent.php:211
+msgid "Agent Area/Categories"
+msgstr "พื้นที่ตัวแทน / ประเภท"
+
+#: templates/dashboard-templates/add_new_agent.php:205
+#: templates/dashboard-templates/add_new_agent_template.php:295
+#: templates/dashboard-templates/user_profile_agent.php:273
+msgid "Agent Custom Data"
+msgstr "ข้อมูลที่กำหนดเองของตัวแทน"
+
+#: templates/dashboard-templates/add_new_agent_template.php:223
+#: templates/dashboard-templates/add_new_agent_template.php:348
+#: templates/dashboard-templates/user_profile_agent.php:323
+msgid "Agent Details"
+msgstr "รายละเอียดตัวแทน"
+
+#: crm_functions/crm_functions.php:365
+msgid "Agent in Charge"
+msgstr "ตัวแทนที่รับผิดชอบ"
+
+#: libs/dashboard_functions.php:1469
+msgid "Agent List"
+msgstr "รายชื่อตัวแทน"
+
+#: templates/dashboard-templates/add_new_agent_template.php:342
+#: templates/dashboard-templates/user_profile_agent.php:318
+msgid "Agent Location"
+msgstr "ที่ตั้ง"
+
+#: libs/dashboard_actions_functions.php:861
+msgid "Agent need a first & last name"
+msgstr "ตัวแทนต้องการชื่อและนามสกุล"
+
+#: templates/dashboard-templates/add_new_agent_template.php:22
+msgid "Agent Password"
+msgstr "รหัสผ่านตัวแทน"
+
+#: libs/dashboard_actions_functions.php:1050
+msgid "Agent profile edited"
+msgstr "แก้ไขรายละเอียดตัวแทนแล้ว"
+
+#: templates/agent_reviews.php:2
+msgid "Agent Reviews "
+msgstr "รีวิวตัวแทน"
+
+#: templates/dashboard-templates/add_new_agent_template.php:241
+msgid "Agent Social Details"
+msgstr "รายละเอียดสังคมของตัวแทน"
+
+#: templates/dashboard-templates/add_new_agent_template.php:227
+msgid "Agent Username"
+msgstr "ชื่อผู้ใช้ของตัวแทน"
+
+#: libs/dashboard_actions_functions.php:1044
+msgid "Agent was added... You will be redirected to your agent list..."
+msgstr ""
+"ตัวแทนถูกเพิ่มเข้ามา ... คุณจะถูกเปลี่ยนเส้นทางไปยังรายชื่อตัวแทนของคุณ ..."
+
+#. Template Name of the theme
+msgid "Agents Agencies Developers Search Results"
+msgstr "ตัวแทน เอเจนซี่ นักพัฒนา ผลการค้นหา"
+
+#: templates/normal_map_core.php:157
+msgid "Agents in "
+msgstr "ตัวแทนใน"
+
+#. Template Name of the theme
+msgid "Agents list"
+msgstr "รายชื่อตัวแทน"
+
+#: libs/dashboard_functions.php:1394 templates/agency_listings.php:147
+#: templates/agent_listings.php:167
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:5
+#: templates/developer_listings.php:105
+msgid "All"
+msgstr "ทั้งหมด"
+
+#: libs/help_functions.php:2964
+msgid "All Countries"
+msgstr "ทุกประเทศ"
+
+#: libs/plugins.php:144
+msgid "All plugins installed and activated successfully. %s"
+msgstr "ปลั๊กอินทั้งหมดที่ติดตั้งและใช้งานได้สำเร็จ  %s"
+
+#: libs/css_js_include.php:967
+msgid "Allowed Files"
+msgstr "ไฟล์ที่อนุญาต"
+
+#: libs/ajax_functions.php:397 templates/property_page_acc_content.php:126
+#: templates/property_page_tab_content.php:62
+#: templates/submit_templates/property_amenities.php:109
+msgid "Amenities and Features"
+msgstr "สิ่งอำนวยความสะดวกและสิ่งอำนวยความสะดวก"
+
+#: libs/css_js_include.php:736
+msgid "Amount Financed:"
+msgstr "จำนวนเงินที่ได้รับ:"
+
+#: libs/ajax_functions.php:2246
+msgid "Amount:"
+msgstr "จำนวนเงิน:"
+
+#: libs/ajax_functions.php:2871
+msgid "An email with the generated password was sent!"
+msgstr "ส่งอีเมลพร้อมรหัสผ่านที่สร้างแล้ว!"
+
+#: user_dashboard_analytics.php:45
+msgid "Analytics"
+msgstr "การวิเคราะห์"
+
+#: libs/searchfunctions.php:2205 libs/searchfunctions.php:2207
+#: libs/searchfunctions.php:2211
+msgid "and"
+msgstr "และ"
+
+#: libs/css_js_include.php:738
+msgid "Annual cost of Loan:"
+msgstr "ต้นทุนเงินกู้ประจำปี:"
+
+#: libs/dashboard_actions_functions.php:468
+#: libs/dashboard_actions_functions.php:478
+msgid "Any"
+msgstr "ใด"
+
+#: templates/dashboard-templates/add_new_agent.php:206
+msgid "Any custom parameters for agent"
+msgstr "พารามิเตอร์ที่กำหนดเองสำหรับเอเจนต์"
+
+#: word_remove.php:217
+msgid "Apperance Options"
+msgstr "Apperance Options"
+
+#: templates/breadcrumbs.php:32
+msgid "Archives"
+msgstr "หอจดหมายเหตุ"
+
+#: libs/css_js_include.php:987
+msgid "Are you sure you want to delete this?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบข้อมูลนี้"
+
+#: crm_functions/templates/crm_contact_unit_actions.php:21
+#: crm_functions/templates/crm_lead_unit_actions.php:23
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:20
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:35
+msgid "Are you sure you wish to delete "
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบ"
+
+#: libs/dashboard_functions.php:1253
+#: templates/submit_templates/property_floor_plans.php:140
+msgid "Are you sure you wish to delete ?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบ"
+
+#: libs/css_js_include.php:770
+msgid "Are you sure you wish to delete?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบ"
+
+#: libs/listing_functions.php:660 libs/listing_functions.php:706
+#: libs/searchfunctions.php:2077 libs/searchfunctions.php:2307
+#: templates/dashboard-templates/add_new_agent.php:236
+#: templates/dashboard-templates/add_new_agent_template.php:121
+#: templates/dashboard-templates/user_profile_agency.php:130
+#: templates/dashboard-templates/user_profile_agent.php:110
+#: templates/dashboard-templates/user_profile_developer.php:111
+msgid "Area"
+msgstr "พื้นที่"
+
+#: compare_listings.php:122
+msgid "area"
+msgstr "พื้นที่"
+
+#: functions.php:790 libs/help_functions.php:3237 libs/help_functions.php:3436
+#: libs/help_functions.php:3683 libs/help_functions.php:3819
+#: libs/help_functions.php:4429 property_list_directory.php:155
+#: property_list_directory.php:182 property_list_half.php:93
+#: templates/advanced_search_type_half.php:281
+#: templates/advanced_search_type_half.php:291
+#: templates/directory_filters.php:59
+#: templates/property_ajax_tax_hidden_filters.php:27
+#: templates/property_ajax_tax_hidden_filters.php:80
+#: templates/property_list_filters.php:55
+#: templates/property_list_filters.php:124
+#: templates/submit_templates/property_location.php:206
+#: templates/submit_templates/property_location.php:212
+#: templates/taxonomy_agent_hidden_filters.php:24
+msgid "Areas"
+msgstr "พื้นที่"
+
+#: libs/searchfunctions.php:2162 libs/searchfunctions.php:2330
+msgid "areas"
+msgstr "พื้นที่"
+
+#: libs/help_functions.php:1689
+msgid "Arts & Entertainment"
+msgstr "ศิลปะและความบันเทิง"
+
+#: libs/help_functions.php:1691
+msgid "Automotive"
+msgstr "ยานยนต์"
+
+#: templates/multi_units.php:20
+msgid "Available Units"
+msgstr "หน่วยที่ใช้ได้"
+
+#: libs/css_js_include.php:593 libs/theme-slider.php:455
+#: templates/featured_property_5.php:32
+#: templates/property_cards_templates/property_card_details_type5.php:14
+msgid "BA"
+msgstr "BA"
+
+#: templates/mobile_menu.php:165
+msgid "Back to Login"
+msgstr "กลับไปที่ล็อกอิน"
+
+#: templates/login_register_modal.php:161
+#: templates/login_register_modal.php:162
+msgid "Back to login"
+msgstr "กลับไปที่ล็อกอิน"
+
+#: user_dashboard_analytics.php:61
+msgid "Back to properties list"
+msgstr "กลับไปยังรายการคุณสมบัติ"
+
+#: libs/listing_functions.php:815
+#: templates/listing_templates/single-overview-section.php:38
+#: templates/property_slider_shortcode.php:67
+msgid "Bathrooms"
+msgstr "ห้องน้ำ"
+
+#: compare_listings.php:128
+msgid "bathrooms"
+msgstr "ห้องน้ำ"
+
+#: templates/submit_templates/property_details.php:115
+msgid "Bathrooms (*only numbers)"
+msgstr "ห้องน้ำ (* เฉพาะตัวเลข)"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:20
+msgid "Bathrooms -  High to Low"
+msgstr "ห้องน้ำสูงถึงต่ำ"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:24
+msgid "Bathrooms -Low to High"
+msgstr "ห้องน้ำต่ำไปสูง"
+
+#: libs/help_functions_cards.php:19 templates/normal_directory.php:76
+#: templates/property_list_filters_search.php:16
+#: templates/property_list_filter_half.php:15
+msgid "Bathrooms High to Low"
+msgstr "ห้องน้ำสูงถึงต่ำ"
+
+#: libs/help_functions_cards.php:20 templates/normal_directory.php:77
+#: templates/property_list_filters_search.php:17
+#: templates/property_list_filter_half.php:16
+msgid "Bathrooms Low to high"
+msgstr "ห้องน้ำต่ำไปสูง"
+
+#: templates/property_cards_templates/property_card_details_type3.php:24
+#: templates/property_cards_templates/property_card_details_type4.php:18
+#: templates/property_cards_templates/property_card_details_type4.php:35
+#: templates/property_cards_templates/property_card_details_type6.php:34
+msgid "Baths"
+msgstr "ห้องอาบน้ำ"
+
+#: libs/listing_functions.php:316
+msgid "baths:"
+msgstr "ห้องน้ำ:"
+
+#: templates/multi_units.php:138
+msgid "Baths: "
+msgstr "ห้องน้ำ:"
+
+#: libs/css_js_include.php:594 libs/theme-slider.php:451
+#: templates/featured_property_5.php:28
+#: templates/property_cards_templates/property_card_details_type5.php:10
+msgid "BD"
+msgstr "BD"
+
+#: libs/help_functions.php:1693
+msgid "Beauty & Spas"
+msgstr "ความงามและสปา"
+
+#: libs/listing_functions.php:812
+#: templates/listing_templates/single-overview-section.php:27
+#: templates/property_cards_templates/property_card_details_type4.php:14
+#: templates/property_cards_templates/property_card_details_type4.php:31
+msgid "Bedrooms"
+msgstr "ห้องนอน"
+
+#: compare_listings.php:127
+msgid "bedrooms"
+msgstr "ห้องนอน"
+
+#: templates/submit_templates/property_details.php:107
+msgid "Bedrooms (*only numbers)"
+msgstr "ห้องนอน (* เฉพาะจำนวน)"
+
+#: libs/help_functions_cards.php:17 templates/normal_directory.php:74
+#: templates/property_list_filters_search.php:14
+#: templates/property_list_filter_half.php:13
+msgid "Bedrooms High to Low"
+msgstr "ห้องนอนสูงถึงต่ำ"
+
+#: libs/help_functions_cards.php:18 templates/normal_directory.php:75
+#: templates/property_list_filters_search.php:15
+#: templates/property_list_filter_half.php:14
+msgid "Bedrooms Low to high"
+msgstr "ห้องนอนต่ำไปสูง"
+
+#: templates/multi_units.php:135
+msgid "Bedrooms: "
+msgstr "ห้อง นอน: "
+
+#: templates/property_cards_templates/property_card_details_type3.php:16
+#: templates/property_cards_templates/property_card_details_type6.php:25
+msgid "Beds"
+msgstr "เตียง"
+
+#: libs/dashboard_actions_functions.php:58
+#: templates/submit_templates/property_description.php:85
+msgid "Before Price Label (ex: \"from \")"
+msgstr "ก่อนป้ายราคา (เช่น &quot;จาก&quot;)"
+
+#: libs/plugins.php:140
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "เริ่มการติดตั้งปลั๊กอิน"
+msgstr[1] ""
+
+#: libs/searchfunctions.php:2207 libs/searchfunctions.php:2211
+msgid "between"
+msgstr "ระหว่าง"
+
+#: libs/searchfunctions.php:2205
+msgid "between "
+msgstr "ระหว่าง"
+
+#: libs/searchfunctions.php:2364 libs/searchfunctions.php:2392
+#: libs/searchfunctions.php:2424
+msgid "bigger than"
+msgstr "มีขนาดใหญ่กว่า"
+
+#: libs/searchfunctions.php:2223
+msgid "bigger than "
+msgstr "มีขนาดใหญ่กว่า"
+
+#: libs/dashboard_actions_functions.php:495
+msgid "Billing Type"
+msgstr "ประเภทการเรียกเก็บเงิน"
+
+#: archive.php:30
+msgid "Blog Archives"
+msgstr "Blog Archives"
+
+#. Template Name of the theme
+msgid "Blog list page"
+msgstr "หน้ารายการบล็อก"
+
+#: word_remove.php:16
+msgid "Buy new license"
+msgstr "ซื้อใบอนุญาตใหม่"
+
+#: libs/theme-cache.php:5
+msgid "Cache was cleared"
+msgstr "ล้างแคชแล้ว"
+
+#: templates/realtor_templates/agent_contact_bar.php:22
+msgid "Call"
+msgstr "โทร"
+
+#: libs/ajax_functions.php:5273
+msgid "Can\\t create user with this credentials"
+msgstr "ไม่สามารถสร้างผู้ใช้ที่มีข้อมูลรับรองนี้ได้"
+
+#: libs/megamenu.php:358
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: comments.php:56
+msgid "Cancel Reply"
+msgstr "ยกเลิกการตอบกลับ"
+
+#: templates/dashboard-templates/user_memebership_profile.php:43
+msgid "cancel stripe subscription"
+msgstr "ยกเลิกการสมัครเป็นสมาชิกแถบ"
+
+#: libs/help_functions.php:3231 libs/help_functions.php:3399
+#: libs/help_functions.php:3652 libs/help_functions.php:3788
+#: libs/help_functions.php:4184 libs/searchfunctions.php:426
+#: libs/searchfunctions2.php:15 property_list_directory.php:106
+#: property_list_half.php:79 templates/advanced_search_type2.php:33
+#: templates/advanced_search_type8.php:111
+#: templates/advanced_search_type9.php:115
+#: templates/advanced_search_type_half.php:199
+#: templates/advanced_search_type_half.php:209
+#: templates/adv_search_mobile.php:101 templates/adv_search_mobile.php:163
+#: templates/directory_filters.php:39
+#: templates/property_ajax_tax_hidden_filters.php:25
+#: templates/property_ajax_tax_hidden_filters.php:70
+#: templates/property_list_filters.php:53
+#: templates/property_list_filters.php:102
+#: templates/taxonomy_agent_hidden_filters.php:22
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: libs/searchfunctions.php:2160 libs/searchfunctions.php:2328
+msgid "categories"
+msgstr "ประเภท"
+
+#: libs/dashboard_actions_functions.php:672
+#: libs/dashboard_actions_functions.php:678 libs/searchfunctions.php:2047
+#: libs/searchfunctions.php:2277
+#: templates/dashboard-templates/add_new_agent.php:146
+#: templates/dashboard-templates/add_new_agent_template.php:250
+#: templates/dashboard-templates/user_profile_agency.php:146
+#: templates/dashboard-templates/user_profile_agency.php:210
+#: templates/dashboard-templates/user_profile_agent.php:214
+#: templates/dashboard-templates/user_profile_developer.php:127
+#: templates/dashboard-templates/user_profile_developer.php:184
+#: templates/submit_templates/property_categories.php:55
+#: user_dashboard_favorite.php:40
+msgid "Category"
+msgstr "ประเภท"
+
+#: templates/property_slider_shortcode.php:56
+msgid "category"
+msgstr "ประเภท"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "ที่เก็บหมวดหมู่: %s"
+
+#: templates/multi_units.php:130
+msgid "Category: "
+msgstr "ประเภท:"
+
+#: libs/dashboard_widgets.php:47
+msgid "Change Colors"
+msgstr "เปลี่ยนสี"
+
+#: word_remove.php:17
+msgid "Change log"
+msgstr "เปลี่ยนบันทึก"
+
+#: templates/dashboard-templates/change_pass_template.php:2
+msgid "Change Password"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+#: functions.php:762 libs/help_functions.php:3235 libs/help_functions.php:3419
+#: libs/help_functions.php:3668 libs/help_functions.php:3804
+#: libs/help_functions.php:4324 property_list_directory.php:130
+#: property_list_half.php:86 templates/advanced_search_type_half.php:243
+#: templates/advanced_search_type_half.php:253
+#: templates/directory_filters.php:49
+#: templates/property_ajax_tax_hidden_filters.php:26
+#: templates/property_ajax_tax_hidden_filters.php:90
+#: templates/property_list_filters.php:54
+#: templates/property_list_filters.php:134
+#: templates/submit_templates/property_location.php:157
+#: templates/submit_templates/property_location.php:163
+#: templates/taxonomy_agent_hidden_filters.php:23
+msgid "Cities"
+msgstr "เมือง"
+
+#: libs/searchfunctions.php:2161 libs/searchfunctions.php:2329
+msgid "cities"
+msgstr "เมือง"
+
+#: libs/listing_functions.php:657 libs/listing_functions.php:703
+#: libs/searchfunctions.php:2070 libs/searchfunctions.php:2300
+#: templates/dashboard-templates/add_new_agent.php:232
+#: templates/dashboard-templates/add_new_agent_template.php:109
+#: templates/dashboard-templates/user_profile_agency.php:118
+#: templates/dashboard-templates/user_profile_agent.php:98
+#: templates/dashboard-templates/user_profile_developer.php:99
+#: templates/submit_templates/property_location.php:126
+msgid "City"
+msgstr "เมือง"
+
+#: compare_listings.php:121
+msgid "city"
+msgstr "เมือง"
+
+#: zillow_estimate_page.php:84
+msgid "City:"
+msgstr "เมือง:"
+
+#: functions.php:1474 functions.php:1491 functions.php:1506 functions.php:1522
+#: functions.php:1538 functions.php:1553 functions.php:1568 functions.php:1583
+#: functions.php:1598 functions.php:1615 functions.php:1630 functions.php:1646
+#: functions.php:1663
+msgid "Clear theme cache after demo import is complete!"
+msgstr "ล้างแคชธีมหลังจากการนำเข้าการสาธิตเสร็จสมบูรณ์!"
+
+#: templates/google_maps_base.php:67
+msgid "click to enable zoom"
+msgstr "คลิกเพื่อเปิดใช้การซูม"
+
+#: libs/dashboard_functions.php:654
+msgid "Clone: "
+msgstr "โคลน: "
+
+#: libs/css_js_include.php:571 libs/css_js_include.php:765
+msgid "close map"
+msgstr "ปิดแผนที่"
+
+#: libs/css_js_include.php:762
+msgid "Close Street View"
+msgstr "ปิดสตรีทวิว"
+
+#: comments.php:65
+msgid "Comment"
+msgstr "คิดเห็น"
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr "นำทางเรื่องความคิดเห็น"
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "ข้อคิดเห็นถูกปิด"
+
+#: contact_page.php:121 libs/dashboard_widgets.php:8
+#: libs/dashboard_widgets.php:10 libs/help_functions.php:529
+#: libs/help_functions.php:531
+msgid "company logo"
+msgstr "โลโก้ของบริษัท"
+
+#: templates/compare_list.php:16
+msgid "Compare"
+msgstr "เปรียบเทียบ"
+
+#: libs/design_functions.php:1799 libs/design_functions.php:1804
+#: libs/design_functions.php:1809 libs/design_functions.php:1815
+#: templates/property_cards_templates/property_card_actions_type2.php:5
+#: templates/property_cards_templates/property_card_actions_type_default.php:25
+msgid "compare"
+msgstr "เปรียบเทียบ"
+
+#. Template Name of the theme
+#: compare_listings.php:101 templates/compare_list.php:15
+msgid "Compare Listings"
+msgstr "เปรียบเทียบรายชื่อ"
+
+#: templates/dashboard-templates/change_pass_template.php:15
+msgid "Confirm New Password"
+msgstr "ยืนยันรหัสผ่านใหม่"
+
+#: libs/css_js_include.php:878
+msgid ""
+"Confirm your ACCOUNT DELETION request! Clicking the button below will delete "
+"your account and data. This means you will no longer be able to login to "
+"your account and access your account information: My Profile, My Properties, "
+"Inbox, Saved Searches and Messages. This operation CAN NOT BE REVERSED!"
+msgstr ""
+"ยืนยันคำขอลบ ACCOUNT DELETE! "
+"การคลิกปุ่มด้านล่างจะเป็นการลบบัญชีและข้อมูลของคุณ "
+"ซึ่งหมายความว่าคุณจะไม่สามารถเข้าสู่ระบบบัญชีของคุณและเข้าถึงข้อมูลบัญชีของคุณได้อีกต่อไป"
+": โปรไฟล์, คุณสมบัติของฉัน, กล่องขาเข้า, การค้นหาที่บันทึกไว้และข้อความ "
+"การดำเนินการนี้ไม่สามารถย้อนกลับได้!"
+
+#: libs/css_js_include.php:868
+msgid "Connecting to Paypal! Please wait..."
+msgstr "การเชื่อมต่อกับ Paypal! โปรดรอ..."
+
+#: crm_functions/templates/crm_leads_submit.php:10
+msgid "Contact"
+msgstr "ติดต่อเรา"
+
+#: templates/property_details_modal.php:28
+msgid "Contact Agent"
+msgstr "ติดต่อตัวแทน"
+
+#: crm_functions/templates/crm_contact_submit.php:1
+#: templates/dashboard-templates/user_profile.php:105
+#: templates/dashboard-templates/user_profile_agency.php:199
+#: templates/dashboard-templates/user_profile_agent.php:197
+#: templates/dashboard-templates/user_profile_developer.php:173
+msgid "Contact Information"
+msgstr "ข้อมูลติดต่อ"
+
+#: templates/agent_contact.php:33
+msgid "Contact Me"
+msgstr "ติดต่อฉัน"
+
+#. Template Name of the theme
+msgid "Contact Page"
+msgstr "หน้าติดต่อ"
+
+#: templates/agent_contact.php:31 templates/agent_contact.php:47
+#: templates/footer_buttons.php:10 templates/header_agency.php:108
+#: templates/header_developer.php:90
+msgid "Contact Us"
+msgstr "ติดต่อเรา"
+
+#: libs/dashboard_functions.php:1427
+msgid "Contacts"
+msgstr "รายชื่อผู้ติดต่อ"
+
+#: libs/megamenu.php:320
+msgid ""
+"Container Styles( *set custom styles for mega menu container only:.  Ex: "
+"background position, background repeat )"
+msgstr ""
+"รูปแบบคอนเทนเนอร์ (* "
+"ตั้งค่ารูปแบบที่กำหนดเองสำหรับคอนเทนเนอร์เมนูเด่นเท่านั้น: เช่น: "
+"ตำแหน่งพื้นหลัง, การทำซ้ำในพื้นหลัง)"
+
+#: word_remove.php:51
+msgid "Continue"
+msgstr "ต่อ"
+
+#: templates/blog_unit.php:59
+msgid "Continue Reading"
+msgstr "อ่านต่อไป"
+
+#: templates/blog_unit2.php:104
+msgid "Continue reading"
+msgstr "อ่านเพิ่มเติม"
+
+#: templates/dashboard-templates/message-listing-unit.php:27
+msgid "Conversation started by you "
+msgstr "การสนทนาเริ่มจากคุณ"
+
+#: libs/dashboard_actions_functions.php:133 libs/listing_functions.php:669
+#: libs/listing_functions.php:720 word_remove.php:76
+msgid "Country"
+msgstr "ประเทศ"
+
+#: templates/submit_templates/property_location.php:244
+msgid "Country "
+msgstr "ประเทศ"
+
+#: libs/searchfunctions.php:2083 libs/searchfunctions.php:2313
+#: templates/submit_templates/property_location.php:91
+msgid "County / State"
+msgstr "มณฑล / รัฐ"
+
+#: libs/searchfunctions.php:2030 libs/searchfunctions.php:2263
+msgid "County, City or Area is "
+msgstr "County, City หรือ Area คือ"
+
+#: templates/login_register_modal.php:80
+msgid "Create an account"
+msgstr "สร้างบัญชี"
+
+#: crm_functions/crm_functions.php:313
+msgid "Create Contact"
+msgstr "สร้างการติดต่อ"
+
+#: libs/dashboard_functions.php:1482
+msgid "CRM"
+msgstr "CRM"
+
+#: libs/megamenu.php:243
+msgid "CSS Classes (optional)"
+msgstr "คลาส CSS (ตัวเลือก)"
+
+#: word_remove.php:83
+msgid "Currency symbol"
+msgstr "สัญลักษณ์สกุลเงิน"
+
+#: word_remove.php:30
+msgid "Current Version: "
+msgstr "เวอร์ชันปัจจุบัน:"
+
+#: archive.php:24
+msgid "Daily Archives: %s"
+msgstr "คลังข้อมูลรายวัน: %s"
+
+#: libs/dashboard_functions.php:1436 libs/dashboard_functions.php:1477
+msgid "Dashboard"
+msgstr "แผงควบคุม"
+
+#: libs/general-settings.php:359
+msgid "Dashboard Top Bar Left Widget Area"
+msgstr "Dashboard แถบด้านบนแถบเครื่องมือที่ยังเหลือ"
+
+#: libs/general-settings.php:369
+msgid "Dashboard Top Bar Right Widget Area"
+msgstr "แถบเครื่องมือแถบเครื่องมือด้านขวาบนแผงควบคุม"
+
+#: crm_functions/crm_functions.php:366 libs/dashboard_actions_functions.php:493
+#: libs/dashboard_actions_functions.php:1218
+msgid "Date"
+msgstr "วันที่"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:32
+msgid "Date - New to Old"
+msgstr "วันที่-ใหม่ไปเก่า"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:28
+msgid "Date - Old to New"
+msgstr "วันที่- เก่าไปใหม่"
+
+#: templates/agent_contact.php:61
+msgid "Day"
+msgstr "วัน"
+
+#: templates/dashboard-templates/user_memebership_profile.php:221
+msgid "days"
+msgstr "วัน"
+
+#: libs/css_js_include.php:768 templates/normal_directory.php:78
+#: templates/property_list_filters_search.php:18
+#: templates/property_list_filter_half.php:17
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:8
+msgid "Default Order"
+msgstr "เริ่มต้นการสั่งซื้อสินค้า"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:20
+msgid "Delete Agent"
+msgstr "ลบตัวแทน"
+
+#: crm_functions/templates/crm_contact_unit_actions.php:23
+msgid "Delete Contact"
+msgstr "ลบผู้ติดต่อ"
+
+#: crm_functions/templates/crm_lead_unit_actions.php:25
+msgid "Delete Lead"
+msgstr "ลบลูกค้าเป้าหมาย"
+
+#: templates/dashboard-templates/message-listing-unit.php:48
+msgid "delete message"
+msgstr "ลบข้อความ"
+
+#: libs/dashboard_functions.php:1254
+#: templates/submit_templates/property_floor_plans.php:140
+msgid "Delete Plan"
+msgstr "ลบแผน"
+
+#: templates/dashboard-templates/add_new_agent.php:266
+#: templates/dashboard-templates/user_profile.php:123
+#: templates/dashboard-templates/user_profile_agency.php:243
+#: templates/dashboard-templates/user_profile_agent.php:344
+#: templates/dashboard-templates/user_profile_developer.php:219
+msgid "Delete profile"
+msgstr "ลบโปรไฟล์"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:36
+msgid "Delete property"
+msgstr "ลบสถานที่ให้บริการ"
+
+#: templates/dashboard-templates/search_unit.php:22
+msgid "delete search"
+msgstr "ลบการค้นหา"
+
+#: libs/dashboard_functions.php:192
+msgid "Deleted"
+msgstr "ที่ถูกลบ"
+
+#: libs/dashboard_functions.php:211
+msgid "Deleted Invoice %s"
+msgstr "ใบแจ้งหนี้%s"
+
+#: libs/dashboard_functions.php:217
+msgid "Deleted Message  %s"
+msgstr "ข้อความที่ถูกลบ%s"
+
+#: libs/dashboard_functions.php:223
+msgid "Deleted Search  %s"
+msgstr "ข้อความการค้นหา%s"
+
+#: libs/css_js_include.php:794
+msgid "deleting..."
+msgstr "ลบ ..."
+
+#: libs/ajax_functions.php:486 libs/dashboard_actions_functions.php:16
+#: libs/help_functions.php:5194 libs/megamenu.php:255
+#: templates/property_page_acc_content.php:23
+#: templates/property_page_tab_content.php:26
+#: templates/submit_templates/property_description.php:17
+msgid "Description"
+msgstr "ลักษณะ"
+
+#: libs/design_functions.php:1763
+#: templates/property_cards_templates/property_card_details_default.php:44
+#: templates/property_unit_type3.php:50
+msgid "details"
+msgstr "รายละเอียด"
+
+#: libs/ajax_functions.php:2911
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "Developer"
+msgstr "ผู้พัฒนา"
+
+#. Template Name of the theme
+msgid "Developer list"
+msgstr "รายชื่อนักพัฒนา"
+
+#: templates/dashboard-templates/user_profile_developer.php:12
+msgid "Developer Name"
+msgstr "ชื่อนักพัฒนาซอฟต์แวร์"
+
+#: templates/developer_reviews.php:2
+msgid "Developer Reviews "
+msgstr "บทวิจารณ์ของนักพัฒนาซอฟต์แวร์"
+
+#: templates/normal_map_core.php:163
+msgid "Developers in "
+msgstr "นักพัฒนาซอฟต์แวร์ใน"
+
+#: libs/css_js_include.php:781
+msgid "Direct payment instructions"
+msgstr "คำแนะนำในการชำระเงินโดยตรง"
+
+#: libs/css_js_include.php:873 libs/dashboard_functions.php:1249
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:26
+msgid "Disable Agent"
+msgstr "ปิดใช้งานตัวแทน"
+
+#: libs/css_js_include.php:871 libs/dashboard_functions.php:1247
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:96
+msgid "Disable Listing"
+msgstr "ปิดการใช้งานรายการ"
+
+#: libs/css_js_include.php:851 libs/dashboard_functions.php:1245
+#: libs/dashboard_functions.php:1402
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:13
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:10
+msgid "Disabled"
+msgstr "ไม่สามารถ"
+
+#: templates/featured_property_4b.php:17 templates/featured_property_5.php:51
+msgid "discover more"
+msgstr "ค้นพบเพิ่มเติม"
+
+#: word_remove.php:21
+msgid "Documentation"
+msgstr "เอกสาร"
+
+#: libs/help_functions.php:581 libs/listing_functions.php:609
+msgid "Documents"
+msgstr "เอกสาร"
+
+#: libs/help_functions.php:5355
+msgid "Down Payment"
+msgstr "เงินดาวน์"
+
+#: libs/dashboard_functions.php:1410
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:21
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:13
+msgid "Draft"
+msgstr "ฉบับร่าง"
+
+#: templates/submit_templates/property_images.php:117
+#: templates/submit_templates/property_images_new.php:132
+msgid "Drag and Drop Images or "
+msgstr "ลากและวางรูปภาพหรือ"
+
+#: libs/megamenu.php:336
+msgid "Draw border right on mega menu column?"
+msgstr "วาดเส้นขอบขวาบนคอลัมน์เมนูเด่น?"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:48
+msgid "Duplicate Property"
+msgstr "คุณสมบัติที่ซ้ํากัน"
+
+#: functions.php:363 functions.php:379
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: templates/dashboard-templates/add_new_agent_template.php:359
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:16
+msgid "Edit Agent"
+msgstr "แก้ไขตัวแทน"
+
+#: libs/megamenu.php:207 libs/megamenu.php:209
+msgid "Edit Menu Item"
+msgstr "แก้ไขรายการเมนู"
+
+#: libs/dashboard_widgets.php:421
+msgid "Edit Payment Details"
+msgstr "แก้ไขรายละเอียดการชำระเงิน"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:31
+msgid "Edit property"
+msgstr "แก้ไขคุณสมบัติ"
+
+#: templates/agency_reviews.php:223 templates/agent_reviews.php:200
+#: templates/developer_reviews.php:203 templates/property_reviews.php:222
+msgid "Edit Review"
+msgstr "แก้ไขรีวิว"
+
+#: libs/dashboard_functions.php:188
+msgid "Edited"
+msgstr "แก้ไขแล้ว"
+
+#: libs/help_functions.php:1695
+msgid "Education"
+msgstr "การศึกษา"
+
+#: comments.php:78 crm_functions/crm_functions.php:316
+#: libs/dashboard_actions_functions.php:553 libs/design_functions.php:2064
+#: templates/dashboard-templates/add_new_agent.php:72
+#: templates/dashboard-templates/add_new_agent_template.php:53
+#: templates/dashboard-templates/user_profile.php:28
+#: templates/dashboard-templates/user_profile_agency.php:24
+#: templates/dashboard-templates/user_profile_agent.php:29
+#: templates/dashboard-templates/user_profile_developer.php:22
+#: templates/login_register_modal.php:83 templates/mobile_menu.php:110
+msgid "Email"
+msgstr "อีเมล์"
+
+#: libs/ajax_functions.php:2884 libs/dashboard_actions_functions.php:845
+#: libs/dashboard_actions_functions.php:855
+msgid "Email already exists.  Please choose a new one."
+msgstr "มีอีเมลอยู่แล้ว โปรดเลือกใหม่"
+
+#: libs/ajax_functions.php:3134
+msgid "Email field is empty!"
+msgstr "ช่องอีเมลว่างเปล่า!"
+
+#: contact_page.php:97 single-estate_agency.php:117
+#: templates/header_agency.php:55 templates/header_developer.php:74
+msgid "Email:"
+msgstr "อีเมล์:"
+
+#: libs/help_functions.php:5219
+msgid "Embed Video Id"
+msgstr "ฝังรหัสวิดีโอ"
+
+#: templates/submit_templates/property_video.php:56
+msgid "Embed Video id: "
+msgstr "ฝังรหัสวิดีโอ:"
+
+#: libs/help_functions.php:5220
+msgid "Embed Video Type"
+msgstr "ฝังประเภทวิดีโอ"
+
+#: libs/help_functions.php:5221
+msgid "Embed Virtual Tour"
+msgstr "ฝัง Virtual Tour"
+
+#: templates/submit_templates/property_subunits.php:34
+msgid "Enable "
+msgstr "ทำให้สามารถ"
+
+#: libs/css_js_include.php:874 libs/dashboard_functions.php:1250
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:28
+msgid "Enable Agent"
+msgstr "เปิดใช้งานตัวแทน"
+
+#: templates/submit_templates/property_location.php:283
+msgid "Enable Google Street View"
+msgstr "เปิดใช้งาน Google Street View"
+
+#: libs/css_js_include.php:872 libs/dashboard_functions.php:1248
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:100
+msgid "Enable Listing"
+msgstr "เปิดใช้งานรายการ"
+
+#: compare_listings.php:130 libs/dashboard_actions_functions.php:142
+#: libs/help_functions.php:5223
+#: templates/submit_templates/property_energy_effective.php:21
+msgid "Energy Class"
+msgstr "ระดับพลังงาน"
+
+#: libs/listing_functions.php:823
+msgid "Energy class"
+msgstr "ชั้นพลังงาน"
+
+#: compare_listings.php:129 libs/dashboard_actions_functions.php:150
+#: libs/help_functions.php:5224
+msgid "Energy Index"
+msgstr "ดัชนีพลังงาน"
+
+#: libs/listing_functions.php:820
+msgid "Energy index"
+msgstr "ดัชนีพลังงาน"
+
+#: templates/submit_templates/property_energy_effective.php:35
+msgid "Energy Index in kWh/m2a"
+msgstr "ดัชนีพลังงานใน kWh / m2a"
+
+#: templates/submit_templates/property_location.php:83
+msgid "Enter address"
+msgstr "ป้อนที่อยู่"
+
+#: libs/searchfunctions.php:141
+msgid "Enter an address, state, city, area or zip code"
+msgstr "ป้อนที่อยู่ รัฐ เมือง พื้นที่ หรือรหัสไปรษณีย์"
+
+#: templates/submit_templates/property_location.php:171
+msgid "Enter city"
+msgstr "ป้อนเมือง"
+
+#: templates/login_register_modal.php:145 templates/mobile_menu.php:173
+msgid "Enter Your Email Address"
+msgstr "กรอกที่อยู่อีเมล์ของคุณ"
+
+#: libs/help_functions.php:1697
+msgid "Event Planning & Services"
+msgstr "การวางแผนกิจกรรมและบริการ"
+
+#: libs/dashboard_functions.php:1406
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:17
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:4
+msgid "Expired"
+msgstr "หมดอายุ"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:74
+msgid "Expires on "
+msgstr "หมดอายุเมื่อ"
+
+#: libs/design_functions.php:2060
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templates/dashboard-templates/add_new_agent.php:104
+#: templates/dashboard-templates/add_new_agent_template.php:73
+#: templates/dashboard-templates/user_profile.php:52
+#: templates/dashboard-templates/user_profile_agency.php:72
+#: templates/dashboard-templates/user_profile_agency.php:105
+#: templates/dashboard-templates/user_profile_agent.php:63
+#: templates/dashboard-templates/user_profile_developer.php:66
+msgid "Facebook Url"
+msgstr "URL ของ Facebook"
+
+#: templates/listing_templates/overview_template.php:72
+msgid "Favorite"
+msgstr "รายการโปรด"
+
+#: libs/ajax_functions.php:112 libs/ajax_functions.php:214
+#: libs/css_js_include.php:860
+msgid "favorite"
+msgstr "ที่ชื่นชอบ"
+
+#: libs/dashboard_functions.php:322
+msgid "Favorite Properties"
+msgstr "คุณสมบัติรายการโปรด"
+
+#: libs/dashboard_functions.php:1453
+msgid "Favorites"
+msgstr "รายการโปรด"
+
+#: contact_page.php:101
+msgid "Fax:"
+msgstr "โทรสาร:"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:51
+#: templates/dashboard-templates/user_memebership_profile.php:140
+#: templates/featured_property_1.php:50 templates/featured_property_2.php:47
+#: templates/featured_property_3.php:54 templates/featured_property_4.php:63
+#: templates/property_cards_templates/property_card_featured_label.php:7
+#: templates/property_cards_templates/property_card_tags.php:6
+msgid "Featured"
+msgstr "แนะนำ"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:43
+msgid "Featured  Fee"
+msgstr "ค่าธรรมเนียมพิเศษ"
+
+#: templates/submit_templates/user_memebership_form.php:34
+msgid "Featured (extra): "
+msgstr "Featured (extra):"
+
+#: libs/design_functions.php:1806 libs/design_functions.php:1843
+#: libs/design_functions.php:1858
+msgid "featured icon"
+msgstr "ไอคอนที่เด่น"
+
+#: templates/featured_property_4b.php:13
+msgid "Featured Property"
+msgstr "คุณสมบัติเด่น"
+
+#: templates/submit_templates/property_featured.php:10
+msgid "Featured Submission"
+msgstr "การส่งที่น่าสนใจ"
+
+#: libs/help_functions.php:4769 libs/help_functions.php:4918 word_remove.php:91
+msgid "feet"
+msgstr "ฟุต"
+
+#: libs/help_functions.php:687
+msgid "field"
+msgstr "สนาม"
+
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:34
+msgid "Filter By Status"
+msgstr "กรองตามสถานะ"
+
+#: libs/help_functions.php:1699
+msgid "Financial Services"
+msgstr "บริการทางการเงิน"
+
+#: libs/general-settings.php:264
+msgid "First Footer Widget Area"
+msgstr "พื้นที่วิดเจ็ตส่วนท้ายแรก"
+
+#: templates/dashboard-templates/add_new_agent.php:63
+#: templates/dashboard-templates/add_new_agent_template.php:32
+#: templates/dashboard-templates/user_profile.php:18
+#: templates/dashboard-templates/user_profile_agent.php:14
+msgid "First Name"
+msgstr "ชื่อจริง"
+
+#: libs/ajax_functions.php:265 templates/property_page_acc_content.php:363
+#: templates/property_page_acc_content.php:378
+#: templates/property_page_tab_content.php:75
+#: templates/submit_templates/floor_plans.php:16
+#: templates/submit_templates/property_floor_plans.php:71
+msgid "Floor Plans"
+msgstr "แผนผังชั้น"
+
+#: libs/help_functions.php:1701
+msgid "Food"
+msgstr "อาหาร"
+
+#: libs/general-settings.php:239
+msgid "Footer Menu"
+msgstr "เมนูส่วนท้าย"
+
+#: libs/searchfunctions.php:2063 libs/searchfunctions.php:2293
+msgid "For"
+msgstr "สำหรับ"
+
+#: functions.php:73
+msgid ""
+"For better speed results, the theme offers a built-in caching system for "
+"properties and categories. Check this article how to enable - disable theme "
+"cache: "
+msgstr ""
+"เพื่อให้ได้ผลลัพธ์ความเร็วที่ดีขึ้น "
+"ธีมนำเสนอระบบแคชในตัวสำหรับคุณสมบัติและหมวดหมู่ "
+"ตรวจสอบบทความนี้วิธีเปิดใช้งาน - ปิดใช้งานแคชของธีม:"
+
+#: word_remove.php:252
+msgid ""
+"For further setup see our help files, knowledgebase articles and tutorials "
+"to help make this process easier and more enjoyable for you: "
+msgstr ""
+"สำหรับการติดตั้งเพิ่มเติมโปรดดูที่ไฟล์วิธีใช้บทความความรู้และแบบฝึกหัดเพื่อช่วยให้กระบวนการนี้ง่ายและสะดวกสำหรับคุณ"
+":"
+
+#: templates/mobile_menu.php:94
+msgid "Forgot Password?"
+msgstr "ลืมรหัสผ่าน?"
+
+#: templates/login_register_modal.php:159
+msgid "Forgot password?"
+msgstr "ลืมรหัสผ่าน?"
+
+#: libs/general-settings.php:297
+msgid "Fourth Footer Widget Area"
+msgstr "บริเวณวิดเจ็นส่วนท้ายที่สี่"
+
+#: templates/dashboard-templates/message-listing-unit.php:29
+msgid "From"
+msgstr "จาก"
+
+#: libs/dashboard_actions_functions.php:462
+msgid "from date"
+msgstr "จากวันที่"
+
+#: templates/dashboard-templates/message-listing-unit.php:84
+msgid "From: "
+msgstr "จาก:"
+
+#. Template Name of the theme
+msgid "Front Property Submit"
+msgstr "ส่งด้านหน้าของสินทรัพย์"
+
+#: libs/help_functions.php:4769 libs/help_functions.php:4851
+#: libs/help_functions.php:4852 libs/help_functions.php:4853
+#: libs/help_functions.php:4854 libs/help_functions.php:4855
+#: libs/help_functions.php:4858 libs/help_functions.php:4864
+#: libs/help_functions.php:4870 libs/help_functions.php:4877
+#: libs/help_functions.php:4918 libs/help_functions.php:4927
+#: libs/help_functions.php:4928 libs/help_functions.php:4929
+#: libs/help_functions.php:4930 libs/help_functions.php:4931
+#: libs/help_functions.php:4934 libs/help_functions.php:4940
+#: libs/help_functions.php:4946 libs/help_functions.php:4953 word_remove.php:91
+msgid "ft"
+msgstr "ฟุต"
+
+#: templates/featured_property_4.php:144
+#: templates/property_cards_templates/property_card_details_type.php:30
+msgid "full info"
+msgstr "ข้อมูลเต็มรูปแบบ"
+
+#: libs/css_js_include.php:767 templates/google_maps_base.php:99
+#: templates/google_maps_base_map_list.php:12
+msgid "Fullscreen"
+msgstr "เต็มจอ"
+
+#: templates/listing_templates/single-overview-section.php:49
+msgid "Garages"
+msgstr "ที่จอดรถ"
+
+#. Template Name of the theme
+#: libs/help_functions.php:829
+msgid "GDPR Terms"
+msgstr "เงื่อนไขตาม GDPR"
+
+#: word_remove.php:73
+msgid "General Settings"
+msgstr "การตั้งค่าทั่วไป"
+
+#: libs/dashboard_functions.php:209
+msgid "Generated Invoice %s"
+msgstr "หมายเลขใบแจ้งหนี้%s"
+
+#: libs/css_js_include.php:563
+msgid "Geolocation is not supported by this browser."
+msgstr "เบราว์เซอร์นี้ไม่สนับสนุนตำแหน่งทางภูมิศาสตร์"
+
+#: libs/css_js_include.php:661 libs/css_js_include.php:1125
+msgid "Geolocation was not successful"
+msgstr "การระบุตำแหน่งทางภูมิศาสตร์ไม่สำเร็จ"
+
+#: word_remove.php:18
+msgid "Get help"
+msgstr "ขอความช่วยเหลือ"
+
+#: libs/dashboard_actions_functions.php:255 libs/help_functions.php:5210
+msgid "Google Camera Angle"
+msgstr "มุมกล้อง Google"
+
+#: word_remove.php:61
+msgid "Google Maps API KEY"
+msgstr "คีย์ Google Maps API"
+
+#: templates/google_maps_base.php:113
+msgid "Google Maps Search"
+msgstr "ค้นหาแผนที่ด้วย Google "
+
+#: templates/submit_templates/property_location.php:292
+msgid "Google Street View - Camera Angle (value from 0 to 360)"
+msgstr "Google Street View - มุมกล้อง (ค่าตั้งแต่ 0 ถึง 360)"
+
+#: libs/dashboard_actions_functions.php:247
+msgid "Google View"
+msgstr "มุมมอง Google"
+
+#: word_remove.php:233
+msgid "grid"
+msgstr "ตะแกรง"
+
+#: libs/help_functions.php:4773 libs/help_functions.php:4855
+#: libs/help_functions.php:4861 libs/help_functions.php:4867
+#: libs/help_functions.php:4873 libs/help_functions.php:4876
+#: libs/help_functions.php:4877 libs/help_functions.php:4878
+#: libs/help_functions.php:4879 libs/help_functions.php:4880
+#: libs/help_functions.php:4922 libs/help_functions.php:4931
+#: libs/help_functions.php:4937 libs/help_functions.php:4943
+#: libs/help_functions.php:4949 libs/help_functions.php:4952
+#: libs/help_functions.php:4953 libs/help_functions.php:4954
+#: libs/help_functions.php:4955 libs/help_functions.php:4956 word_remove.php:95
+msgid "ha"
+msgstr "ฮ้า"
+
+#: word_remove.php:220
+msgid "half map"
+msgstr "แผนที่ครึ่ง"
+
+#: functions.php:158
+msgid ""
+"Half Map Template - make sure your page has the \"media header type\" set as "
+"google map "
+msgstr ""
+"เทมเพลตแผนที่ครึ่งหนึ่ง - ตรวจสอบให้แน่ใจว่าหน้าเว็บของคุณมี &quot;"
+"ประเภทส่วนหัวสื่อ&quot; ที่ตั้งค่าเป็น Google Map"
+
+#: libs/searchfunctions.php:2104
+msgid "Has"
+msgstr "มี"
+
+#: libs/general-settings.php:348
+msgid "Header4 Widget Area"
+msgstr "พื้นที่วิดเจ็ต Header4"
+
+#: libs/general-settings.php:350
+msgid "Header4 widget area"
+msgstr "พื้นที่เครื่องมือ Header4"
+
+#: libs/help_functions.php:1703
+msgid "Health & Medical"
+msgstr "สุขภาพและการแพทย์"
+
+#: libs/help_functions.php:4773 libs/help_functions.php:4922 word_remove.php:95
+msgid "hectares"
+msgstr "เฮคเตอร์"
+
+#: templates/realtor_templates/agent_contact_bar.php:13
+#: templates/realtor_templates/mobile_agent_area.php:12
+msgid "Hello I'm interested in "
+msgstr "สวัสดีฉันสนใจใน "
+
+#: templates/realtor_templates/agent_contact_bar.php:4
+msgid "Hello I'm interested in one of your listings."
+msgstr "สวัสดี ฉันสนใจรายชื่อของคุณ"
+
+#: functions.php:73
+msgid "help article"
+msgstr "บทความช่วยเหลือ"
+
+#: functions.php:86 word_remove.php:62
+msgid "here"
+msgstr "ที่นี่"
+
+#: libs/ajax_functions.php:2244 libs/ajax_functions.php:2357
+#: libs/help_functions.php:4669
+msgid "Hi there,"
+msgstr "สวัสดี,"
+
+#: templates/breadcrumbs.php:27
+msgid "Home"
+msgstr "บ้าน"
+
+#: libs/help_functions.php:5352
+msgid "Home Price"
+msgstr "ราคาบ้าน"
+
+#: libs/help_functions.php:1705
+msgid "Home Services "
+msgstr "บริการบ้าน"
+
+#: libs/dashboard_actions_functions.php:42
+#: templates/submit_templates/property_description.php:102
+msgid "Homeowners Association Fee(monthly)"
+msgstr "ค่าธรรมเนียมสมาคมเจ้าของบ้าน (รายเดือน)"
+
+#: libs/css_js_include.php:711 libs/help_functions.php:5334
+#: libs/help_functions.php:5344
+msgid "HOO fees"
+msgstr "ค่าธรรมเนียม HOO"
+
+#: libs/help_functions.php:1584
+msgid "Hospitals"
+msgstr "โรงพยาบาล"
+
+#: libs/help_functions.php:1707
+msgid "Hotels & Travel"
+msgstr "โรงแรมและการท่องเที่ยว"
+
+#: templates/google-map-contact-details.php:33
+msgid "How To Find Us"
+msgstr "วิธีการหาเรา"
+
+#: word_remove.php:252
+msgid "http://help.wpresidence.net/"
+msgstr "http://help.wpresidence.net/"
+
+#. Theme URI of the theme
+msgid "http://themeforest.net/user/wpestate"
+msgstr "http://themeforest.net/user/wpestate"
+
+#. Author URI of the theme
+msgid "http://www.wpestate.org"
+msgstr "http://www.wpestate.org"
+
+#: templates/dashboard-templates/user_profile_agency.php:64
+#: templates/dashboard-templates/user_profile_agent.php:54
+#: templates/dashboard-templates/user_profile_developer.php:57
+msgid "HubSpot Api Key"
+msgstr "HubSpot Api Key"
+
+#: templates/google_maps_base.php:96 templates/google_maps_base_map_list.php:8
+msgid "Hybrid"
+msgstr "เป็นลูกผสม"
+
+#: templates/login_register_modal.php:123 templates/mobile_menu.php:148
+msgid "I agree with "
+msgstr "ฉันเห็นด้วยกับ"
+
+#: libs/help_functions.php:829
+msgid "I consent to the"
+msgstr "ฉันยินยอมที่จะ"
+
+#: templates/agent_contact.php:92
+msgid "I'm interested in"
+msgstr "ฉันสนใจใน"
+
+#: libs/design_functions.php:1967
+msgid "icon"
+msgstr "ไอคอน"
+
+#: templates/property_cards_templates/property_card_details_type1.php:20
+msgid "ID"
+msgstr "ID"
+
+#. Template Name of the theme
+msgid "Idx Page"
+msgstr "หน้า Idx"
+
+#: libs/ajax_functions.php:1331
+msgid "if you don't know how to get your license key. Thank you!"
+msgstr "หากคุณไม่ทราบวิธีรับรหัสใบอนุญาต ขอขอบคุณ!"
+
+#: libs/gallery_functions.php:501 libs/gallery_functions.php:554
+#: templates/featured_property_1.php:92 templates/featured_property_1.php:112
+#: templates/featured_property_2.php:86 templates/header5.php:22
+#: templates/header_agency.php:38 templates/header_developer.php:34
+#: templates/image_gallery.php:45 templates/image_gallery.php:78
+#: templates/mobile_menu_header.php:8 templates/mobile_menu_header.php:10
+#: word_remove.php:10 zillow_estimate_page.php:79
+msgid "image"
+msgstr "ภาพ"
+
+#: libs/listing_functions.php:83 libs/listing_functions.php:104
+msgid "Image Gallery"
+msgstr "แกลเลอรีรูปภาพ"
+
+#: libs/css_js_include.php:982
+msgid "Image needs to be at least 500px height  x 500px wide!"
+msgstr "รูปภาพต้องมีความกว้างอย่างน้อย 500px x กว้าง 500px!"
+
+#: libs/css_js_include.php:986
+msgid "images"
+msgstr "ภาพ"
+
+#: templates/dashboard-templates/user_memebership_profile.php:141
+msgid "Images / per listing"
+msgstr "รูปภาพ / ต่อรายการ"
+
+#: word_remove.php:52
+msgid "Import Demo Content"
+msgstr "เนื้อหาการนำเข้าการนำเข้า"
+
+#: templates/property_cards_templates/property_card_category_type1.php:7
+#: templates/property_slider_shortcode.php:57
+msgid "in"
+msgstr "ใน"
+
+#: templates/agency_reviews.php:237 templates/agent_reviews.php:213
+#: templates/developer_reviews.php:217 templates/property_reviews.php:237
+msgid "in order to post a review "
+msgstr "เพื่อโพสต์ความเห็น"
+
+#: templates/dashboard-templates/add_new_agent.php:227
+msgid "In what area are your properties"
+msgstr "ในพื้นที่ของคุณมีคุณสมบัติอะไรบ้าง"
+
+#: libs/dashboard_functions.php:1473
+msgid "Inbox"
+msgstr "กล่องขาเข้า"
+
+#: functions.php:98
+msgid "Increasing memory allocated to PHP"
+msgstr "เพิ่มหน่วยความจำที่จัดสรรให้กับ PHP"
+
+#: libs/dashboard_functions.php:267
+msgid "Inquiries"
+msgstr "ติดต่อสอบถาม"
+
+#: templates/dashboard-templates/add_new_agent.php:120
+#: templates/dashboard-templates/add_new_agent_template.php:79
+#: templates/dashboard-templates/user_profile.php:67
+#: templates/dashboard-templates/user_profile_agency.php:77
+#: templates/dashboard-templates/user_profile_agency.php:110
+#: templates/dashboard-templates/user_profile_agent.php:68
+#: templates/dashboard-templates/user_profile_developer.php:71
+msgid "Instagram Url"
+msgstr "Url Instagram"
+
+#: libs/plugins.php:129
+msgid "Install Plugins"
+msgstr "ติดตั้งปลั๊กอิน"
+
+#: libs/plugins.php:128
+msgid "Install Required Plugins"
+msgstr "ติดตั้งปลั๊กอินที่จำเป็น"
+
+#: libs/plugins.php:130
+msgid "Installing Plugin: %s"
+msgstr "การติดตั้งปลั๊กอิน: %s"
+
+#: libs/ajax_functions.php:2247
+msgid "Instructions: "
+msgstr "คำแนะนำ:"
+
+#: libs/help_functions.php:5365
+msgid "Interest"
+msgstr "ดอกเบี้ย"
+
+#: libs/ajax_functions.php:3143
+msgid "Invalid E-mail address!"
+msgstr "ที่อยู่อีเมลที่ไม่ถูกต้อง!"
+
+#: libs/ajax_functions.php:2812 libs/dashboard_actions_functions.php:821
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "ชื่อผู้ใช้ไม่ถูกต้อง (ไม่ใช้อักขระพิเศษหรือช่องว่าง)!"
+
+#: libs/ajax_functions.php:3151
+msgid "Invalid Username!"
+msgstr "ชื่อผู้ใช้ที่ไม่ถูกต้อง!"
+
+#: libs/dashboard_actions_functions.php:494
+msgid "Invoice Type"
+msgstr "ประเภทใบแจ้งหนี้"
+
+#: templates/dashboard-templates/add_new_agent_template.php:231
+msgid "is not editable"
+msgstr "ไม่สามารถแก้ไขได้"
+
+#: libs/help_functions.php:1620
+msgid "K"
+msgstr "K"
+
+#: templates/directory_filters.php:306
+msgid "keyword"
+msgstr "คำหลัก"
+
+#: libs/css_js_include.php:821 libs/help_functions.php:1831
+msgid "km"
+msgstr "กม."
+
+#: word_remove.php:204
+msgid "Language for datepicker"
+msgstr "ภาษาสำหรับ datepicker"
+
+#: templates/dashboard-templates/user_profile_agency.php:40
+msgid "Languages"
+msgstr "ภาษา"
+
+#: templates/dashboard-templates/add_new_agent.php:68
+#: templates/dashboard-templates/add_new_agent_template.php:37
+#: templates/dashboard-templates/user_profile.php:23
+#: templates/dashboard-templates/user_profile_agent.php:19
+msgid "Last Name"
+msgstr "นามสกุล"
+
+#: 404.php:41
+msgid "Latest Articles"
+msgstr "บทความล่าสุด"
+
+#: 404.php:21
+msgid "Latest Listings"
+msgstr "รายการล่าสุด"
+
+#: templates/submit_templates/property_location.php:266
+msgid "Latitude (for Google Maps)"
+msgstr "Latitude (สำหรับ Google แผนที่)"
+
+#: crm_functions/crm_functions.php:14
+msgid "Lead Info"
+msgstr "ข้อมูลลูกค้าเป้าหมาย"
+
+#: crm_functions/templates/crm_leads_submit.php:2
+msgid "Lead Information"
+msgstr "ข้อมูลลูกค้าเป้าหมาย"
+
+#: crm_functions/crm_functions.php:363
+msgid "Lead No"
+msgstr "หมายเลขลูกค้าเป้าหมาย"
+
+#: crm_functions/templates/dashboard_lead_unit.php:3
+msgid "Lead no "
+msgstr "จำนวนลูกค้าเป้าหมาย"
+
+#: libs/dashboard_functions.php:1422
+msgid "Leads"
+msgstr "ลูกค้าที่เป็นเป้าหมาย"
+
+#: comments.php:54
+msgid "Leave a Reply"
+msgstr "ทิ้งคำตอบไว้"
+
+#: comments.php:55
+msgid "Leave a Reply to %s"
+msgstr "ปล่อยให้ตอบกลับไปที่ %s"
+
+#: templates/dashboard-templates/user_profile_agency.php:50
+#: templates/dashboard-templates/user_profile_developer.php:48
+msgid "License"
+msgstr "สิทธิ์การใช้งาน"
+
+#: templates/header_agency.php:97 templates/header_developer.php:134
+msgid "License:"
+msgstr "ใบอนุญาต:"
+
+#: libs/megamenu.php:249
+msgid "Link Relationship (XFN)"
+msgstr "ความสัมพันธ์ของลิงก์ (XFN)"
+
+#: templates/dashboard-templates/add_new_agent.php:114
+#: templates/dashboard-templates/add_new_agent_template.php:94
+#: templates/dashboard-templates/user_profile.php:62
+#: templates/dashboard-templates/user_profile_agency.php:92
+#: templates/dashboard-templates/user_profile_agent.php:83
+#: templates/dashboard-templates/user_profile_developer.php:86
+msgid "Linkedin Url"
+msgstr "Url Linkedin"
+
+#: word_remove.php:234
+msgid "list"
+msgstr "รายการ"
+
+#: libs/dashboard_actions_functions.php:77
+msgid "Listed In"
+msgstr "จดทะเบียนใน"
+
+#: templates/submit_templates/property_categories.php:74
+msgid "Listed In "
+msgstr "จดทะเบียนใน"
+
+#: libs/dashboard_actions_functions.php:472
+#: templates/dashboard-templates/invoice_listing_unit.php:23
+msgid "Listing"
+msgstr "รายชื่อ"
+
+#: templates/agency_unit.php:151 templates/agent_unit.php:24
+#: templates/agent_unit_widget.php:111
+msgid "listing"
+msgstr "รายชื่อ"
+
+#: templates/submit_templates/property_details.php:79
+msgid "Listing Details"
+msgstr "รายละเอียดของรายชื่อ"
+
+#: templates/submit_templates/property_location.php:78
+msgid "Listing Location"
+msgstr "รายชื่อสถานที่"
+
+#: templates/submit_templates/property_images.php:70
+#: templates/submit_templates/property_images_new.php:87
+msgid "Listing Media"
+msgstr "สื่อรายการ"
+
+#: libs/ajax_functions.php:4926
+msgid "Listing Payment"
+msgstr "ชำระเงินรายการ"
+
+#: libs/ajax_functions.php:4818
+msgid "Listing payment on "
+msgstr "การชำระเงินรายการใน"
+
+#: libs/ajax_functions.php:4936
+msgid "Listing Payment with Featured option"
+msgstr "ชำระเงินรายการด้วยตัวเลือกที่โดดเด่น"
+
+#: libs/ajax_functions.php:1813 libs/ajax_functions.php:4679
+#: templates/dashboard-templates/user_memebership_profile.php:138
+#: templates/half_map_core.php:175
+msgid "Listings"
+msgstr "รายชื่อ"
+
+#: libs/ajax_functions.php:1270 templates/agency_unit.php:149
+#: templates/agent_unit.php:22 templates/agent_unit_widget.php:109
+msgid "listings"
+msgstr "รายชื่อ"
+
+#: templates/dashboard-templates/user_memebership_profile.php:136
+msgid "listings "
+msgstr "รายชื่อ"
+
+#: libs/dashboard_functions.php:386
+msgid "Listings Views"
+msgstr "มุมมองรายการ"
+
+#: templates/normal_directory.php:237
+msgid "Load More Listings"
+msgstr "โหลดรายการอื่น ๆ"
+
+#: templates/agency_listings.php:175 templates/agent_listings.php:204
+#: templates/developer_listings.php:131
+msgid "Load More Properties"
+msgstr "โหลดคุณสมบัติเพิ่มเติม"
+
+#: libs/css_js_include.php:588
+msgid "loading results..."
+msgstr "กำลังโหลดผล ..."
+
+#: templates/google_maps_base.php:69 templates/google_maps_base_map_list.php:16
+msgid "loading..."
+msgstr "กำลังโหลดผล ..."
+
+#: libs/help_functions.php:1709
+msgid "Local Flavor"
+msgstr "รสชาติในท้องถิ่น"
+
+#: libs/help_functions.php:1711
+msgid "Local Services"
+msgstr "บริการท้องถิ่น"
+
+#: templates/advanced_search_type_half.php:82
+#: templates/dashboard-templates/add_new_agent.php:226
+#: templates/dashboard-templates/user_profile_agency.php:216
+#: templates/dashboard-templates/user_profile_developer.php:190
+msgid "Location"
+msgstr "ที่ตั้ง"
+
+#: templates/property_slider_shortcode.php:60
+msgid "location"
+msgstr "สถานที่"
+
+#: templates/half_map_core.php:105 templates/login_register_modal.php:62
+#: templates/mobile_menu.php:82 templates/mobile_menu.php:91
+#: templates/normal_map_core.php:112
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+#: templates/agency_reviews.php:237 templates/agent_reviews.php:213
+#: templates/developer_reviews.php:217 templates/property_reviews.php:237
+msgid "login"
+msgstr "เข้าสู่ระบบ"
+
+#: libs/ajax_functions.php:2998 libs/ajax_functions.php:3055
+#: libs/ajax_functions.php:3105
+msgid "Login successful, redirecting..."
+msgstr "เข้าสู่ระบบสำเร็จการเปลี่ยนเส้นทาง ..."
+
+#: libs/dashboard_functions.php:1517 libs/dashboard_functions.php:1594
+msgid "Logout"
+msgstr "ออกจากระบบ"
+
+#: templates/submit_templates/property_location.php:275
+msgid "Longitude (for Google Maps)"
+msgstr "ลองจิจูด (สำหรับ Google แผนที่)"
+
+#: compare_listings.php:125
+msgid "lot size"
+msgstr "ขนาดล็อต"
+
+#: templates/submit_templates/property_details.php:91
+msgid "Lot Size in"
+msgstr "ขนาดพื้นที่ใน"
+
+#: templates/directory_filters.php:207
+msgid "Lot Size:"
+msgstr "ขนาดล็อต:"
+
+#: libs/help_functions.php:1624
+msgid "M"
+msgstr "M"
+
+#: libs/help_functions.php:4770 libs/help_functions.php:4852
+#: libs/help_functions.php:4857 libs/help_functions.php:4858
+#: libs/help_functions.php:4859 libs/help_functions.php:4860
+#: libs/help_functions.php:4861 libs/help_functions.php:4865
+#: libs/help_functions.php:4871 libs/help_functions.php:4878
+#: libs/help_functions.php:4919 libs/help_functions.php:4928
+#: libs/help_functions.php:4933 libs/help_functions.php:4934
+#: libs/help_functions.php:4935 libs/help_functions.php:4936
+#: libs/help_functions.php:4937 libs/help_functions.php:4941
+#: libs/help_functions.php:4947 libs/help_functions.php:4954 word_remove.php:92
+msgid "m"
+msgstr "ม."
+
+#: libs/css_js_include.php:564
+msgid "m radius"
+msgstr "m รัศมี"
+
+#: templates/dashboard-templates/user_memebership_profile.php:176
+msgid "make payment recurring "
+msgstr "ทำการชำระเงินเป็นประจำ"
+
+#: templates/submit_templates/property_featured.php:13
+msgid "Make this listing featured from property list."
+msgstr "ทำให้รายชื่อนี้เป็นจุดเด่นจากรายการทรัพย์สิน"
+
+#: templates/submit_templates/property_images_new.php:175
+msgid "manage floorplans"
+msgstr "จัดการ floorplans"
+
+#: libs/ajax_functions.php:19 libs/listing_functions.php:73
+#: libs/listing_functions.php:97 templates/property_page_acc_content.php:207
+#: templates/property_page_acc_content.php:221
+#: templates/property_page_tab_content.php:204
+msgid "Map"
+msgstr "แผนที่"
+
+#: templates/featured_property_4.php:145
+msgid "map"
+msgstr "แผนที่"
+
+#: word_remove.php:57
+msgid "Map Settings"
+msgstr "การตั้งค่าแผนที่"
+
+#: templates/half_map_core.php:176
+msgid "Map View"
+msgstr "Map View"
+
+#: libs/help_functions.php:1713
+msgid "Mass Media"
+msgstr "สื่อมวลชน"
+
+#: functions.php:143
+msgid ""
+"MbString extension not detected. Please contact your hosting provider in "
+"order to enable it."
+msgstr "ไม่พบส่วนขยาย MbString โปรดติดต่อผู้ให้บริการโฮสติ้งเพื่อเปิดใช้งาน"
+
+#: word_remove.php:117
+msgid "Measurement Unit"
+msgstr "หน่วยวัด"
+
+#: libs/megamenu.php:294
+msgid "Mega Menu Widget Area"
+msgstr "Mega Widget พื้นที่เมนู"
+
+#: templates/dashboard-templates/add_new_agent_template.php:65
+#: templates/dashboard-templates/user_profile_agent.php:46
+msgid "Member of"
+msgstr "สมาชิกของ"
+
+#: templates/agentdetails.php:88
+msgid "Member of:"
+msgstr "สมาชิกของ:"
+
+#: templates/submit_templates/user_memebership_form.php:21
+msgid "Membership"
+msgstr "การเป็นสมาชิก"
+
+#: libs/ajax_functions.php:5186 libs/ajax_functions.php:5189
+msgid "Membership Payment"
+msgstr "การชำระเงินเป็นสมาชิก"
+
+#: libs/ajax_functions.php:5179
+msgid "membership payment on "
+msgstr "การชำระเงินเป็นสมาชิกใน"
+
+#: libs/megamenu.php:264
+msgid "Menu Item Icon(ex: fa fa-comment)"
+msgstr "ไอคอนไอเท็มเมนู (เช่น: fa fa-comment)"
+
+#: libs/megamenu.php:273
+msgid "Menu Item Label(ex: \"new\")"
+msgstr "ป้ายรายการเมนู (เช่น &quot;ใหม่&quot;)"
+
+#: functions.php:589 functions.php:604
+msgid "Message sent from page: "
+msgstr "ข้อความที่ส่งมาจากหน้า:"
+
+#: libs/help_functions.php:4770 libs/help_functions.php:4919 word_remove.php:92
+msgid "meters"
+msgstr "เมตร"
+
+#: libs/css_js_include.php:820 libs/help_functions.php:1828
+msgid "miles"
+msgstr "ไมล์"
+
+#: templates/dashboard-templates/add_new_agent.php:83
+#: templates/dashboard-templates/add_new_agent_template.php:47
+#: templates/dashboard-templates/user_profile.php:38
+#: templates/dashboard-templates/user_profile_agency.php:30
+#: templates/dashboard-templates/user_profile_agent.php:35
+#: templates/dashboard-templates/user_profile_developer.php:28
+msgid "Mobile"
+msgstr "โทรศัพท์มือถือ"
+
+#: libs/general-settings.php:238
+msgid "Mobile Menu"
+msgstr "เมนูบนมือถือ"
+
+#: contact_page.php:93 single-estate_agency.php:122
+#: templates/header_agency.php:60 templates/header_developer.php:81
+msgid "Mobile:"
+msgstr "มือถือ:"
+
+#: archive.php:26
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:26
+msgid "Monthly Archives: %s"
+msgstr "คลังข้อมูลรายเดือน: %s"
+
+#: templates/dashboard-templates/user_memebership_profile.php:227
+msgid "months"
+msgstr "เดือน"
+
+#: libs/help_functions.php:2442 libs/help_functions.php:2474
+msgid "more details here"
+msgstr "รายละเอียดเพิ่มเติมได้ที่นี่"
+
+#: libs/help_functions.php:3960
+msgid "More Search Options"
+msgstr "ตัวเลือกการค้นหาเพิ่มเติม"
+
+#: libs/css_js_include.php:737
+msgid "Mortgage Payments:"
+msgstr "การชำระเงินจำนอง:"
+
+#: libs/megamenu.php:205
+msgid "Move down"
+msgstr "ลงล่าง"
+
+#: libs/megamenu.php:192
+msgid "Move up"
+msgstr "ย้ายขึ้นบน"
+
+#: libs/dashboard_functions.php:1461
+msgid "My Invoices"
+msgstr "ใบแจ้งหนี้ของฉัน"
+
+#: templates/agent_listings.php:177 templates/agent_unit_featured.php:85
+#: templates/featured_property_1.php:131
+msgid "My Listings"
+msgstr "รายชื่อของฉัน"
+
+#: templates/google_maps_base.php:98 templates/google_maps_base_map_list.php:11
+msgid "My Location"
+msgstr "ตำแหน่งของฉัน"
+
+#: libs/dashboard_functions.php:1440
+msgid "My Profile"
+msgstr "ประวัติของฉัน"
+
+#: libs/dashboard_functions.php:1444
+msgid "My Properties List"
+msgstr "รายการคุณสมบัติของฉัน"
+
+#: comments.php:72 crm_functions/crm_functions.php:315
+msgid "Name"
+msgstr "ชื่อ"
+
+#: libs/megamenu.php:225
+msgid "Navigation Label"
+msgstr "ป้ายการนำทาง"
+
+#: templates/mobile_menu.php:93
+msgid "Need an account? Register here!"
+msgstr "ต้องการบัญชี? ลงทะเบียนที่นี่!"
+
+#: templates/submit_templates/property_location.php:182
+msgid "Neighborhood"
+msgstr "ย่าน"
+
+#: crm_functions/crm_functions.php:29
+#: crm_functions/templates/dashboard_contact_unit.php:26
+#: crm_functions/templates/dashboard_lead_unit.php:58
+msgid "New"
+msgstr "ใหม่"
+
+#: templates/dashboard-templates/message-listing-unit.php:20
+msgid "new message"
+msgstr "ข้อความใหม่"
+
+#: templates/dashboard-templates/change_pass_template.php:11
+msgid "New Password "
+msgstr "รหัสผ่านใหม่"
+
+#: comments.php:31
+msgid "Newer Comments &raquo;"
+msgstr "ความคิดเห็นที่ใหม่กว่า &quot;"
+
+#: functions.php:339
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "โพสต์ใหม่ <span class=\"meta-nav\">→</span>"
+
+#: libs/help_functions_cards.php:15 templates/normal_directory.php:72
+#: templates/property_list_filters_search.php:12
+#: templates/property_list_filter_half.php:11
+msgid "Newest first"
+msgstr "ใหม่สุดก่อน"
+
+#: templates/google_maps_base.php:103
+msgid "Next"
+msgstr "ต่อไป"
+
+#: single-idx.php:46 single.php:53
+msgid "Next page"
+msgstr "หน้าต่อไป"
+
+#: front_property_submit.php:832 word_remove.php:67 word_remove.php:213
+#: word_remove.php:247
+msgid "Next Step"
+msgstr "ขั้นตอนต่อไป"
+
+#: libs/help_functions.php:1715
+msgid "Nightlife"
+msgstr "ไนท์ไลฟ์"
+
+#: libs/ajax_functions.php:5061
+msgid "no listings available"
+msgstr "ไม่มีรายชื่อ"
+
+#: libs/css_js_include.php:909
+msgid "No More Listings"
+msgstr "ไม่มีรายการอื่น ๆ"
+
+#: libs/css_js_include.php:582
+msgid "No results found!"
+msgstr "ไม่พบผลลัพธ์!"
+
+#: templates/submit_templates/property_status.php:44
+msgid "no status"
+msgstr "ไม่มีสถานะ"
+
+#: libs/dashboard_functions.php:1752
+#: templates/dashboard-templates/add_new_agent.php:163
+#: templates/dashboard-templates/add_new_agent.php:190
+#: templates/dashboard-templates/add_new_agent_template.php:262
+#: templates/dashboard-templates/add_new_agent_template.php:282
+#: templates/dashboard-templates/user_profile_agent.php:240
+#: templates/dashboard-templates/user_profile_agent.php:260
+#: templates/submit_templates/property_categories.php:65
+#: templates/submit_templates/property_categories.php:84
+#: templates/submit_templates/property_location.php:108
+#: templates/submit_templates/property_location.php:156
+#: templates/submit_templates/property_location.php:162
+#: templates/submit_templates/property_location.php:205
+#: templates/submit_templates/property_location.php:211
+msgid "None"
+msgstr "ไม่มี"
+
+#: libs/listing_functions.php:849
+msgid "Not Available"
+msgstr "ไม่สามารถใช้ได้"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:56
+msgid "Not enough listings to duplicate "
+msgstr "มีรายการไม่เพียงพอที่จะทำซ้ำ"
+
+#: libs/dashboard_actions_functions.php:480
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:7
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:24
+#: templates/dashboard-templates/invoice_listing_unit.php:51
+msgid "Not Paid"
+msgstr "ไม่ได้ชำระเงิน"
+
+#: libs/ajax_functions.php:183
+msgid "Number of Page Views"
+msgstr "จำนวนการดูหน้าเว็บ"
+
+#: templates/agency_reviews.php:88 templates/agent_reviews.php:74
+#: templates/developer_reviews.php:74 templates/property_reviews.php:97
+msgid "of"
+msgstr "ของ"
+
+#: templates/dashboard-templates/change_pass_template.php:6
+msgid "Old Password"
+msgstr "รหัสผ่านเก่า"
+
+#: libs/ajax_functions.php:3831
+msgid "Old Password is not correct"
+msgstr "รหัสผ่านเดิมไม่ถูกต้อง"
+
+#: libs/help_functions_cards.php:16 templates/normal_directory.php:73
+#: templates/property_list_filters_search.php:13
+#: templates/property_list_filter_half.php:12
+msgid "Oldest first"
+msgstr "เก่าที่สุดก่อน"
+
+#: zillow_estimate_page.php:80
+msgid "On"
+msgstr "เปิด"
+
+#: single-idx.php:28 single.php:39
+msgid "on"
+msgstr "บน"
+
+#: libs/events.php:11
+msgid "Once Weekly"
+msgstr "สัปดาห์ละครั้ง"
+
+#: libs/ajax_functions.php:2844 libs/dashboard_actions_functions.php:837
+msgid "One of the password field is empty!"
+msgstr "หนึ่งในฟิลด์รหัสผ่านว่างเปล่า!"
+
+#: comments.php:16
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$sคิดใน &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+#: templates/dashboard-templates/invoice_listing_unit.php:40
+msgid "One Time"
+msgstr "ครั้งหนึ่ง"
+
+#: libs/listing_functions.php:676
+msgid "Open In Google Maps"
+msgstr "เปิดใน Google Maps"
+
+#: libs/megamenu.php:238
+msgid "Open link in a new window/tab"
+msgstr "เปิดลิงก์ในหน้าต่าง / แท็บใหม่"
+
+#: libs/css_js_include.php:766 templates/google_maps_base.php:84
+#: templates/google_maps_base.php:88
+msgid "open map"
+msgstr "เปิดแผนที่"
+
+#: word_remove.php:20
+msgid "Open ticket"
+msgstr "เปิดตั๋ว"
+
+#: templates/dashboard-templates/user_profile_agency.php:55
+#: templates/google-map-contact-details.php:49
+msgid "Opening Hours"
+msgstr "เวลาทำการ"
+
+#: templates/header_agency.php:91
+msgid "Opening Hours:"
+msgstr "เวลาทำการ:"
+
+#: word_remove.php:51
+msgid "OR"
+msgstr "หรือ"
+
+#: templates/login_register_modal.php:67
+msgid "or"
+msgstr "หรือ"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:3
+msgid "Order By"
+msgstr "เรียงตาม"
+
+#: libs/megamenu.php:344
+msgid "Original: %s"
+msgstr "ต้นฉบับ: %s"
+
+#: templates/other_agents.php:5 templates/other_agents.php:7
+msgid "Other Agents"
+msgstr "ตัวแทนอื่น ๆ"
+
+#: libs/listing_functions.php:516
+#: templates/submit_templates/property_amenities.php:54
+msgid "Other Features"
+msgstr "คุณสมบัติอื่น ๆ"
+
+#: templates/multi_units.php:23
+msgid "Other units in"
+msgstr "หน่วยงานอื่น ๆ"
+
+#: templates/agency_agents.php:45
+msgid "Our Agents"
+msgstr "ตัวแทนของเรา"
+
+#: templates/header_agency.php:103 templates/header_developer.php:139
+msgid "Our Taxes:"
+msgstr "ภาษีของเรา:"
+
+#: libs/3rdparty.php:134
+msgid "over a year ago"
+msgstr "กว่าปีที่ผ่านมา"
+
+#: templates/listing_templates/single-overview-section.php:12
+msgid "Overview"
+msgstr "ภาพรวม"
+
+#: libs/dashboard_actions_functions.php:167 libs/help_functions.php:5217
+msgid "Owner Notes"
+msgstr "เจ้าของหมายเหตุ"
+
+#: templates/submit_templates/property_details.php:129
+msgid "Owner/Agent notes (*not visible on front end)"
+msgstr "บันทึกเจ้าของ / ตัวแทน (* ไม่ปรากฏบนส่วนหน้า)"
+
+#: libs/dashboard_actions_functions.php:471
+#: templates/dashboard-templates/invoice_listing_unit.php:29
+msgid "Package"
+msgstr "บรรจุภัณฑ์"
+
+#: libs/help_functions.php:4651
+#: templates/dashboard-templates/user_memebership_profile.php:132
+msgid "Package Payment"
+msgstr "Package Payment"
+
+#: templates/dashboard-templates/user_memebership_profile.php:62
+msgid "Packages Available"
+msgstr "มีแพ็คเกจ"
+
+#: 404.php:13
+msgid "Page not found"
+msgstr "ไม่พบหน้าดังกล่าว"
+
+#: compare_listings.php:15
+msgid "page should be accesible only via the compare button"
+msgstr "หน้าควรจะใช้ได้เฉพาะผ่านทางปุ่มเปรียบเทียบ"
+
+#: libs/dashboard_widgets.php:81
+msgid "Page Template"
+msgstr "เทมเพลตของเพจ"
+
+#: libs/dashboard_widgets.php:76
+msgid "Page Title"
+msgstr "ชื่อหน้า"
+
+#: templates/property_page_acc_content.php:392
+#: templates/property_page_acc_content.php:407
+#: templates/property_page_tab_content.php:353
+msgid "Page Views Statistics"
+msgstr "สถิติการเข้าชมหน้าเว็บ"
+
+#: single-idx.php:41 single.php:48
+msgid "Pages:"
+msgstr "หน้า:"
+
+#: libs/dashboard_actions_functions.php:479
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:5
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:22
+#: templates/dashboard-templates/invoice_listing_unit.php:53
+msgid "Paid"
+msgstr "ต้องจ่าย"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:82
+msgid "Paid & Featured"
+msgstr "Paid & Featured"
+
+#: templates/submit_templates/user_memebership_form.php:30
+msgid "Paid submission"
+msgstr "การส่งแบบชำระเงิน"
+
+#: templates/dashboard-templates/add_new_agent_template.php:299
+#: templates/dashboard-templates/add_new_agent_template.php:320
+#: templates/dashboard-templates/user_profile_agent.php:277
+#: templates/dashboard-templates/user_profile_agent.php:298
+msgid "Parameter Label"
+msgstr "ป้ายพารามิเตอร์"
+
+#: templates/dashboard-templates/add_new_agent_template.php:303
+#: templates/dashboard-templates/add_new_agent_template.php:324
+#: templates/dashboard-templates/user_profile_agent.php:281
+#: templates/dashboard-templates/user_profile_agent.php:302
+msgid "Parameter Value"
+msgstr "ค่าพารามิเตอร์"
+
+#: templates/login_register_modal.php:57 templates/login_register_modal.php:88
+#: templates/mobile_menu.php:87 templates/mobile_menu.php:115
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+#: libs/ajax_functions.php:3829
+msgid "Password Updated"
+msgstr "อัปเดตรหัสผ่านแล้ว"
+
+#: functions.php:547
+msgid "Password: %s"
+msgstr "รหัสผ่าน: %s"
+
+#: libs/ajax_functions.php:2849 libs/ajax_functions.php:3821
+#: libs/dashboard_actions_functions.php:841
+msgid "Passwords do not match"
+msgstr "รหัสผ่านไม่ตรงกัน"
+
+#: libs/css_js_include.php:814
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:87
+msgid "Pay"
+msgstr "ชำระเงิน"
+
+#: libs/dashboard_actions_functions.php:674
+msgid "Pay Status"
+msgstr "สถานะการชําระค่าจ้าง"
+
+#: libs/help_functions.php:4546
+msgid "Pay Submission Fee"
+msgstr "ชําระค่าส่ง"
+
+#: libs/help_functions.php:4650
+msgid "Pay with Credit Card"
+msgstr "ชำระด้วยบัตรเครดิต"
+
+#: libs/ajax_functions.php:246 templates/property_page_acc_content.php:334
+#: templates/property_page_acc_content.php:348
+#: templates/property_page_tab_content.php:325
+msgid "Payment Calculator"
+msgstr "เครื่องคํานวณการชําระเงิน"
+
+#: libs/css_js_include.php:242
+msgid "payment failed"
+msgstr "การชําระเงินล้มเหลว"
+
+#: libs/css_js_include.php:815
+msgid "Payment for package"
+msgstr "ชำระค่าแพ็กเกจ"
+
+#: templates/dashboard-templates/user_memebership_profile.php:162
+msgid "Payment Method"
+msgstr "วิธีการชำระเงิน"
+
+#: word_remove.php:279
+msgid "Payments"
+msgstr "การชำระเงิน"
+
+#: libs/dashboard_widgets.php:398
+msgid "Payments will be procesed in %1$s. Prices are displayed in %2$s"
+msgstr "การชำระเงินจะดำเนินการใน% 1 $ s ราคาจะแสดงใน% 2 $ s"
+
+#: libs/dashboard_widgets.php:408
+msgid "Paypal Api Keys are added.Payments will be processed."
+msgstr "คีย์ Paypal Api มีการเพิ่มการชำระเงินจะดำเนินการ"
+
+#: libs/3rdparty.php:377 libs/3rdparty.php:378
+msgid "PayPal payment agreement"
+msgstr "ข้อตกลงการชำระเงินผ่าน PayPal"
+
+#. Template Name of the theme
+msgid "Paypal Processor"
+msgstr "หน่วยประมวลผล Paypal"
+
+#: templates/agency_reviews.php:181 templates/agent_reviews.php:158
+#: templates/developer_reviews.php:161 templates/property_reviews.php:180
+msgid "pending approval"
+msgstr "รอการพิสูจน์"
+
+#: libs/help_functions.php:5329
+msgid "per month"
+msgstr "ต่อเดือน"
+
+#: word_remove.php:277
+msgid "Personalize Your Website"
+msgstr "ปรับแต่งเว็บไซต์ของคุณ"
+
+#: libs/help_functions.php:1717
+msgid "Pets"
+msgstr "สัตว์เลี้ยง"
+
+#: libs/help_functions.php:1583
+msgid "Pharmacies"
+msgstr "ร้านขายยา"
+
+#: crm_functions/crm_functions.php:317
+#: templates/dashboard-templates/add_new_agent.php:79
+#: templates/dashboard-templates/add_new_agent_template.php:42
+#: templates/dashboard-templates/user_profile.php:33
+#: templates/dashboard-templates/user_profile_agency.php:19
+#: templates/dashboard-templates/user_profile_agent.php:24
+#: templates/dashboard-templates/user_profile_developer.php:17
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+#: libs/dashboard_actions_functions.php:552
+msgid "Phone/Mobile"
+msgstr "โทรศัพท์ / โทรศัพท์มือถือ"
+
+#: contact_page.php:89 single-estate_agency.php:127
+#: templates/header_agency.php:65 templates/header_developer.php:86
+msgid "Phone:"
+msgstr "โทรศัพท์:"
+
+#: templates/dashboard-templates/add_new_agent.php:33
+#: templates/dashboard-templates/add_new_agent_template.php:378
+#: templates/dashboard-templates/user_profile.php:141
+#: templates/dashboard-templates/user_profile_agency.php:252
+#: templates/dashboard-templates/user_profile_agent.php:360
+#: templates/dashboard-templates/user_profile_developer.php:228
+msgid "Photo"
+msgstr "ภาพถ่าย"
+
+#: libs/gallery_functions.php:378 libs/gallery_functions.php:434
+msgid "photos"
+msgstr "ภาพถ่าย"
+
+#: functions.php:131
+msgid ""
+"PHP GD library is NOT installed on your web server and because of that the "
+"theme will not be able to work with images. Please contact your hosting "
+"company in order to activate this library."
+msgstr ""
+"ห้องสมุด PHP GD "
+"ไม่ได้รับการติดตั้งบนเว็บเซิร์ฟเวอร์ของคุณและเนื่องจากธีมดังกล่าวไม่สามารถใช้งานได้กับภาพ"
+" โปรดติดต่อ บริษัท ให้บริการพื้นที่ของคุณเพื่อเปิดใช้งานห้องสมุดนี้"
+
+#: functions.php:363
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: libs/design_functions.php:2062
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: templates/dashboard-templates/add_new_agent.php:125
+#: templates/dashboard-templates/add_new_agent_template.php:89
+#: templates/dashboard-templates/user_profile.php:72
+#: templates/dashboard-templates/user_profile_agency.php:87
+#: templates/dashboard-templates/user_profile_agent.php:78
+#: templates/dashboard-templates/user_profile_developer.php:81
+msgid "Pinterest Url"
+msgstr "URL Pinterest"
+
+#: templates/dashboard-templates/user_profile_agency.php:221
+#: templates/dashboard-templates/user_profile_developer.php:195
+msgid "Place Pin with Agency Address"
+msgstr "วางพินด้วยที่อยู่เอเจนซี่"
+
+#: templates/submit_templates/property_location.php:253
+msgid "Place Pin with Property Address"
+msgstr "วางพินด้วยที่อยู่คุณสมบัติ"
+
+#: libs/css_js_include.php:790 libs/css_js_include.php:1049
+#: libs/dashboard_functions.php:1258
+#: templates/submit_templates/floor_plans.php:44
+#: templates/submit_templates/floor_plans.php:157
+#: templates/submit_templates/property_floor_plans.php:160
+msgid "Plan Bathrooms"
+msgstr "ห้องน้ำ Plan"
+
+#: libs/css_js_include.php:787 libs/css_js_include.php:1046
+#: libs/dashboard_functions.php:1255
+#: templates/submit_templates/floor_plans.php:29
+#: templates/submit_templates/floor_plans.php:136
+#: templates/submit_templates/property_floor_plans.php:145
+msgid "Plan Description"
+msgstr "คำอธิบายแผน"
+
+#: libs/css_js_include.php:786 libs/css_js_include.php:1045
+#: templates/submit_templates/floor_plans.php:54
+#: templates/submit_templates/floor_plans.php:141
+msgid "Plan Image"
+msgstr "วางแผนภาพ"
+
+#: libs/css_js_include.php:791 libs/css_js_include.php:1050
+#: templates/submit_templates/floor_plans.php:49
+#: templates/submit_templates/floor_plans.php:162
+msgid "Plan Price"
+msgstr "ราคาตามแผน"
+
+#: libs/dashboard_functions.php:1259
+msgid "Plan Price in"
+msgstr "ราคาตามแผนใน"
+
+#: libs/css_js_include.php:789 libs/css_js_include.php:1048
+#: libs/dashboard_functions.php:1257
+#: templates/submit_templates/floor_plans.php:39
+#: templates/submit_templates/floor_plans.php:152
+#: templates/submit_templates/property_floor_plans.php:155
+msgid "Plan Rooms"
+msgstr "ห้องวางแผน"
+
+#: libs/css_js_include.php:788 libs/css_js_include.php:1047
+#: libs/dashboard_functions.php:1256
+#: templates/submit_templates/floor_plans.php:34
+#: templates/submit_templates/floor_plans.php:147
+#: templates/submit_templates/property_floor_plans.php:150
+msgid "Plan Size"
+msgstr "ขนาดแผน"
+
+#: libs/css_js_include.php:785 libs/css_js_include.php:1044
+#: libs/dashboard_functions.php:1252
+#: templates/submit_templates/floor_plans.php:24
+#: templates/submit_templates/floor_plans.php:131
+#: templates/submit_templates/property_floor_plans.php:139
+msgid "Plan Title"
+msgstr "ชื่อแผน"
+
+#: functions.php:174
+msgid ""
+"Please do not manually change the slugs when adding new terms. If you need "
+"to edit a term name copy the new name in the slug field also."
+msgstr ""
+"โปรดอย่าเปลี่ยนทุ่นระเบิดด้วยตนเองเมื่อเพิ่มคำใหม่ "
+"หากคุณต้องการแก้ไขชื่อคำคัดลอกชื่อใหม่ในฟิลด์ slug ด้วย"
+
+#: functions.php:422 functions.php:426
+msgid "Please edit your profile page from site interface."
+msgstr "โปรดแก้ไขหน้าโปรไฟล์ของคุณจากอินเทอร์เฟซเว็บไซต์"
+
+#: zillow_estimate_page.php:93
+msgid "Please fill in the form correctly and try again!"
+msgstr "กรุณากรอกแบบฟอร์มให้ถูกต้องและลองใหม่อีกครั้ง!"
+
+#: front_property_submit.php:487 user_dashboard_add.php:88
+#: user_dashboard_add.php:221
+msgid "Please submit a title for your property"
+msgstr "โปรดส่งชื่อสำหรับพร็อพเพอร์ตี้ของคุณ"
+
+#: libs/help_functions.php:687
+msgid "Please submit the"
+msgstr "โปรดส่ง"
+
+#: libs/ajax_functions.php:1331
+msgid ""
+"Please validate your purchase code in order to use the theme! See this link "
+"link  "
+msgstr "กรุณาตรวจสอบรหัสการซื้อของคุณเพื่อใช้ธีม! ดูลิงค์นี้ ลิงค์"
+
+#: libs/css_js_include.php:769
+msgid "Please wait while we are processing your submission!"
+msgstr "โปรดรอสักครู่ในขณะที่เรากำลังดำเนินการในการส่งของคุณ!"
+
+#: libs/ajax_functions.php:5259
+msgid "Please, enter correct email"
+msgstr "โปรดป้อนอีเมลที่ถูกต้อง"
+
+#: libs/css_js_include.php:865
+msgid "Please, enter field:"
+msgstr "โปรดป้อนฟิลด์:"
+
+#: libs/css_js_include.php:853 libs/css_js_include.php:867
+msgid "Please, enter property title"
+msgstr "โปรดป้อนชื่อคุณสมบัติ"
+
+#: libs/plugins.php:143
+msgid "Plugin activated successfully."
+msgstr "เปิดใช้งานปลั๊กอินเรียบร้อยแล้ว"
+
+#: comments.php:57
+msgid "Post Comment"
+msgstr "เขียนความคิดเห็น"
+
+#: functions.php:337
+msgid "Post navigation"
+msgstr "การนำทางโพสต์"
+
+#: single-idx.php:28 single.php:39 templates/agency_reviews.php:74
+#: templates/agent_reviews.php:61 templates/developer_reviews.php:60
+#: templates/property_reviews.php:83
+msgid "Posted by "
+msgstr "โพสโดย"
+
+#: templates/agency_reviews.php:92 templates/agent_reviews.php:78
+#: templates/developer_reviews.php:78 templates/property_reviews.php:101
+msgid "Posted on "
+msgstr "โพสเมื่อ"
+
+#: libs/css_js_include.php:809
+msgid "posting"
+msgstr "โพสต์"
+
+#: word_remove.php:361
+msgid "Powered by "
+msgstr "ขับเคลื่อนด้วย"
+
+#: templates/google_maps_base.php:102
+msgid "Prev"
+msgstr "ก่อนหน้า"
+
+#: front_property_submit.php:831
+msgid "Prev Step"
+msgstr "ขั้นตอนก่อนหน้า"
+
+#: single-idx.php:47 single.php:54
+msgid "Previous page"
+msgstr "หน้าก่อนหน้า"
+
+#: word_remove.php:66 word_remove.php:212 word_remove.php:246
+msgid "Previous Step"
+msgstr "ขั้นตอนก่อนหน้า"
+
+#: libs/dashboard_actions_functions.php:497
+#: libs/dashboard_actions_functions.php:675
+#: libs/dashboard_actions_functions.php:680 libs/listing_functions.php:799
+#: user_dashboard_favorite.php:42
+msgid "Price"
+msgstr "ราคา"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:12
+msgid "Price -  High to Low"
+msgstr "ราคา - สูงไปต่ํา"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:16
+msgid "Price -  Low to High"
+msgstr "ราคา - ต่ําไปสูง"
+
+#: libs/help_functions_cards.php:13 templates/normal_directory.php:70
+#: templates/property_list_filters_search.php:10
+#: templates/property_list_filter_half.php:9
+msgid "Price High to Low"
+msgstr "ราคาสูงถึงต่ำ"
+
+#: libs/dashboard_actions_functions.php:25
+#: templates/submit_templates/property_description.php:69
+#: templates/submit_templates/property_floor_plans.php:165
+msgid "Price in "
+msgstr "ราคาเข้า"
+
+#: libs/help_functions_cards.php:14 templates/normal_directory.php:71
+#: templates/property_list_filters_search.php:11
+#: templates/property_list_filter_half.php:10
+msgid "Price Low to High"
+msgstr "ราคาต่ำไปสูง"
+
+#: libs/searchfunctions.php:2390
+msgid "price range from "
+msgstr "ช่วงราคาจาก"
+
+#: libs/searchfunctions.php:2362 libs/searchfunctions.php:2422
+msgid "price range from: "
+msgstr "ช่วงราคาจาก:"
+
+#: functions.php:854 libs/help_functions.php:3041 libs/searchfunctions2.php:88
+#: templates/advanced_search_type_half.php:347
+#: templates/directory_filters.php:159
+msgid "Price range:"
+msgstr "ช่วงราคา:"
+
+#: templates/submit_templates/user_memebership_form.php:33
+msgid "Price: "
+msgstr "ราคา:"
+
+#: libs/listing_functions.php:340 libs/listing_functions.php:366
+msgid "price: "
+msgstr "ราคา:"
+
+#: libs/general-settings.php:237
+msgid "Primary Menu"
+msgstr "เมนูหลัก"
+
+#: libs/general-settings.php:242
+msgid "Primary Widget Area"
+msgstr "พื้นที่วิดเจ็ตหลัก"
+
+#: libs/css_js_include.php:710 libs/help_functions.php:5332
+#: libs/help_functions.php:5340
+msgid "Principal and Interest"
+msgstr "เงินต้นและดอกเบี้ย"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:69
+#: templates/listing_templates/overview_template.php:76
+msgid "Print"
+msgstr "พิมพ์"
+
+#: templates/listing_templates/overview_template.php:75
+msgid "print page"
+msgstr "พิมพ์หน้า"
+
+#: libs/css_js_include.php:772
+msgid "Processing..."
+msgstr "กำลังประมวลผล ..."
+
+#: libs/dashboard_functions.php:1261
+msgid "processing..."
+msgstr "กำลังประมวลผล ..."
+
+#: libs/help_functions.php:1719
+msgid "Professional Services"
+msgstr "บริการระดับมืออาชีพ"
+
+#: libs/ajax_functions.php:3307 libs/ajax_functions.php:3482
+#: libs/ajax_functions.php:3650
+msgid "Profile updated"
+msgstr "อัปเดตโปรไฟล์แล้ว"
+
+#. Template Name of the theme
+msgid "Properties list"
+msgstr "รายการสินทรัพย์"
+
+#. Template Name of the theme
+msgid "Properties list directory"
+msgstr "ข้อมูลทั้งหมดรายการสินทรัพย์"
+
+#. Template Name of the theme
+msgid "Properties list half"
+msgstr "รายการสินทรัพย์แบ่งครึ่ง"
+
+#: templates/half_map_core.php:124 templates/normal_map_core.php:166
+msgid "Properties listed in "
+msgstr "คุณสมบัติที่แสดงใน"
+
+#: libs/dashboard_actions_functions.php:671
+#: libs/dashboard_actions_functions.php:677 user_dashboard_favorite.php:39
+msgid "Property"
+msgstr "คุณสมบัติ"
+
+#: libs/help_functions.php:5199
+msgid "Property Action Category"
+msgstr "ประเภทการดำเนินการของอสังหาริมทรัพย์"
+
+#: libs/ajax_functions.php:455 libs/dashboard_actions_functions.php:116
+#: libs/help_functions.php:5201 templates/property_page_acc_content.php:64
+#: templates/property_page_tab_content.php:39
+msgid "Property Address"
+msgstr "ที่อยู่สถานที่ให้บริการ"
+
+#: libs/searchfunctions.php:2169 libs/searchfunctions.php:2337
+msgid "property address"
+msgstr "ที่อยู่คุณสมบัติ"
+
+#: libs/help_functions.php:5203
+msgid "Property Area"
+msgstr "พื้นที่ให้เช่า"
+
+#: libs/dashboard_actions_functions.php:199 libs/help_functions.php:5216
+msgid "Property Bathrooms"
+msgstr "ห้องน้ำในตัว"
+
+#: libs/searchfunctions.php:2168 libs/searchfunctions.php:2336
+msgid "property bathrooms"
+msgstr "สถานที่ให้บริการห้องน้ำ"
+
+#: templates/directory_filters.php:264
+msgid "Property Bathrooms:"
+msgstr "อสังหาริมทรัพย์ห้องน้ำ:"
+
+#: libs/dashboard_actions_functions.php:191 libs/help_functions.php:5215
+msgid "Property Bedrooms"
+msgstr "ห้องนอน"
+
+#: libs/searchfunctions.php:2167 libs/searchfunctions.php:2335
+msgid "property bedrooms"
+msgstr "ห้องนอน"
+
+#: templates/directory_filters.php:245
+msgid "Property Bedrooms:"
+msgstr "ห้องนอน:"
+
+#: libs/help_functions.php:5198
+msgid "Property Category Submit"
+msgstr "ส่งหมวดคุณสมบัติ"
+
+#: libs/help_functions.php:5202
+msgid "Property City"
+msgstr "อสังหาริมทรัพย์เมือง"
+
+#: libs/help_functions.php:5206
+msgid "Property Country"
+msgstr "อสังหาริมทรัพย์ประเทศ"
+
+#: libs/searchfunctions.php:2173 libs/searchfunctions.php:2341
+msgid "property country"
+msgstr "ประเทศที่ให้บริการ"
+
+#: libs/help_functions.php:5205
+msgid "Property County"
+msgstr "พร็อพเพอร์ตี้"
+
+#: libs/searchfunctions.php:2170 libs/searchfunctions.php:2338
+msgid "property county"
+msgstr "property county"
+
+#: templates/submit_templates/property_description.php:7
+#: templates/submit_templates/property_description_new.php:26
+msgid "Property Description"
+msgstr "คำอธิบายอสังหาริมทรัพย์"
+
+#: libs/ajax_functions.php:427 templates/property_page_acc_content.php:92
+#: templates/property_page_tab_content.php:49
+msgid "Property Details"
+msgstr "รายละเอียดทรัพย์สิน"
+
+#: libs/help_functions.php:5211
+msgid "Property Google View"
+msgstr "พร็อพเพอร์ตี้ Google View"
+
+#: libs/dashboard_actions_functions.php:272
+msgid "Property has subunits"
+msgstr "คุณสมบัติมีหน่วยย่อย"
+
+#: compare_listings.php:131
+msgid "Property ID"
+msgstr "รหัสคุณสมบัติ"
+
+#: libs/listing_functions.php:797
+msgid "Property Id "
+msgstr "รหัสคุณสมบัติ"
+
+#: libs/css_js_include.php:858
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:39
+msgid "Property is featured"
+msgstr "สถานที่ให้บริการเป็นจุดเด่น"
+
+#: templates/directory_filters.php:305
+msgid "Property Keyword:"
+msgstr "คำค้นหา:"
+
+#: libs/dashboard_actions_functions.php:231 libs/help_functions.php:5208
+msgid "Property Latitude"
+msgstr "Latitude ของสถานที่"
+
+#: word_remove.php:239
+msgid "Property List display(*global option)"
+msgstr "การแสดงรายการอสังหาริมทรัพย์ (* ตัวเลือกส่วนกลาง)"
+
+#: word_remove.php:225
+msgid "Property List Type for Advanced Search"
+msgstr "ประเภทรายการอสังหาริมทรัพย์สำหรับการค้นหาขั้นสูง"
+
+#: libs/help_functions.php:5209
+msgid "Property Longitude"
+msgstr "Longitude คุณสมบัติ"
+
+#: libs/dashboard_actions_functions.php:239
+msgid "Property Longitudine"
+msgstr "อสังหาริมทรัพย์ ลองจิจูดีน"
+
+#: libs/dashboard_actions_functions.php:175 libs/help_functions.php:5213
+#: libs/listing_functions.php:806
+msgid "Property Lot Size"
+msgstr "ขนาดพื้นที่ให้เช่า"
+
+#: libs/searchfunctions.php:2165 libs/searchfunctions.php:2333
+msgid "property lot size"
+msgstr "ขนาดล็อตของล็อต"
+
+#: libs/help_functions.php:5207
+msgid "Property Map"
+msgstr "แผนที่ทรัพย์สิน"
+
+#: libs/help_functions.php:5200
+msgid "Property Media"
+msgstr "Property Media"
+
+#. Template Name of the theme
+msgid "Property page template"
+msgstr "เทมเพลตหน้าสินทรัพย์"
+
+#: libs/help_functions.php:5195
+#: templates/submit_templates/property_description.php:62
+msgid "Property Price"
+msgstr "ราคาทรัพย์สิน"
+
+#: libs/searchfunctions.php:2163 libs/searchfunctions.php:2331
+msgid "property price"
+msgstr "ราคาทรัพย์สิน"
+
+#: libs/help_functions.php:5196
+msgid "Property Price Label"
+msgstr "ป้ายราคาทรัพย์สิน"
+
+#: libs/help_functions.php:5197
+msgid "Property Price Label Before"
+msgstr "ป้ายราคาทรัพย์สินก่อน"
+
+#: templates/property_reviews.php:24
+msgid "Property Reviews"
+msgstr "รีวิวอสังหาริมทรัพย์"
+
+#: libs/dashboard_actions_functions.php:183 libs/help_functions.php:5214
+msgid "Property Rooms"
+msgstr "ห้องพัก"
+
+#: libs/searchfunctions.php:2166 libs/searchfunctions.php:2334
+msgid "property rooms"
+msgstr "ห้องพัก"
+
+#: templates/directory_filters.php:226
+msgid "Property Rooms:"
+msgstr "ห้องพัก:"
+
+#: libs/dashboard_actions_functions.php:159 libs/listing_functions.php:803
+msgid "Property Size"
+msgstr "ขนาดของอสังหาริมทรัพย์"
+
+#: libs/help_functions.php:5212
+msgid "property Size"
+msgstr "คุณสมบัติขนาด"
+
+#: libs/searchfunctions.php:2164 libs/searchfunctions.php:2332
+msgid "property size"
+msgstr "ขนาดทรัพย์สิน"
+
+#: libs/searchfunctions.php:2171 libs/searchfunctions.php:2339
+msgid "property state"
+msgstr "รัฐอสังหาริมทรัพย์"
+
+#: libs/help_functions.php:3243 libs/help_functions.php:3359
+#: libs/help_functions.php:3616 libs/help_functions.php:3752
+#: libs/help_functions.php:4039 templates/directory_filters.php:298
+#: templates/submit_templates/property_status.php:42
+msgid "Property Status"
+msgstr "สถานะทรัพย์สิน"
+
+#: libs/help_functions.php:5218 libs/searchfunctions.php:2174
+#: libs/searchfunctions.php:2342
+msgid "property status"
+msgstr "สถานะทรัพย์สิน"
+
+#: templates/directory_filters.php:296
+msgid "Property Status:"
+msgstr "สถานะทรัพย์สิน:"
+
+#: libs/help_functions.php:5222
+msgid "Property Subunits"
+msgstr "Subunits อสังหาริมทรัพย์"
+
+#: libs/dashboard_actions_functions.php:264
+msgid "Property subunits list"
+msgstr "รายการผลรวมคุณสมบัติ"
+
+#: libs/css_js_include.php:712 libs/help_functions.php:5333
+#: libs/help_functions.php:5341
+msgid "Property Tax"
+msgstr "ภาษีทรัพย์สิน"
+
+#: libs/css_js_include.php:713 libs/css_js_include.php:881
+msgid "Property Views"
+msgstr "มุมมองคุณสมบัติ"
+
+#: libs/dashboard_actions_functions.php:125 libs/help_functions.php:5204
+msgid "Property Zip"
+msgstr "Property Zip"
+
+#: libs/searchfunctions.php:2172 libs/searchfunctions.php:2340
+msgid "property zip"
+msgstr "ซิปไปรษณีย์"
+
+#: libs/help_functions.php:1721
+msgid "Public Services & Government"
+msgstr "บริการสาธารณะและรัฐบาล"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:27
+msgid "Publish Listing with Feature"
+msgstr "เผยแพร่รายการที่มีคุณลักษณะ"
+
+#: libs/dashboard_actions_functions.php:470
+msgid "Publish Listing with Featured"
+msgstr "เผยแพร่รายการด้วย Featured"
+
+#: libs/css_js_include.php:852 libs/dashboard_functions.php:1246
+#: libs/dashboard_functions.php:1398
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:9
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:7
+msgid "Published"
+msgstr "การตีพิมพ์"
+
+#: libs/dashboard_functions.php:305
+msgid "Published Properties"
+msgstr "คุณสมบัติที่ประกาศ"
+
+#: templates/advanced_search_type_half.php:87
+msgid "Radius:"
+msgstr "รัศมี:"
+
+#: word_remove.php:22
+msgid "Rate us"
+msgstr "ให้คะแนนเรา"
+
+#: templates/dashboard-templates/add_new_agent_template.php:27
+msgid "Re-type Password"
+msgstr "พิมพ์รหัสผ่านอีกครั้ง"
+
+#: libs/help_functions.php:1723
+msgid "Real Estate"
+msgstr "อสังหาริมทรัพย์"
+
+#: functions.php:98
+msgid "Recommended memory limit should be at least 96MB. Please refer to : "
+msgstr "หน่วยความจำที่แนะนำควรมีอย่างน้อย 96MB โปรดดูที่:"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:42
+msgid "Recurring"
+msgstr "การคืน"
+
+#: templates/login_register_modal.php:136 templates/mobile_menu.php:105
+#: templates/mobile_menu.php:163
+msgid "Register"
+msgstr "สมัครสมาชิก"
+
+#: templates/login_register_modal.php:158
+msgid "Register here!"
+msgstr "ลงทะเบียนที่นี่!"
+
+#: templates/related_posts.php:38
+msgid "Related Posts"
+msgstr "กระทู้ที่เกี่ยวข้อง"
+
+#: libs/help_functions.php:1725
+msgid "Religious Organizations"
+msgstr "องค์กรศาสนา"
+
+#: libs/megamenu.php:357
+#: templates/dashboard-templates/add_new_agent_template.php:307
+#: templates/dashboard-templates/add_new_agent_template.php:328
+#: templates/dashboard-templates/user_profile_agent.php:285
+#: templates/dashboard-templates/user_profile_agent.php:306
+msgid "Remove"
+msgstr "เอาออก"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:114
+msgid "Remove From Favorites"
+msgstr "รายการโปรด"
+
+#: libs/css_js_include.php:862 libs/design_functions.php:1783
+#: templates/featured_property_3.php:38 templates/featured_property_4.php:52
+#: templates/listing_templates/overview_template.php:15
+#: templates/property_cards_templates/property_card_actions_type_default.php:15
+#: templates/property_cards_templates/property_card_favorite.php:13
+msgid "remove from favorites"
+msgstr "ลบออกจากรายการโปรด"
+
+#: libs/megamenu.php:309
+msgid "Remove Image"
+msgstr "นำรูปภาพออก"
+
+#: libs/ajax_functions.php:3885
+msgid "removed"
+msgstr "ลบออก"
+
+#: functions.php:374 templates/dashboard-templates/message-listing-unit.php:92
+#: templates/dashboard-templates/message-listing-unit.php:98
+msgid "Reply"
+msgstr "ตอบ"
+
+#: templates/dashboard-templates/message-listing-unit.php:44
+msgid "reply to message"
+msgstr "ตอบกลับข้อความ"
+
+#: crm_functions/crm_functions.php:364
+msgid "Request By"
+msgstr "ขอโดย"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:71
+msgid "Resend for approval"
+msgstr "ส่งคำขออีกครั้ง"
+
+#: templates/dashboard-templates/change_pass_template.php:21
+#: templates/login_register_modal.php:142
+#: templates/login_register_modal.php:153 templates/mobile_menu.php:169
+#: templates/mobile_menu.php:177
+msgid "Reset Password"
+msgstr "รีเซ็ตรหัสผ่าน"
+
+#: libs/help_functions.php:1582 libs/help_functions.php:1727
+msgid "Restaurants"
+msgstr "ร้านอาหาร"
+
+#: templates/adv_search_mobile.php:211
+msgid "results"
+msgstr "ผล"
+
+#: templates/advanced_search_type_half.php:399 templates/preview_template.php:4
+msgid "results."
+msgstr "ผล."
+
+#: templates/mobile_menu.php:179
+msgid "Return to Login"
+msgstr "กลับไปที่ล็อกอิน"
+
+#: libs/plugins.php:142
+msgid "Return to Required Plugins Installer"
+msgstr "กลับไปที่ Installer ปลั๊กอินที่ต้องการ"
+
+#: templates/login_register_modal.php:89 templates/mobile_menu.php:116
+msgid "Retype Password"
+msgstr "พิมพ์รหัสผ่านอีกครั้ง"
+
+#: libs/css_js_include.php:811
+msgid "Review Edit Saved"
+msgstr "ตรวจทานแก้ไขบันทึกแล้ว"
+
+#: libs/css_js_include.php:810
+msgid "Review Sent "
+msgstr "รีวิวที่ส่งแล้ว"
+
+#: templates/agency_reviews.php:211 templates/agent_reviews.php:188
+#: templates/developer_reviews.php:191 templates/property_reviews.php:210
+msgid "Review Title"
+msgstr "ชื่อเรื่องรีวิว"
+
+#: templates/agency_reviews.php:124 templates/agent_reviews.php:102
+#: templates/developer_reviews.php:105 templates/property_reviews.php:124
+msgid "Reviews"
+msgstr "ความคิดเห็น"
+
+#: libs/3rdparty.php:118
+msgid "right now"
+msgstr "ตอนนี้"
+
+#: templates/google_maps_base.php:94 templates/google_maps_base_map_list.php:6
+msgid "Roadmap"
+msgstr "Roadmap"
+
+#: libs/listing_functions.php:809
+#: templates/property_cards_templates/property_card_details_type6.php:17
+#: templates/property_slider_shortcode.php:64
+msgid "Rooms"
+msgstr "ห้องพัก"
+
+#: compare_listings.php:126
+msgid "rooms"
+msgstr "ห้องพัก"
+
+#: templates/submit_templates/property_details.php:99
+msgid "Rooms (*only numbers)"
+msgstr "ห้อง (* เฉพาะจำนวน)"
+
+#: templates/multi_units.php:132
+msgid "Rooms: "
+msgstr "จำนวนห้อง:"
+
+#: libs/listing_functions.php:310
+msgid "rooms: "
+msgstr "ห้องพัก:"
+
+#: templates/google_maps_base.php:95 templates/google_maps_base_map_list.php:7
+msgid "Satellite"
+msgstr "ดาวเทียม"
+
+#: templates/front_end_submission.php:150
+#: templates/front_end_submission.php:155
+#: templates/front_end_submission.php:192
+#: templates/front_end_submission.php:197 user_dashboard_add.php:111
+#: user_dashboard_add.php:256
+msgid "Save as Draft"
+msgstr "บันทึกเป็นแบบร่าง"
+
+#: crm_functions/templates/crm_add_contact.php:29
+#: crm_functions/templates/crm_add_lead.php:30
+#: templates/front_end_submission.php:149
+#: templates/front_end_submission.php:191
+msgid "Save Changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+#: templates/half_map_core.php:89 templates/normal_map_core.php:96
+msgid "Save Search"
+msgstr "บันทึกการค้นหา"
+
+#: templates/half_map_core.php:87 templates/normal_map_core.php:94
+msgid "Save this Search?"
+msgstr "บันทึกการค้นหานี้หรือไม่?"
+
+#: libs/dashboard_functions.php:221
+msgid "Saved Search  %s"
+msgstr "ชื่อการค้นหา%s"
+
+#: libs/dashboard_functions.php:313 libs/dashboard_functions.php:1457
+msgid "Saved Searches"
+msgstr "การค้นหาที่บันทึกไว้"
+
+#: libs/css_js_include.php:863
+msgid "saving.."
+msgstr "ประหยัด.."
+
+#: libs/css_js_include.php:795
+msgid "saving..."
+msgstr "ประหยัด..."
+
+#: templates/agent_contact.php:40
+msgid "Schedule a showing?"
+msgstr "กำหนดเวลาการแสดงไหม"
+
+#: libs/help_functions.php:1581
+msgid "Schools"
+msgstr "โรงเรียน"
+
+#: libs/css_js_include.php:739
+msgid "SEARCH"
+msgstr "ค้นหา"
+
+#: auser_dashboard_search_result.php:104
+#: libs/dashboard_actions_functions.php:544
+#: libs/dashboard_actions_functions.php:659 search.php:34 search.php:35
+#: searchform.php:3 templates/advanced_search_type3.php:62
+#: templates/advanced_search_type10.php:81
+#: templates/advanced_search_type11.php:106
+msgid "Search"
+msgstr "ค้นหา"
+
+#: auser_dashboard_search_result.php:103
+#: libs/dashboard_actions_functions.php:658
+msgid "Search a listing"
+msgstr "ค้นหารายชื่อ"
+
+#: libs/dashboard_actions_functions.php:543
+msgid "Search for an Agent"
+msgstr "ค้นหา Agent"
+
+#: libs/ajax_functions.php:2643
+msgid ""
+"Search has been saved. You will receive an email notification when new "
+"properties matching your search have been published"
+msgstr ""
+"บันทึกการค้นหาแล้ว "
+"คุณจะได้รับการแจ้งเตือนทางอีเมลเมื่อพบคุณสมบัติใหม่ที่ตรงกับการค้นหาของคุณ"
+
+#: libs/css_js_include.php:740
+msgid "Search here..."
+msgstr "ค้นหาที่นี่..."
+
+#: templates/half_map_core.php:88 templates/normal_map_core.php:95
+msgid "Search name"
+msgstr "ค้นหาชื่อ"
+
+#: templates/dashboard-templates/search_unit.php:16
+#: templates/half_map_core.php:83 templates/normal_map_core.php:89
+msgid "Search Parameters: "
+msgstr "พารามิเตอร์การค้นหา:"
+
+#: templates/advanced_search_type1.php:78
+#: templates/advanced_search_type_half.php:394
+msgid "SEARCH PROPERTIES"
+msgstr "คุณสมบัติการค้นหา"
+
+#: libs/searchfunctions2.php:169 templates/advanced_search_type2.php:58
+#: templates/advanced_search_type4.php:74
+#: templates/advanced_search_type4.php:80
+#: templates/advanced_search_type5.php:77
+#: templates/advanced_search_type5.php:83
+#: templates/advanced_search_type7.php:112
+#: templates/advanced_search_type7.php:151
+#: templates/advanced_search_type8.php:168
+#: templates/advanced_search_type9.php:170 templates/adv_search_mobile.php:207
+msgid "Search Properties"
+msgstr "ค้นหาคุณสมบัติ"
+
+#: search.php:22
+msgid "Search Results for : "
+msgstr "ผลการค้นหาสำหรับ :"
+
+#: templates/advanced_search_type2.php:24
+#: templates/advanced_search_type8.php:95
+#: templates/advanced_search_type9.php:98 templates/adv_search_mobile.php:157
+msgid "Search State, City or Area"
+msgstr "ค้นหา State, City or Area"
+
+#: libs/general-settings.php:275
+msgid "Second Footer Widget Area"
+msgstr "พื้นที่วิดเจ็ตส่วนท้ายที่สอง"
+
+#: libs/general-settings.php:253
+msgid "Secondary Widget Area"
+msgstr "พื้นที่วิดเจ็ตรอง"
+
+#: libs/gallery_functions.php:378 libs/gallery_functions.php:434
+msgid "See all"
+msgstr "ดูทั้งหมด"
+
+#: libs/dashboard_widgets.php:86
+msgid "See All Your Pages"
+msgstr "ดูหน้าทั้งหมดของคุณ"
+
+#: templates/dashboard-templates/user_memebership_profile.php:52
+msgid "See Available Packages and Payment Methods"
+msgstr "ดูแพคเกจและวิธีการชำระเงินที่พร้อมใช้งาน"
+
+#: libs/dashboard_actions_functions.php:68
+msgid "Select Categorie"
+msgstr "เลือกประเภท"
+
+#: templates/submit_templates/property_categories.php:50
+#: templates/submit_templates/property_categories_new.php:16
+msgid "Select Categories"
+msgstr "เลือกหมวด"
+
+#: word_remove.php:77
+msgid "Select default country"
+msgstr "เลือกประเทศที่เป็นค่าเริ่มต้น"
+
+#: templates/submit_templates/property_energy_effective.php:18
+msgid "Select Energy Class"
+msgstr "เลือก Energy Class"
+
+#: templates/submit_templates/property_energy_effective.php:23
+msgid "Select Energy Class (EU regulation)"
+msgstr "เลือกระดับพลังงาน (กฎระเบียบของสหภาพยุโรป)"
+
+#: word_remove.php:240
+msgid "Select grid or list style for properties list pages."
+msgstr "เลือกรูปแบบตารางหรือรายการสำหรับหน้ารายการคุณสมบัติ"
+
+#: templates/submit_templates/floor_plans.php:77
+msgid "Select Images"
+msgstr "เลือกรูปภาพ"
+
+#: templates/submit_templates/property_images.php:119
+#: templates/submit_templates/property_images_new.php:134
+msgid "Select Media"
+msgstr "เลือกสื่อ"
+
+#: templates/dashboard-templates/user_memebership_profile.php:144
+msgid "Select package"
+msgstr "เลือกแพคเกจ"
+
+#: templates/submit_templates/property_status.php:39
+msgid "Select Property Status"
+msgstr "เลือกสถานะของคุณสมบัติ"
+
+#: word_remove.php:226
+msgid "Select standard or half map style for advanced search results page."
+msgstr "เลือกสไตล์แผนที่มาตรฐานหรือครึ่งหนึ่งสำหรับหน้าผลการค้นหาขั้นสูง"
+
+#: templates/submit_templates/property_subunits.php:40
+msgid "Select Subunits From the list: "
+msgstr "เลือก Subunits จากรายการ:"
+
+#: word_remove.php:118
+msgid "Select the measurement unit you will use on the website"
+msgstr "เลือกหน่วยวัดที่คุณจะใช้ในเว็บไซต์"
+
+#: templates/login_register_modal.php:108 templates/mobile_menu.php:132
+msgid "Select User Type"
+msgstr "เลือกประเภทผู้ใช้"
+
+#: libs/megamenu.php:296
+msgid "Select Widget Area"
+msgstr "เลือก Widget Area"
+
+#: templates/footer_buttons.php:25
+msgid "Send"
+msgstr "ส่ง"
+
+#: templates/agent_contact.php:101
+#: templates/realtor_templates/agent_contact_bar.php:7
+msgid "Send Email"
+msgstr "ส่งอีเมล"
+
+#: libs/css_js_include.php:780
+msgid "Send me the invoice"
+msgstr "ส่งใบแจ้งหนี้ให้ฉัน"
+
+#: libs/css_js_include.php:757 libs/css_js_include.php:850
+msgid "Send Message"
+msgstr "ส่งข้อความ"
+
+#: templates/agent_contact.php:121
+msgid "Send Private Message"
+msgstr "ส่งข้อความส่วนตัว"
+
+#: templates/dashboard-templates/message-listing-unit.php:102
+msgid "Send Reply"
+msgstr "ส่งคำตอบ"
+
+#: libs/css_js_include.php:888
+msgid "Sending"
+msgstr "การส่ง"
+
+#: libs/css_js_include.php:864
+msgid "sending message.."
+msgstr "การส่งข้อความ .."
+
+#: libs/css_js_include.php:760 libs/css_js_include.php:856
+msgid "Sending user info, please wait..."
+msgstr "กำลังส่งข้อมูลผู้ใช้โปรดรอสักครู่ ..."
+
+#: libs/ajax_functions.php:5049
+msgid "Sent for approval"
+msgstr "ส่งเพื่อขออนุมัติแล้ว"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:116
+msgid "Set as featured"
+msgstr "ตั้งค่าเป็นแนะนำ"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:116
+msgid ""
+"Set as featured,  *Listings set as featured are subtracted from your package"
+msgstr "ตั้งค่าเป็นรายการเด่น * รายชื่อที่ตั้งค่าไว้จะถูกลบออกจากแพคเกจของคุณ"
+
+#: libs/megamenu.php:288
+msgid "Set as Mega Menu?"
+msgstr "ตั้งเป็นเมนู Mega?"
+
+#: word_remove.php:84
+msgid "Set currency symbol for property price."
+msgstr "ตั้งค่าสัญลักษณ์สกุลเงินสำหรับราคาทรัพย์สิน"
+
+#: templates/listing_templates/overview_template.php:68
+msgid "Share"
+msgstr "แชร์"
+
+#: libs/design_functions.php:1741 libs/design_functions.php:1743
+#: libs/design_functions.php:1746 libs/design_functions.php:1750
+#: templates/featured_property_3.php:141 templates/featured_property_4.php:155
+#: templates/property_cards_templates/property_card_actions_type2.php:4
+#: templates/property_cards_templates/property_card_actions_type_default.php:21
+msgid "share"
+msgstr "หุ้น"
+
+#: templates/listing_templates/overview_template.php:67
+msgid "share this page"
+msgstr "แชร์หน้านี้"
+
+#: libs/help_functions.php:1729
+msgid "Shopping"
+msgstr "ช้อปปิ้ง"
+
+#: libs/general-settings.php:338
+msgid "Sidebar for header type 3 - after menu"
+msgstr "แถบด้านข้างสำหรับประเภทส่วนหัว 3 - หลังเมนู"
+
+#: libs/general-settings.php:329
+msgid "Sidebar for header type 3 - before menu"
+msgstr "แถบด้านข้างสำหรับประเภทส่วนหัว 3 - ก่อนเมนู"
+
+#: libs/general-settings.php:336
+msgid "Sidebar Menu Widget Area - After Menu"
+msgstr "แถบเครื่องมือเมนู Sidebar Menu - หลังจากเมนู"
+
+#: libs/general-settings.php:327
+msgid "Sidebar Menu Widget Area - Before Menu"
+msgstr "แถบเครื่องมือเมนู Sidebar - ก่อนเมนู"
+
+#: templates/login_register_modal.php:51
+msgid "Sign into your account"
+msgstr "ลงชื่อเข้าใช้บัญชีของคุณ"
+
+#: libs/help_functions.php:1845 templates/similar_listings.php:112
+#: templates/similar_listings.php:120
+msgid "Similar Listings"
+msgstr "ที่คล้ายกัน"
+
+#: word_remove.php:41
+msgid "Site Settings "
+msgstr "การตั้งค่าไซต์"
+
+#: templates/property_cards_templates/property_card_details_type4.php:22
+#: templates/property_slider_shortcode.php:70
+msgid "Size"
+msgstr "ขนาด"
+
+#: compare_listings.php:124
+msgid "size"
+msgstr "ขนาด"
+
+#: templates/submit_templates/property_details.php:83
+msgid "Size in"
+msgstr "ขนาดเข้า"
+
+#: templates/directory_filters.php:190
+msgid "Size:"
+msgstr "ขนาด:"
+
+#: libs/listing_functions.php:304
+msgid "size:"
+msgstr "ขนาด:"
+
+#: templates/multi_units.php:141
+msgid "Size: "
+msgstr "ขนาด:"
+
+#: templates/dashboard-templates/add_new_agent.php:88
+#: templates/dashboard-templates/add_new_agent_template.php:59
+#: templates/dashboard-templates/user_profile.php:43
+#: templates/dashboard-templates/user_profile_agency.php:35
+#: templates/dashboard-templates/user_profile_agent.php:40
+#: templates/dashboard-templates/user_profile_developer.php:33
+msgid "Skype"
+msgstr "Skype"
+
+#: contact_page.php:105 single-estate_agency.php:133
+#: templates/header_agency.php:71 templates/header_developer.php:129
+msgid "Skype:"
+msgstr "Skype:"
+
+#: libs/theme-slider.php:442
+msgid "slider"
+msgstr "ปุ่มรางเลื่อน"
+
+#: templates/submit_templates/property_slider.php:6
+msgid "Slider Option"
+msgstr "ตัวเลือก Slider"
+
+#: templates/submit_templates/property_slider.php:9
+msgid "Slider type "
+msgstr "ประเภท Slider"
+
+#: libs/searchfunctions.php:2221 libs/searchfunctions.php:2384
+#: libs/searchfunctions.php:2413
+msgid "smaller than "
+msgstr "มีขนาดเล็กกว่า"
+
+#: templates/dashboard-templates/user_profile_agency.php:205
+#: templates/dashboard-templates/user_profile_agent.php:205
+#: templates/dashboard-templates/user_profile_developer.php:179
+msgid "Social Information"
+msgstr "Social Information"
+
+#: templates/dashboard-templates/user_profile.php:111
+msgid "Social Media"
+msgstr "สื่อสังคมออนไลน์"
+
+#: libs/plugins.php:131
+msgid "Something went wrong with the plugin API."
+msgstr "เกิดข้อผิดพลาดกับปลั๊กอิน API"
+
+#: libs/plugins.php:137
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"ขออภัย คุณไม่มีสิทธิ์ที่ถูกต้องในการเปิดใช้งานปลั๊กอิน %s "
+"ติดต่อผู้ดูแลระบบเว็บไซต์นี้เพื่อขอความช่วยเหลือในการเปิดใช้งานปลั๊กอิน"
+msgstr[1] ""
+
+#: libs/plugins.php:134
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"ขออภัย คุณไม่มีสิทธิ์ที่ถูกต้องในการติดตั้งปลั๊กอิน %s "
+"ติดต่อผู้ดูแลระบบเว็บไซต์นี้เพื่อขอความช่วยเหลือในการติดตั้งปลั๊กอิน"
+msgstr[1] ""
+
+#: libs/plugins.php:139
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"ขออภัย คุณไม่มีสิทธิ์ที่ถูกต้องในการอัปเดตปลั๊กอิน %s "
+"ติดต่อผู้ดูแลระบบเว็บไซต์นี้เพื่อขอความช่วยเหลือในการอัปเดตปลั๊กอิน"
+msgstr[1] ""
+
+#: libs/ajax_functions.php:5277
+msgid "Sorry, user already exists. Try different username/email"
+msgstr "ขออภัยผู้ใช้มีอยู่แล้ว ลองชื่อผู้ใช้ / อีเมลอื่น"
+
+#: auser_dashboard_search_result.php:23 libs/dashboard_widgets.php:295
+#: search.php:5 user_dashboard_add.php:69 user_dashboard_add.php:198
+#: user_dashboard_agent_list.php:7
+msgid "Sorry, your nonce did not verify."
+msgstr "ขอโทษ, nonce ของคุณไม่ได้ตรวจสอบ."
+
+#: templates/normal_directory.php:63 templates/property_list_filters.php:20
+#: templates/property_list_filters_search.php:7
+#: templates/property_list_filter_half.php:3
+msgid "Sort by"
+msgstr "จัดเรียงตาม"
+
+#: templates/realtor_templates/agent_taxonomies.php:3
+msgid "Specialties & Service Areas"
+msgstr "ความพิเศษและพื้นที่ให้บริการ"
+
+#. Template Name of the theme
+msgid "Splash Page"
+msgstr "Splash Page"
+
+#: libs/general-settings.php:391
+msgid "Splash Page - Bottom left area"
+msgstr "Splash Page - พื้นที่ด้านล่างซ้าย"
+
+#: libs/general-settings.php:381
+msgid "Splash Page - Bottom right area"
+msgstr "Splash Page - ด้านล่างขวา"
+
+#: libs/general-settings.php:389
+msgid "Splash Page Bottom Left Widget Area"
+msgstr "ด้านล่างสไลด์ Widget พื้นที่"
+
+#: libs/general-settings.php:379
+msgid "Splash Page Bottom Right Widget Area"
+msgstr "Splash Page ด้านล่างขวา Widget Area"
+
+#: word_remove.php:112
+msgid "square"
+msgstr "สี่เหลี่ยม"
+
+#: word_remove.php:219
+msgid "standard "
+msgstr "มาตรฐาน"
+
+#: word_remove.php:40
+msgid "Start Now"
+msgstr "เริ่มเดี๋ยวนี้"
+
+#: libs/dashboard_actions_functions.php:1216
+msgid "Started by"
+msgstr "เริ่ม"
+
+#: libs/listing_functions.php:663 libs/listing_functions.php:709
+#: templates/dashboard-templates/add_new_agent.php:243
+#: templates/dashboard-templates/add_new_agent_template.php:115
+#: templates/dashboard-templates/user_profile_agency.php:124
+#: templates/dashboard-templates/user_profile_agent.php:104
+#: templates/dashboard-templates/user_profile_developer.php:105
+msgid "State/County"
+msgstr "รัฐ / เคาน์ตี้"
+
+#: zillow_estimate_page.php:85
+msgid "State:"
+msgstr "รัฐ:"
+
+#: libs/help_functions.php:3241 libs/help_functions.php:3454
+#: libs/help_functions.php:3699 libs/help_functions.php:3835
+#: libs/help_functions.php:4379 property_list_half.php:101
+#: templates/directory_filters.php:69
+#: templates/property_ajax_tax_hidden_filters.php:28
+#: templates/property_list_filters.php:56
+#: templates/property_list_filters.php:113
+#: templates/taxonomy_agent_hidden_filters.php:25
+msgid "States"
+msgstr "สถานะ"
+
+#: crm_functions/crm_functions.php:319 crm_functions/crm_functions.php:369
+#: libs/dashboard_actions_functions.php:496
+#: libs/dashboard_actions_functions.php:554
+#: libs/dashboard_actions_functions.php:673
+#: libs/dashboard_actions_functions.php:679 user_dashboard_favorite.php:41
+msgid "Status"
+msgstr "สถานะ"
+
+#: libs/css_js_include.php:761 libs/listing_functions.php:78
+#: libs/listing_functions.php:101 templates/google_maps_base.php:125
+msgid "Street View"
+msgstr "มุมมองถนน"
+
+#: libs/dashboard_widgets.php:417
+msgid "Stripe Api Keys are added.Payments will be processed."
+msgstr "มีการเพิ่มคีย์ Api แบบลายเส้นแล้วการชำระเงินจะดำเนินการ"
+
+#. Template Name of the theme
+msgid "Stripe Charge Page"
+msgstr "หน้าค่าใช้จ่าย Stripe"
+
+#: libs/dashboard_actions_functions.php:1217
+#: templates/dashboard-templates/message-listing-unit.php:36
+msgid "Subject"
+msgstr "เรื่อง"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:18
+msgid "Submission Fee"
+msgstr "ค่าธรรมเนียมการยื่น"
+
+#: front_property_submit.php:833
+msgid "Submit Property"
+msgstr "ส่งคุณสมบัติ"
+
+#: templates/agency_reviews.php:226 templates/agent_reviews.php:203
+#: templates/developer_reviews.php:206 templates/property_reviews.php:225
+msgid "Submit Review"
+msgstr "ส่งความคิดเห็น"
+
+#: libs/css_js_include.php:869
+#: templates/dashboard-templates/user_memebership_profile.php:43
+msgid "subscription will be cancelled at the end of current period"
+msgstr "การสมัครสมาชิกจะถูกยกเลิกเมื่อสิ้นงวดปัจจุบัน"
+
+#: templates/submit_templates/property_subunits.php:23
+msgid "Subunits"
+msgstr "หน่วยย่อย"
+
+#: libs/help_functions.php:1580
+msgid "Supermarkets"
+msgstr "ซูเปอร์มาร์เก็ต"
+
+#: templates/dashboard-templates/user_profile_agency.php:45
+#: templates/dashboard-templates/user_profile_developer.php:43
+msgid "Taxes"
+msgstr "ภาษี"
+
+#: libs/help_functions.php:5362
+msgid "Term(*in years)"
+msgstr "เงื่อนไข(*ในปี)"
+
+#: templates/login_register_modal.php:123 templates/mobile_menu.php:148
+msgid "terms & conditions"
+msgstr "ข้อตกลงและเงื่อนไข"
+
+#. Template Name of the theme
+msgid "Terms and Conditions"
+msgstr "ข้อกำหนดและเงื่อนไข"
+
+#: templates/google_maps_base.php:97 templates/google_maps_base_map_list.php:9
+msgid "Terrain"
+msgstr "ภูมิประเทศ"
+
+#: libs/css_js_include.php:782
+msgid "Thank you. Please check your email for payment instructions."
+msgstr "ขอขอบคุณ. โปรดตรวจสอบอีเมลของคุณเพื่อดูคำแนะนำในการชำระเงิน"
+
+#: libs/css_js_include.php:562
+msgid "The browser couldn't detect your position!"
+msgstr "เบราเซอร์ไม่สามารถตรวจจับตำแหน่งของคุณได้!"
+
+#: zillow_estimate_page.php:32
+msgid "The City field is empty !"
+msgstr "เขตเมืองว่างเปล่า!"
+
+#: libs/ajax_functions.php:5090
+msgid "The date & time is already booked. Please choose a new one"
+msgstr "วันที่และเวลาได้รับการจองแล้ว โปรดเลือกใหม่"
+
+#: libs/megamenu.php:257
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "คำอธิบายจะปรากฏในเมนูถ้าธีมปัจจุบันรองรับไฟล์"
+
+#: libs/ajax_functions.php:2822 libs/dashboard_actions_functions.php:866
+msgid "The email doesn't look right !"
+msgstr "อีเมลไม่ถูกต้อง!"
+
+#: libs/ajax_functions.php:3292 libs/ajax_functions.php:3467
+#: libs/ajax_functions.php:3635
+msgid "The email was not saved because it is used by another user."
+msgstr "อีเมลไม่ได้รับการบันทึกเนื่องจากมีการใช้งานโดยผู้ใช้รายอื่น"
+
+#: libs/ajax_functions.php:2828 libs/dashboard_actions_functions.php:871
+msgid "The email's domain doesn't look right."
+msgstr "โดเมนของอีเมลดูไม่ถูกต้อง"
+
+#: libs/general-settings.php:266
+msgid "The first footer widget area"
+msgstr "พื้นที่วิดเจ็ตส่วนท้ายแรก"
+
+#: libs/plugins.php:138
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[1] ""
+
+#: libs/plugins.php:136
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "ปลั๊กอินที่แนะนำต่อไปนี้ไม่ทำงาน: %1$s."
+msgstr[1] ""
+
+#: libs/plugins.php:135
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugins are currently inactive: %1$s."
+msgstr[1] ""
+
+#: libs/general-settings.php:299
+msgid "The fourth footer widget area"
+msgstr "พื้นที่เครื่องมือส่วนท้ายที่สี่"
+
+#: functions.php:85 word_remove.php:62
+msgid ""
+"The Google Maps JavaScript API v3 REQUIRES an API key to function correctly. "
+"Get an APIs Console key and post the code in Theme Options. You can get it "
+"from"
+msgstr ""
+"API JavaScript ของ Google แผนที่เวอร์ชัน 3 ต้องมีคีย์ API ทำงานอย่างถูกต้อง "
+"โหลดคีย์คอนโซล API และโพสต์โค้ดในตัวเลือกธีม คุณสามารถรับได้จาก"
+
+#: libs/ajax_functions.php:2246
+msgid "The invoice number is: "
+msgstr "หมายเลขใบแจ้งหนี้คือ:"
+
+#: libs/ajax_functions.php:3816
+msgid "The new password is blank"
+msgstr "รหัสผ่านใหม่ว่างเปล่า"
+
+#: libs/general-settings.php:244
+msgid "The primary widget area"
+msgstr "พื้นที่เครื่องมือหลัก"
+
+#: libs/general-settings.php:277
+msgid "The second footer widget area"
+msgstr "พื้นที่เครื่องมือส่วนท้ายที่สอง"
+
+#: libs/general-settings.php:255
+msgid "The secondary widget area"
+msgstr "พื้นที่วิดเจ็ตรอง"
+
+#: zillow_estimate_page.php:22
+msgid "The state field is empty !"
+msgstr "ฟิลด์สถานะว่างเปล่า!"
+
+#: libs/general-settings.php:288
+msgid "The third footer widget area"
+msgstr "พื้นที่เครื่องมือส่วนท้ายที่สาม"
+
+#: libs/general-settings.php:310
+msgid "The top bar left widget area"
+msgstr "แถบเครื่องมือด้านซ้ายบนแถบเครื่องมือ"
+
+#: libs/general-settings.php:320
+msgid "The top bar right widget area"
+msgstr "แถบเครื่องมือด้านขวาบนสุด"
+
+#: templates/normal_directory.php:225 templates/normal_map_core.php:272
+msgid ""
+"There are no agents listed on this page at this moment. Please try again "
+"later. "
+msgstr "ไม่มีตัวแทนที่ระบุในหน้านี้ในขณะนี้ กรุณาลองใหม่อีกครั้งในภายหลัง."
+
+#: index.php:40
+msgid "There are no posts published!"
+msgstr "ไม่มีโพสต์ที่เผยแพร่!"
+
+#: templates/normal_directory.php:223 templates/normal_map_core.php:270
+msgid ""
+"There are no properties listed on this page at this moment. Please try again "
+"later. "
+msgstr "ไม่มีคุณสมบัติที่ระบุในหน้านี้ในขณะนี้ กรุณาลองใหม่อีกครั้งในภายหลัง."
+
+#: front_property_submit.php:775 templates/front_end_submission.php:106
+#: templates/front_end_submission.php:167
+msgid "These fields are mandatory: Title"
+msgstr "ฟิลด์เหล่านี้มีผลบังคับใช้: ชื่อ"
+
+#: libs/general-settings.php:286
+msgid "Third Footer Widget Area"
+msgstr "พื้นที่วิดเจ็ตที่สาม"
+
+#: word_remove.php:205
+msgid "This applies for the calendar field type available for properties."
+msgstr "ข้อมูลนี้ใช้กับประเภทของฟิลด์ปฏิทินที่พร้อมใช้งานสำหรับคุณสมบัติ"
+
+#: templates/submit_templates/user_memebership_form.php:32
+msgid "This is a paid submission."
+msgstr "นี่คือการส่งแบบชำระเงิน"
+
+#: front_property_submit.php:783 templates/front_end_submission.php:80
+msgid ""
+"This is a paid submission.The listing will be live after payment is received."
+msgstr "นี่เป็นรายการแบบชำระเงินรายชื่อจะออกอากาศหลังจากได้รับการชำระเงินแล้ว"
+
+#: aag_search_results.php:6 advanced_search_results.php:6 agency_list.php:6
+#: agents_list.php:5 compare_listings.php:6 contact_page.php:6
+#: developers_list.php:6 front_property_submit.php:6
+#: libs/dashboard_functions.php:1278 page_property_design.php:5 processor.php:5
+#: property_list.php:5 property_list_directory.php:5 property_list_half.php:5
+#: single-idx.php:6 splash_page.php:5 zillow_estimate_page.php:5
+msgid ""
+"This page will not work without WpResidence Core Plugin, Please activate it "
+"from the plugins menu!"
+msgstr ""
+"หน้านี้จะไม่สามารถใช้งานได้หากไม่มี Plugin WpResidence Core "
+"โปรดเปิดใช้งานจากปลั๊กอินเมนู!"
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "โพสต์นี้มีรหัสผ่านป้องกัน. ป้อนรหัสผ่านเพื่อดูความคิดเห็นใด ๆ"
+
+#: zillow_estimate_page.php:80
+msgid "this property is estimated at"
+msgstr "สินทรัพย์นี้อยู่ประมาณที่"
+
+#: libs/plugins.php:133
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "ชุดรูปแบบนี้แนะนำปลั๊กอินต่อไปนี้: %1$s."
+msgstr[1] ""
+
+#: libs/plugins.php:132
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "เป็นผู้กำหนดให้มีส่วนเสริมของปลั๊กอิน: %1$s."
+msgstr[1] ""
+
+#: templates/agent_contact.php:66
+msgid "Time"
+msgstr "เวลา"
+
+#: libs/dashboard_actions_functions.php:492
+msgid "Title"
+msgstr "หัวข้อ"
+
+#: libs/megamenu.php:231
+msgid "Title Attribute"
+msgstr "แอตทริบิวต์ชื่อ"
+
+#: templates/dashboard-templates/add_new_agent.php:256
+#: templates/dashboard-templates/add_new_agent_template.php:131
+#: templates/dashboard-templates/user_profile.php:87
+#: templates/dashboard-templates/user_profile_agent.php:122
+msgid "Title/Position"
+msgstr "ชื่อ / ตำแหน่ง"
+
+#: libs/css_js_include.php:778 libs/general-settings.php:49
+#: libs/general-settings.php:51 libs/general-settings.php:61
+#: libs/general-settings.php:63 libs/searchfunctions.php:2362
+#: libs/searchfunctions.php:2390 libs/searchfunctions.php:2422
+#: templates/directory_filters.php:191 templates/directory_filters.php:208
+#: templates/directory_filters.php:227 templates/directory_filters.php:246
+#: templates/directory_filters.php:265
+msgid "to"
+msgstr "ไปยัง"
+
+#: libs/css_js_include.php:783
+msgid "To be paid"
+msgstr "จะได้รับเงิน"
+
+#: libs/dashboard_actions_functions.php:463
+msgid "to date"
+msgstr "ถึงวันที่"
+
+#: templates/half_map_core.php:105 templates/normal_map_core.php:112
+msgid ""
+"to save search and you will receive an email notification when new "
+"properties matching your search will be published."
+msgstr ""
+"เพื่อบันทึกการค้นหา "
+"และคุณจะได้รับการแจ้งเตือนทางอีเมลเมื่อมีการเผยแพร่สินทรพย์ใหม่ที่ตรงกับการค้นหาของคุณ"
+
+#: libs/general-settings.php:308
+msgid "Top Bar Left Widget Area"
+msgstr "แถบเครื่องมือด้านซ้ายบนแถบเครื่องมือ"
+
+#: libs/general-settings.php:318
+msgid "Top Bar Right Widget Area"
+msgstr "แถบเครื่องมือด้านขวาบนแถบเครื่องมือ"
+
+#: libs/dashboard_functions.php:310
+msgid "Total Agents"
+msgstr "ตัวแทนทั้งหมด"
+
+#: libs/dashboard_actions_functions.php:485
+msgid "Total Invoices: "
+msgstr "ใบแจ้งหนี้ทั้งหมด:"
+
+#: user_dashboard_analytics.php:64
+msgid "Total number of views:"
+msgstr "จำนวนการดูทั้งหมด:"
+
+#: libs/dashboard_functions.php:304
+msgid "Total Properties"
+msgstr "คุณสมบัติทั้งหมด"
+
+#: libs/dashboard_functions.php:394
+msgid "Total views for your listings"
+msgstr "ยอดดูทั้งหมดสำหรับรายการของคุณ"
+
+#: libs/help_functions.php:1579
+msgid "Transport"
+msgstr "ขนส่ง"
+
+#: libs/help_functions.php:1731
+msgid "Transportation"
+msgstr "การขนส่ง"
+
+#: libs/design_functions.php:2061
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/dashboard-templates/add_new_agent.php:109
+#: templates/dashboard-templates/add_new_agent_template.php:84
+#: templates/dashboard-templates/user_profile.php:57
+#: templates/dashboard-templates/user_profile_agency.php:82
+#: templates/dashboard-templates/user_profile_agent.php:73
+#: templates/dashboard-templates/user_profile_developer.php:76
+msgid "Twitter Url"
+msgstr "URL ของ Twitter"
+
+#: libs/searchfunctions.php:343 templates/advanced_search_type10.php:37
+#: templates/adv_search_mobile.php:78
+msgid "Type address, state, city or area"
+msgstr "พิมพ์ที่อยู่รัฐเมืองหรือพื้นที่"
+
+#: functions.php:823 libs/css_js_include.php:743
+#: templates/advanced_search_type_half.php:320
+msgid "Type Bathrooms No."
+msgstr "ประเภทห้องน้ำ No."
+
+#: functions.php:814 libs/css_js_include.php:742
+#: templates/advanced_search_type_half.php:315
+msgid "Type Bedrooms No."
+msgstr "ประเภทห้องนอน"
+
+#: libs/searchfunctions.php:393 searchform.php:2
+#: templates/advanced_search_type11.php:36 templates/adv_search_mobile.php:105
+msgid "Type Keyword"
+msgstr "พิมพ์คำหลัก"
+
+#: functions.php:879 libs/css_js_include.php:745
+#: templates/advanced_search_type_half.php:362
+msgid "Type Max. Price"
+msgstr "พิมพ์ Max. ราคา"
+
+#: functions.php:875 libs/css_js_include.php:744
+#: templates/advanced_search_type_half.php:358
+msgid "Type Min. Price"
+msgstr "ประเภท Min ราคา"
+
+#: templates/footer_buttons.php:20
+msgid "Type your message..."
+msgstr "พิมพ์ข้อความของคุณ ..."
+
+#: compare_listings.php:113
+msgid "Type: "
+msgstr "ประเภท:"
+
+#: functions.php:709 functions.php:736 libs/help_functions.php:3233
+#: libs/help_functions.php:3239 libs/help_functions.php:3379
+#: libs/help_functions.php:3635 libs/help_functions.php:3771
+#: libs/help_functions.php:4101 libs/searchfunctions.php:357
+#: libs/searchfunctions.php:408 libs/searchfunctions2.php:14
+#: property_list_directory.php:79 property_list_half.php:69
+#: templates/advanced_search_type2.php:46
+#: templates/advanced_search_type8.php:144
+#: templates/advanced_search_type9.php:146
+#: templates/advanced_search_type_half.php:126
+#: templates/advanced_search_type_half.php:159
+#: templates/advanced_search_type_half.php:170
+#: templates/adv_search_mobile.php:74 templates/adv_search_mobile.php:99
+#: templates/adv_search_mobile.php:175 templates/directory_filters.php:28
+#: templates/property_ajax_tax_hidden_filters.php:24
+#: templates/property_ajax_tax_hidden_filters.php:60
+#: templates/property_list_filters.php:52
+#: templates/property_list_filters.php:92
+#: templates/taxonomy_agent_hidden_filters.php:21
+msgid "Types"
+msgstr "ประเภท"
+
+#: libs/searchfunctions.php:2159 libs/searchfunctions.php:2327
+msgid "types"
+msgstr "ประเภท"
+
+#: libs/ajax_functions.php:5251
+msgid "Unable to login. Please, check login/password and try again"
+msgstr ""
+"ไม่สามารถเข้าสู่ระบบได้. โปรดตรวจสอบการเข้าสู่ระบบ / รหัสผ่านและลองอีกครั้ง"
+
+#: templates/dashboard-templates/user_memebership_profile.php:127
+#: templates/dashboard-templates/user_memebership_profile.php:136
+msgid "Unlimited"
+msgstr "ไม่ จำกัด"
+
+#: user_dashboard_inbox.php:31
+msgid "unread messages"
+msgstr "ข้อความที่ยังไม่ได้อ่าน"
+
+#: templates/dashboard-templates/add_new_agent.php:265
+#: templates/dashboard-templates/user_profile.php:122
+#: templates/dashboard-templates/user_profile_agency.php:233
+#: templates/dashboard-templates/user_profile_agent.php:332
+#: templates/dashboard-templates/user_profile_developer.php:207
+msgid "Update profile"
+msgstr "อัปเดตโปรไฟล์"
+
+#: templates/agency_reviews.php:179 templates/agent_reviews.php:156
+#: templates/developer_reviews.php:159 templates/property_reviews.php:178
+msgid "Update Review "
+msgstr "อัปเดตการตรวจทาน"
+
+#: word_remove.php:15
+msgid "Update the theme & plugins"
+msgstr "อัปเดตธีมและปลั๊กอิน"
+
+#: templates/listing_templates/single-overview-section.php:16
+msgid "Updated On:"
+msgstr "ปรับปรุงเมื่อ:"
+
+#: libs/dashboard_actions_functions.php:469 libs/help_functions.php:4712
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:84
+#: templates/dashboard-templates/invoice_listing_unit.php:25
+msgid "Upgrade to Featured"
+msgstr "อัปเกรดเป็น Featured"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:59
+msgid "Upgrade to featured"
+msgstr "อัปเกรดเป็นแบบพิเศษ"
+
+#: libs/ajax_functions.php:4917
+msgid "Upgrade to Featured Listing"
+msgstr "อัปเกรดเป็นรายการแนะนำ"
+
+#: libs/ajax_functions.php:4830
+msgid "Upgrade to featured listing on "
+msgstr "อัปเกรดเป็นรายการเด่นในวันที่"
+
+#: templates/dashboard-templates/add_new_agent.php:44
+#: templates/dashboard-templates/add_new_agent_template.php:385
+#: templates/dashboard-templates/user_profile.php:149
+#: templates/dashboard-templates/user_profile_agency.php:261
+#: templates/dashboard-templates/user_profile_agent.php:366
+#: templates/dashboard-templates/user_profile_developer.php:237
+msgid "Upload  profile image."
+msgstr "อัปโหลดรูปโปรไฟล์"
+
+#: libs/megamenu.php:307
+msgid "Upload Background Image | "
+msgstr "อัปโหลดภาพพื้นหลัง |"
+
+#: templates/submit_templates/floor_plans.php:56
+#: templates/submit_templates/floor_plans.php:143
+msgid "Upload Image"
+msgstr "อัปโหลดรูปภาพ"
+
+#: libs/dashboard_widgets.php:12
+msgid "Upload New Logo"
+msgstr "อัปโหลดโลโก้ใหม่"
+
+#: libs/dashboard_functions.php:1260
+#: templates/submit_templates/property_floor_plans.php:182
+msgid "Upload Plan Image"
+msgstr "รูปอัปโหลดแผน"
+
+#: templates/dashboard-templates/add_new_agent.php:34
+msgid "Upload your profile photo."
+msgstr "อัปโหลดรูปโปรไฟล์ของคุณ"
+
+#: libs/megamenu.php:218
+msgid "URL"
+msgstr "URL"
+
+#: templates/submit_templates/property_floor_plans.php:73
+msgid "Use Floor Plans"
+msgstr "ใช้แผนผังชั้น"
+
+#: templates/footer_buttons.php:11
+msgid "Use the form below to contact us!"
+msgstr "ใช้แบบฟอร์มด้านล่างเพื่อติดต่อเรา!"
+
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "User"
+msgstr "ผู้ใช้งาน"
+
+#. Template Name of the theme
+msgid "User Dashboard"
+msgstr "แดชบอร์ดผู้ใช้"
+
+#. Template Name of the theme
+msgid "User Dashboard  Saved Searches"
+msgstr "User Dashboard การค้นหาที่บันทึกไว้"
+
+#: libs/general-settings.php:361
+msgid "User Dashboard - The top bar left widget area"
+msgstr "แดชบอร์ดผู้ใช้ - แถบเครื่องมือด้านซ้ายสุดของแถบเครื่องมือ"
+
+#: libs/general-settings.php:371
+msgid "User Dashboard - The top bar right widget area"
+msgstr "แดชบอร์ดผู้ใช้ - แถบเครื่องมือด้านขวาบนแถบเครื่องมือ"
+
+#. Template Name of the theme
+msgid "User Dashboard Add agent"
+msgstr "แดชบอร์ดผู้ใช้ เพิ่มตัวแทน"
+
+#. Template Name of the theme
+msgid "User Dashboard Agent List"
+msgstr "รายชื่อตัวแทนแดชบอร์ดผู้ใช้"
+
+#. Template Name of the theme
+msgid "User Dashboard Favorite"
+msgstr "รายการโปรดของผู้ใช้แดชบอร์ด"
+
+#. Template Name of the theme
+msgid "User Dashboard Inbox"
+msgstr "กล่องข้อความแดชบอร์ดผู้ใช้"
+
+#. Template Name of the theme
+msgid "User Dashboard Invoices"
+msgstr "ใบแจ้งหนี้แดชบอร์ดผู้ใช้"
+
+#. Template Name of the theme
+msgid "User Dashboard Main"
+msgstr "แดชบอร์ดหลักของผู้ใช้"
+
+#. Template Name of the theme
+msgid "User Dashboard Profile Page"
+msgstr "หน้าโปรไฟล์แดชบอร์ดผู้ใช้"
+
+#. Template Name of the theme
+msgid "User Dashboard Search Results"
+msgstr "ผลการค้นหาแดชบอร์ดผู้ใช้"
+
+#. Template Name of the theme
+msgid "User Dashboard Stats"
+msgstr "สถิติแดชบอร์ดผู้ใช้"
+
+#. Template Name of the theme
+msgid "User Dashboard Submit"
+msgstr "ส่งแดชบอร์ดผู้ใช้"
+
+#: templates/dashboard-templates/add_new_agent.php:56
+#: templates/dashboard-templates/add_new_agent.php:98
+#: templates/dashboard-templates/add_new_agent.php:251
+#: templates/dashboard-templates/user_profile.php:117
+msgid "User Details"
+msgstr "รายละเอียดผู้ใช้"
+
+#: templates/dashboard-templates/dashboard_agent_unit.php:36
+msgid "user id:"
+msgstr "รหัสผู้ใช้:"
+
+#: templates/agent_unit.php:11 templates/agent_unit_featured.php:26
+#: templates/agent_unit_widget.php:61 templates/agent_unit_widget.php:71
+#: templates/blog_unit.php:28 templates/blog_unit2.php:63
+#: templates/dashboard-templates/add_new_agent.php:38
+#: templates/dashboard-templates/add_new_agent_template.php:380
+#: templates/dashboard-templates/dashboard_agent_unit.php:18
+#: templates/dashboard-templates/user_profile.php:145
+#: templates/dashboard-templates/user_profile_agency.php:256
+#: templates/dashboard-templates/user_profile_agent.php:362
+#: templates/dashboard-templates/user_profile_developer.php:232
+#: templates/featured_property_1.php:123 templates/featured_property_1.php:127
+#: templates/featured_property_2.php:106
+#: templates/property_animation_slider.php:70
+#: templates/property_cards_templates/property_card_slider.php:41
+#: templates/submit_templates/property_images.php:98
+#: templates/submit_templates/property_images.php:104
+#: templates/submit_templates/property_images_new.php:57
+#: templates/submit_templates/property_images_new.php:67
+#: templates/submit_templates/property_images_new.php:116
+#: templates/submit_templates/property_images_new.php:119
+msgid "user image"
+msgstr "รูปผู้ใช้"
+
+#: templates/dashboard-templates/add_new_agent.php:215
+msgid "User Param 1"
+msgstr "พารามิเตอร์ผู้ใช้ 1"
+
+#: templates/login_register_modal.php:56 templates/login_register_modal.php:82
+#: templates/mobile_menu.php:86 templates/mobile_menu.php:109
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+#: libs/ajax_functions.php:2835 libs/dashboard_actions_functions.php:830
+msgid "Username already exists.  Please choose a new one."
+msgstr "ชื่อผู้ใช้อยู่แล้ว. โปรดเลือกใหม่"
+
+#: libs/ajax_functions.php:2817 libs/dashboard_actions_functions.php:825
+#: libs/dashboard_actions_functions.php:851
+msgid "Username and/or Email field is empty!"
+msgstr "ชื่อผู้ใช้และ / หรืออีเมล์ว่างเปล่า!"
+
+#: libs/ajax_functions.php:2972 libs/ajax_functions.php:3028
+#: libs/ajax_functions.php:3085
+msgid "Username and/or Password field is empty!"
+msgstr "ช่องชื่อผู้ใช้และ / หรือรหัสผ่านว่างเปล่า!"
+
+#: templates/dashboard-templates/add_new_agent_template.php:231
+msgid "Username:"
+msgstr "ชื่อผู้ใช้:"
+
+#: functions.php:546
+msgid "Username: %s"
+msgstr "ชื่อผู้ใช้: %s"
+
+#: libs/dashboard_functions.php:1251
+msgid "Valid file formats"
+msgstr "รูปแบบไฟล์ที่ถูกต้อง"
+
+#: libs/ajax_functions.php:370 templates/property_page_acc_content.php:164
+#: templates/property_page_tab_content.php:161
+msgid "Video"
+msgstr "วีดีโอ"
+
+#: templates/submit_templates/property_video.php:44
+msgid "Video from"
+msgstr "วิดีโอจาก"
+
+#: libs/listing_functions.php:419
+msgid "video image"
+msgstr "ภาพวิดีโอ"
+
+#: templates/submit_templates/property_video.php:38
+msgid "Video Option"
+msgstr "ตัวเลือกวิดีโอ"
+
+#: libs/dashboard_actions_functions.php:207
+#: libs/dashboard_actions_functions.php:215
+msgid "Video Type"
+msgstr "ชนิดวิดีโอ"
+
+#: templates/google_maps_base.php:93 templates/google_maps_base_map_list.php:5
+msgid "View"
+msgstr "ดู"
+
+#: templates/dashboard-templates/user_profile_agency.php:240
+#: templates/dashboard-templates/user_profile_agent.php:340
+#: templates/dashboard-templates/user_profile_developer.php:216
+msgid "View public profile"
+msgstr "ดูโปรไฟล์สาธารณะ"
+
+#: templates/preview_template.php:5
+msgid "View results"
+msgstr "ดูผลการค้นหา"
+
+#: crm_functions/templates/crm_contact_unit_actions.php:17
+msgid "View/Edit Contact"
+msgstr "ดู/แก้ไขผู้ติดต่อ"
+
+#: crm_functions/templates/crm_lead_unit_actions.php:19
+msgid "View/Edit Lead"
+msgstr "ดู/แก้ไขลูกค้าเป้าหมาย"
+
+#: libs/dashboard_functions.php:518
+msgid "Views"
+msgstr "เข้าชม"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:64
+msgid "Views Stats"
+msgstr "สถิติการดู"
+
+#: libs/ajax_functions.php:340 libs/dashboard_actions_functions.php:223
+#: templates/property_page_acc_content.php:240
+#: templates/property_page_acc_content.php:254
+#: templates/property_page_tab_content.php:236
+#: templates/submit_templates/video_tour.php:27
+msgid "Virtual Tour"
+msgstr "ทัวร์เสมือนจริง"
+
+#: templates/submit_templates/video_tour.php:29
+msgid "Virtual Tour: "
+msgstr "ทัวร์เสมือนจริง:"
+
+#: libs/dashboard_functions.php:1414
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:25
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:16
+msgid "Waiting for approval"
+msgstr "รอการอนุมัติ"
+
+#: libs/ajax_functions.php:313 templates/property_page_acc_content.php:270
+#: templates/property_page_acc_content.php:287
+#: templates/property_page_tab_content.php:265
+msgid "WalkScore"
+msgstr "WalkScore"
+
+#: libs/help_functions.php:2440 libs/help_functions.php:2471
+msgid "walkscore"
+msgstr "คะแนนเดิน"
+
+#: templates/image_gallery.php:94
+msgid "Want to find out more?"
+msgstr "ต้องการที่จะหามากขึ้น?"
+
+#: libs/css_js_include.php:1141
+msgid "Warning !"
+msgstr "คำเตือน!"
+
+#: zillow_estimate_page.php:89
+msgid ""
+"We are sorry, but we don't have an estimation for this property at this "
+"moment!  "
+msgstr "ขออภัยขณะนี้เราไม่มีการประเมินสถานที่พักนี้!"
+
+#: libs/ajax_functions.php:709 libs/ajax_functions.php:881
+#: libs/ajax_functions.php:1277 libs/ajax_functions.php:1805
+#: libs/ajax_functions.php:2533 libs/ajax_functions.php:4152
+#: libs/ajax_functions.php:4405 libs/ajax_functions.php:4670
+#: templates/google_maps_base.php:75
+msgid "We didn't find any results"
+msgstr "เราไม่พบผลลัพธ์ใด ๆ"
+
+#: aag_search_results.php:171
+msgid ""
+"We didn't find any results. Please try again with different search "
+"parameters."
+msgstr ""
+"เราไม่พบผลลัพธ์ใด ๆ โปรดลองอีกครั้งด้วยพารามิเตอร์การค้นหาที่แตกต่างกัน"
+
+#: search.php:32 templates/normal_directory.php:205
+#: templates/normal_map_core.php:235
+msgid ""
+"We didn't find any results. Please try again with different search "
+"parameters. "
+msgstr ""
+"เราไม่พบผลลัพธ์ใด ๆ โปรดลองอีกครั้งด้วยพารามิเตอร์การค้นหาที่แตกต่างกัน"
+
+#: templates/agency_agents.php:43
+msgid "We don't have any agents yet!"
+msgstr "เรายังไม่มีตัวแทน!"
+
+#: templates/adv_search_mobile.php:211
+msgid "we found"
+msgstr "เราพบว่า"
+
+#: templates/advanced_search_type_half.php:399 templates/preview_template.php:4
+msgid "We found "
+msgstr "เราพบว่า"
+
+#: functions.php:566
+msgid "We have just sent you a new password. Please check your email!"
+msgstr "เราเพิ่งส่งรหัสผ่านใหม่ให้คุณ โปรดตรวจสอบอีเมลของคุณ!"
+
+#: libs/ajax_functions.php:3173
+msgid "We have just sent you an email with Password reset instructions."
+msgstr "เราเพิ่งส่งอีเมลพร้อมคำแนะนำในการรีเซ็ตรหัสผ่านของคุณ"
+
+#: libs/ajax_functions.php:2245
+msgid ""
+"We received your  Wire Transfer payment request on %s ! Please follow the "
+"instructions below in order to start submitting properties as soon as "
+"possible."
+msgstr ""
+"เราได้รับคำขอโอนเงินจาก Wire Transfer ของคุณใน %s! "
+"โปรดปฏิบัติตามคำแนะนำด้านล่างเพื่อเริ่มส่งคุณสมบัติโดยเร็วที่สุด"
+
+#: word_remove.php:49
+msgid ""
+"We recommend doing demo import first and then finishing this setup. Adding "
+"Demo import AFTER completing this setup changes your settings options to "
+"demo options. "
+msgstr ""
+"เราขอแนะนำให้ทำการนำเข้าการสาธิตก่อนแล้วจึงสิ้นสุดการตั้งค่านี้ "
+"การนำเข้าการนำเข้าหลังจากติดตั้งเสร็จสิ้นจะเปลี่ยนตัวเลือกการตั้งค่าของคุณเป็นตัวเลือกการสาธิต"
+
+#: templates/header_agency.php:85
+msgid "We Speak:"
+msgstr "เราพูด:"
+
+#: 404.php:17
+msgid ""
+"We're sorry. Your page could not be found, But you can check our latest "
+"listings & articles"
+msgstr ""
+"ขออภัย ไม่พบหน้าเว็บของคุณ, แต่คุณสามารถตรวจสอบรายการและบทความล่าสุดของเรา"
+
+#: comments.php:83
+msgid "Website"
+msgstr "เว็บไซต์"
+
+#: templates/dashboard-templates/add_new_agent.php:130
+#: templates/dashboard-templates/add_new_agent_template.php:99
+#: templates/dashboard-templates/user_profile.php:78
+#: templates/dashboard-templates/user_profile_agency.php:97
+#: templates/dashboard-templates/user_profile_agent.php:88
+#: templates/dashboard-templates/user_profile_developer.php:91
+msgid "Website Url (without http)"
+msgstr "URL เว็บไซต์ (ไม่มี http)"
+
+#: templates/header_agency.php:79 templates/header_developer.php:124
+msgid "Website:"
+msgstr "เว็บไซต์:"
+
+#: templates/dashboard-templates/user_memebership_profile.php:224
+msgid "weeks"
+msgstr "สัปดาห์ที่ผ่านมา"
+
+#: libs/dashboard_functions.php:1341
+msgid "Welcome"
+msgstr "ยินดีต้อนรับ"
+
+#: templates/dashboard-templates/dashboard-left-col.php:17
+msgid "Welcome back, "
+msgstr "ยินดีต้อนรับกลับ,"
+
+#: templates/dashboard-templates/add_new_agent.php:141
+msgid "What kind of listings do you handle?"
+msgstr "คุณจัดการรายชื่ออะไรบ้าง?"
+
+#: libs/ajax_functions.php:286 templates/property_page_acc_content.php:306
+#: templates/property_page_acc_content.php:320
+#: templates/property_page_tab_content.php:299
+msgid "What's Nearby"
+msgstr "สถานที่ใกล้เคียงคืออะไร"
+
+#: libs/design_functions.php:2063
+#: templates/realtor_templates/agent_contact_bar.php:27
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:34
+#: templates/dashboard-templates/user_memebership_profile.php:193
+msgid "Wire Transfer"
+msgstr "การโอนเงินผ่านธนาคาร"
+
+#: functions.php:98
+msgid "WordPress Memory Limit is set to "
+msgstr "จำกัดความจำของ WordPress ไว้ที่"
+
+#. Description of the theme
+msgid ""
+"WP Residence is a premium & responsive WordPress theme designed for Real "
+"Estate companies and independent agents."
+msgstr ""
+"WP Residence เป็นธีม WordPress "
+"ระดับพรีเมียมและตอบสนองที่ออกแบบมาสำหรับบริษัทอสังหาริมทรัพย์และตัวแทนอิสระ"
+
+#. Author of the theme
+msgid "wpestate"
+msgstr "สวนผึ่ง"
+
+#. Theme Name of the theme
+msgid "WpResidence"
+msgstr "WpResidence"
+
+#: templates/agency_reviews.php:185 templates/agent_reviews.php:162
+#: templates/developer_reviews.php:165 templates/property_reviews.php:184
+msgid "Write a Review "
+msgstr "แสดงความคิดเห็น"
+
+#: libs/dashboard_functions.php:215
+msgid "Write Message  %s"
+msgstr "เขียนข้อความ %s"
+
+#: libs/ajax_functions.php:2784
+msgid "wrong captcha"
+msgstr "captcha ผิด"
+
+#: libs/ajax_functions.php:2992 libs/ajax_functions.php:3049
+#: libs/ajax_functions.php:3097
+msgid "Wrong username or password!"
+msgstr "ชื่อผู้ใช้หรือรหัสผ่านผิด!"
+
+#: libs/help_functions.php:4772 libs/help_functions.php:4921 word_remove.php:94
+msgid "yards"
+msgstr "หลา"
+
+#: libs/help_functions.php:4772 libs/help_functions.php:4854
+#: libs/help_functions.php:4860 libs/help_functions.php:4866
+#: libs/help_functions.php:4869 libs/help_functions.php:4870
+#: libs/help_functions.php:4871 libs/help_functions.php:4872
+#: libs/help_functions.php:4873 libs/help_functions.php:4880
+#: libs/help_functions.php:4921 libs/help_functions.php:4930
+#: libs/help_functions.php:4936 libs/help_functions.php:4942
+#: libs/help_functions.php:4945 libs/help_functions.php:4946
+#: libs/help_functions.php:4947 libs/help_functions.php:4948
+#: libs/help_functions.php:4949 libs/help_functions.php:4956 word_remove.php:94
+msgid "yd"
+msgstr "หลา"
+
+#: templates/dashboard-templates/user_memebership_profile.php:230
+msgid "year"
+msgstr "ปี"
+
+#: templates/listing_templates/single-overview-section.php:69
+msgid "Year Built:"
+msgstr "ปีที่สร้าง:"
+
+#: archive.php:28
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "ปี"
+
+#: archive.php:28
+msgid "Yearly Archives: %s"
+msgstr "คลังข้อมูลรายปี: %s"
+
+#: libs/dashboard_actions_functions.php:34
+#: templates/submit_templates/property_description.php:94
+msgid "Yearly Tax Rate"
+msgstr "อัตราภาษีรายปี"
+
+#: templates/dashboard-templates/user_memebership_profile.php:232
+msgid "years"
+msgstr "ปี"
+
+#: libs/3rdparty.php:130
+msgid "yesterday"
+msgstr "เมื่อวาน"
+
+#: libs/ajax_functions.php:2962 libs/ajax_functions.php:3017
+#: libs/ajax_functions.php:3074
+msgid "You are already logged in! redirecting..."
+msgstr "คุณเข้าสู่ระบบแล้ว! เปลี่ยนเส้นทาง ..."
+
+#: crm_functions/crm_functions.php:164 crm_functions/crm_functions.php:192
+msgid "You are not allowed to delete this !"
+msgstr "คุณไม่ได้รับอนุญาตให้ลบสิ่งนี้ !"
+
+#: crm_functions/crm_functions.php:95 crm_functions/crm_functions.php:237
+msgid "You are not allowed to edit this!!!"
+msgstr "คุณไม่ได้รับอนุญาตให้แก้ไขสิ่งนี้ !!!"
+
+#: functions.php:548
+msgid "You can now login with your new password at: "
+msgstr "ขณะนี้คุณสามารถเข้าสู่ระบบด้วยรหัสผ่านใหม่ได้ที่:"
+
+#: templates/agent_contact.php:122
+msgid ""
+"You can reply to private messages from \"Inbox\" page in your user account."
+msgstr ""
+"คุณสามารถตอบกลับข้อความส่วนตัวจาก &quot;กล่องจดหมาย&quot; ในบัญชีผู้ใช้ของคุณ"
+
+#: libs/css_js_include.php:986
+msgid "You cannot upload more than"
+msgstr "คุณไม่สามารถอัปโหลดได้มากกว่า"
+
+#: libs/dashboard_widgets.php:406
+msgid ""
+"You did not add your Paypal Details. No Paypal payment will be processed"
+msgstr ""
+"คุณไม่ได้เพิ่มรายละเอียด Paypal ของคุณ ไม่มีการชำระเงิน Paypal จะถูกดำเนินการ"
+
+#: libs/dashboard_widgets.php:415
+msgid ""
+"You did not add your Stripe Details. No Stripe payment will be processed"
+msgstr ""
+"คุณไม่ได้เพิ่มรายละเอียดลายทางของคุณ จะไม่มีการประมวลผลการชำระเงินแบบ Stripe"
+
+#: libs/dashboard_actions_functions.php:561
+msgid "You don't have any agents added!"
+msgstr "คุณไม่มีตัวแทนเพิ่ม!"
+
+#: user_dashboard_favorite.php:66
+msgid "You don't have any favorite properties yet!"
+msgstr "คุณยังไม่มีคุณสมบัติโปรด!"
+
+#: crm_functions/crm_functions.php:324 crm_functions/crm_functions.php:374
+msgid "You don't have any Leads!"
+msgstr "คุณไม่มีเบาะแส!"
+
+#: libs/dashboard_functions.php:271 libs/dashboard_functions.php:522
+msgid "You don't have any listings or enough data!"
+msgstr "คุณไม่มีรายชื่อหรือข้อมูลเพียงพอ!"
+
+#: auser_dashboard_search_result.php:98 templates/half_map_core.php:157
+msgid "You don't have any properties yet!"
+msgstr "คุณยังไม่มีคุณสมบัติใด ๆ !"
+
+#: libs/dashboard_actions_functions.php:688
+msgid "You don't have any properties!"
+msgstr "คุณยังไม่มีคุณสมบัติใด ๆ !"
+
+#: user_dashboard_searches.php:60
+msgid "You don't have any saved searches yet!"
+msgstr "คุณยังไม่มีการค้นหาที่บันทึกไว้!"
+
+#: libs/ajax_functions.php:2585
+msgid "you don't have the right to delete this"
+msgstr "คุณไม่มีสิทธิ์ลบข้อมูลนี้"
+
+#: user_dashboard_inbox.php:31
+msgid "You have"
+msgstr "คุณมี"
+
+#: libs/dashboard_widgets.php:321
+msgid "You have  %1$d listings published:"
+msgstr "คุณมีการเผยแพร่รายชื่อ% 1 $ d รายการ:"
+
+#: libs/dashboard_widgets.php:59
+msgid "You have  %1$d pages published."
+msgstr "คุณมีการเผยแพร่% 1 $ d หน้า"
+
+#: libs/css_js_include.php:859
+msgid "You have used all the \"Featured\" listings in your package."
+msgstr "คุณใช้รายการ &quot;Featured&quot; ทั้งหมดในแพ็กเกจของคุณแล้ว"
+
+#: libs/css_js_include.php:877
+msgid "You must agree with GDPR terms"
+msgstr "คุณต้องยอมรับข้อกำหนดของ GDPR"
+
+#: templates/agency_reviews.php:237 templates/agent_reviews.php:213
+#: templates/developer_reviews.php:217 templates/property_reviews.php:237
+msgid "You need to "
+msgstr "คุณต้อง"
+
+#: libs/css_js_include.php:771
+msgid "You need to agree with terms and conditions !"
+msgstr "คุณต้องยอมรับข้อกำหนดในการให้บริการ!"
+
+#: libs/css_js_include.php:866
+msgid "You need to upload at last one image"
+msgstr "คุณต้องอัปโหลดภาพสุดท้าย"
+
+#: templates/dashboard-templates/add_new_agent.php:22
+#: templates/dashboard-templates/user_menu.php:10
+#: templates/dashboard-templates/user_profile_agency.php:296
+#: templates/dashboard-templates/user_profile_agent.php:405
+#: templates/dashboard-templates/user_profile_developer.php:295
+msgid "Your account is disabled."
+msgstr "บัญชีของคุณถูกปิดใช้งาน"
+
+#: templates/dashboard-templates/add_new_agent.php:19
+#: templates/dashboard-templates/user_menu.php:7
+#: templates/dashboard-templates/user_profile_agency.php:293
+#: templates/dashboard-templates/user_profile_agent.php:402
+#: templates/dashboard-templates/user_profile_developer.php:292
+msgid "Your account is pending approval. Please wait for admin to approve it. "
+msgstr "บัญชีของคุณกำลังรอการอนุมัติ โปรดรอให้ผู้ดูแลระบบอนุมัติ"
+
+#: libs/ajax_functions.php:2869
+msgid "Your account was created and you can login now!"
+msgstr "บัญชีของคุณถูกสร้างและคุณสามารถเข้าสู่ระบบได้ทันที!"
+
+#: libs/css_js_include.php:750
+msgid "Your Address"
+msgstr "ที่อยู่ของคุณ"
+
+#: zillow_estimate_page.php:41
+msgid "Your address field is empty!"
+msgstr "ฟิลด์ที่อยู่ของคุณว่างเปล่า!"
+
+#: libs/css_js_include.php:751
+msgid "Your City"
+msgstr "เมืองของคุณ"
+
+#: functions.php:389
+msgid "Your comment is awaiting moderation."
+msgstr "ความคิดเห็นของคุณกำลังรอการกลั่นกรอง"
+
+#: crm_functions/crm_functions.php:311
+msgid "Your Contacts"
+msgstr "ผู้ติดต่อของคุณ"
+
+#: libs/dashboard_widgets.php:17
+msgid "Your Current Colors"
+msgstr "สีปัจจุบันของคุณ"
+
+#: libs/dashboard_widgets.php:6
+msgid "Your Current Logo"
+msgstr "โลโก้ปัจจุบันของคุณ"
+
+#: front_property_submit.php:201 templates/front_end_submission.php:60
+msgid ""
+"Your current package doesn't let you publish more properties! You need to "
+"upgrade your membership."
+msgstr ""
+"แพคเกจปัจจุบันของคุณไม่อนุญาตให้คุณเผยแพร่คุณสมบัติเพิ่มเติม! "
+"คุณต้องอัปเกรดสมาชิกภาพของคุณ"
+
+#: libs/css_js_include.php:747 libs/css_js_include.php:754
+#: libs/css_js_include.php:843 libs/css_js_include.php:847
+#: templates/agent_contact.php:87 templates/footer_buttons.php:18
+msgid "Your Email"
+msgstr "อีเมลของคุณ"
+
+#: comments.php:60
+msgid "Your email address will not be published.  "
+msgstr "ที่อยู่อีเมลของคุณจะไม่ถูกเผยแพร่"
+
+#: libs/listing_functions.php:933 libs/listing_functions.php:942
+#: libs/listing_functions.php:963 libs/listing_functions.php:972
+#: libs/listing_functions.php:981
+msgid "Your energy class "
+msgstr "ระดับพลังงานของคุณ"
+
+#: libs/listing_functions.php:951 libs/listing_functions.php:954
+msgid "Your energy class is"
+msgstr "ระดับพลังงานของคุณคือ"
+
+#: libs/listing_functions.php:924 libs/listing_functions.php:927
+#: libs/listing_functions.php:936 libs/listing_functions.php:945
+#: libs/listing_functions.php:960 libs/listing_functions.php:969
+#: libs/listing_functions.php:978 libs/listing_functions.php:987
+#: libs/listing_functions.php:990 libs/listing_functions.php:996
+#: libs/listing_functions.php:999
+msgid "Your energy class is "
+msgstr "ระดับพลังงานของคุณคือ"
+
+#: crm_functions/crm_functions.php:359
+msgid "Your Leads/Deals"
+msgstr "โอกาสในการขาย/ข้อเสนอของคุณ"
+
+#: libs/css_js_include.php:749 libs/css_js_include.php:756
+#: libs/css_js_include.php:845 libs/css_js_include.php:849
+msgid "Your Message"
+msgstr "ข้อความของคุณ"
+
+#: libs/dashboard_functions.php:281
+msgid "Your most Popular Listings"
+msgstr "รายการยอดนิยมของคุณ"
+
+#: libs/dashboard_functions.php:534
+msgid "Your most visited Listings"
+msgstr "รายชื่อที่คุณเข้าชมมากที่สุด"
+
+#: libs/css_js_include.php:746 libs/css_js_include.php:753
+#: libs/css_js_include.php:842 libs/css_js_include.php:846
+#: templates/agent_contact.php:85 templates/footer_buttons.php:17
+msgid "Your Name"
+msgstr "ชื่อของคุณ"
+
+#: functions.php:544
+msgid "Your new password for the account at:"
+msgstr "รหัสผ่านใหม่สำหรับบัญชีที่:"
+
+#: libs/dashboard_widgets.php:388
+msgid "Your Payment system is in LIVE mode."
+msgstr "ระบบการชำระเงินของคุณอยู่ในโหมด LIVE"
+
+#: libs/dashboard_widgets.php:386
+msgid "Your Payment system is in SANDBOX mode."
+msgstr "ระบบการชำระเงินของคุณอยู่ในโหมด SANDBOX"
+
+#: libs/css_js_include.php:748 libs/css_js_include.php:755
+#: libs/css_js_include.php:844 libs/css_js_include.php:848
+#: templates/agent_contact.php:88 templates/footer_buttons.php:19
+msgid "Your Phone"
+msgstr "โทรศัพท์ของคุณ"
+
+#: functions.php:118
+msgid "Your PHP version is "
+msgstr "เวอร์ชั่น PHP ของคุณคือ"
+
+#: templates/agency_reviews.php:192 templates/agent_reviews.php:169
+#: templates/developer_reviews.php:172 templates/property_reviews.php:191
+msgid "Your Rating & Review"
+msgstr "การให้คะแนนและความเห็นของคุณ"
+
+#: templates/agency_reviews.php:212 templates/agent_reviews.php:189
+#: templates/developer_reviews.php:192 templates/property_reviews.php:211
+msgid "Your Review"
+msgstr "รีวิวของคุณ"
+
+#: templates/ajax_container.php:2
+msgid "Your search results"
+msgstr "ผลการค้นหาของคุณ"
+
+#: libs/css_js_include.php:752
+msgid "Your State Code (ex CA)"
+msgstr "รหัสประเทศของคุณ (เช่น TH)"
+
+#. Template Name of the theme
+msgid "Zillow Estimate"
+msgstr "Zillow Estimate"
+
+#: libs/listing_functions.php:666 libs/listing_functions.php:717
+msgid "Zip"
+msgstr "รหัสไปรษณีย์"
+
+#: compare_listings.php:123
+msgid "zip"
+msgstr "รหัสไปรษณีย์"
+
+#: templates/submit_templates/property_location.php:230
+msgid "Zip "
+msgstr "รหัสไปรษณีย์"
